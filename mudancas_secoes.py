@@ -135,16 +135,14 @@ def afetados(mudancas, idx):
             c[0] += 1
             c[1] += eleit
         a["secoes"].append((uf, v1[3], int(zona), int(secao), eleit))
-        for papel, v in (("origem", v1), ("destino", v2)):
-            l = a["locais"].setdefault((uf, cd, v[0], norm(v[4])), [v[3], v[4], set(), 0])
-            l[2].add(papel)
-            e = a["ends"].setdefault((uf, cd, v[1], v[2]), [v[3], v[5], v[2], set(), 0])
-            e[3].add(papel)
-        # conta a seção uma vez por local/endereço (origem e destino distintos)
-        for k in {(uf, cd, v1[0], norm(v1[4])), (uf, cd, v2[0], norm(v2[4]))}:
-            a["locais"][k][3] += 1
-        for k in {(uf, cd, v1[1], v1[2]), (uf, cd, v2[1], v2[2])}:
-            a["ends"][k][4] += 1
+        # removidas = seções que saíram do local/endereço (1º turno);
+        # novas = seções que passaram a votar nele (2º turno)
+        for pos, v in ((2, v1), (3, v2)):
+            l = a["locais"].setdefault((uf, cd, v[0], norm(v[4])), [v[3], v[4], 0, 0])
+            l[pos] += 1
+        for pos, v in ((3, v1), (4, v2)):
+            e = a["ends"].setdefault((uf, cd, v[1], v[2]), [v[3], v[5], v[2], 0, 0])
+            e[pos] += 1
     return a
 
 
@@ -158,11 +156,7 @@ def tabela(cabecalho, alinh, linhas):
 
 def val(d, k, i):
     """Valor formatado de d[k][i], ou '–' se k não é afetado por esse critério."""
-    return br(d[k][i]) if k in d else "–"
-
-
-def papeis(d, k, i):
-    return "/".join(sorted(d[k][i])) if k in d else "–"
+    return br(d[k][i]) if k in d and d[k][i] else "–"
 
 
 def gerar_arquivos(resultados, saida):
@@ -189,7 +183,8 @@ def gerar_arquivos(resultados, saida):
               "(1º turno) e os de destino (2º turno). Um local é identificado por "
               "NR_LOCAL_VOTACAO + nome (o mesmo número pode designar locais "
               "diferentes nos dois turnos); um endereço, por endereço normalizado "
-              "+ CEP.\n")
+              "+ CEP. ENDERECOS.md cobre só o critério \"mudou endereço\"; por isso o "
+              "número de endereços do critério NR_LOCAL_VOTACAO não tem link.\n")
         for (_, _, desc), k in zip(BASES, (0, 1)):
             print(f"## Critério: {desc}\n")
             linhas = []
@@ -198,8 +193,11 @@ def gerar_arquivos(resultados, saida):
                 vals = (len(a["ufs"]), len(a["muns"]), len(a["zonas"]),
                         len(a["secoes"]), a["eleitores"], len(a["locais"]),
                         len(a["ends"]))
-                linhas.append((ano, *(f"[{br(x)}]({arq}#{ano})"
-                                      for x, arq in zip(vals, ARQUIVOS))))
+                # ENDERECOS.md só lista o critério "mudou endereço"
+                linhas.append((ano, *(
+                    br(x) if arq == "ENDERECOS.md" and k == 0
+                    else f"[{br(x)}]({arq}#{ano})"
+                    for x, arq in zip(vals, ARQUIVOS))))
             tabela(["Ano", "UFs", "Municípios", "Zonas", "Seções", "Eleitores",
                     "Locais", "Endereços"], "l" + "r" * 7, linhas)
         print("Listas detalhadas por ano: [UFS](UFS.md), [MUNICIPIOS](MUNICIPIOS.md), [ZONAS](ZONAS.md), "
@@ -273,17 +271,26 @@ def gerar_arquivos(resultados, saida):
                  ["UF", "Município", "NR_LOCAL", "Local"], "llrl",
                  lambda k, a, b: [k[0], cel(info(k, a, b)[0]), k[2], cel(info(k, a, b)[1])],
                  lambda k, a, b: (k[0], info(k, a, b)[0], int(k[2])),
-                 ["Papel (NR)", "Papel (End.)", "Seções (NR)", "Seções (End.)"], "llrr",
-                 lambda a, b, k: (papeis(a, k, 2), papeis(b, k, 2), val(a, k, 3), val(b, k, 3)))
+                 ["Seções removidas (NR)", "Seções removidas (End.)",
+                  "Seções novas (NR)", "Seções novas (End.)"], "rrrr",
+                 lambda a, b, k: (val(a, k, 2), val(b, k, 2), val(a, k, 3), val(b, k, 3)))
 
     def enderecos():
-        por_item("Endereços", "ends",
-                 ["UF", "Município", "Endereço", "CEP"], "lllr",
-                 lambda k, a, b: [k[0], cel(info(k, a, b)[0]), cel(info(k, a, b)[1]),
-                                  info(k, a, b)[2]],
-                 lambda k, a, b: (k[0], info(k, a, b)[0], info(k, a, b)[1]),
-                 ["Papel (NR)", "Papel (End.)", "Seções (NR)", "Seções (End.)"], "llrr",
-                 lambda a, b, k: (papeis(a, k, 3), papeis(b, k, 3), val(a, k, 4), val(b, k, 4)))
+        print("# Endereços afetados, por ano\n")
+        print("Endereços (normalizados + CEP) de seções que mudaram de endereço "
+              "(critério: endereço normalizado E CEP diferentes). Removidas = seções "
+              "que votavam nele no 1º turno e saíram; novas = seções que passaram a "
+              "votar nele no 2º turno.\n")
+        for ano in por_ano:
+            ends = agg[ano][1]["ends"]
+            print(f"## {ano}\n")
+            print(f"Endereços: {br(len(ends))}\n")
+            tabela(["UF", "Município", "Endereço", "CEP", "Seções removidas",
+                    "Seções novas"], "lllrrr",
+                   [(k[0], cel(e[0]), cel(e[1]), e[2], br(e[3]) if e[3] else "–",
+                     br(e[4]) if e[4] else "–")
+                    for k, e in sorted(ends.items(),
+                                       key=lambda x: (x[0][0], x[1][0], x[1][1]))])
 
     def eleitores():
         print("# Eleitores afetados, por ano\n")
