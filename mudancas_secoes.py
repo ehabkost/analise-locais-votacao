@@ -197,8 +197,9 @@ def gerar_arquivos(resultados, saida):
                     len(a["ends"])))))
             tabela(["Ano", "UFs", "Municípios", "Zonas", "Seções", "Eleitores",
                     "Locais", "Endereços"], "l" + "r" * 7, linhas)
-        print("Listas detalhadas por ano: `UFS.md`, `MUNICIPIOS.md`, `ZONAS.md`, "
-              "`SECOES.md`, `ELEITORES.md`, `LOCAIS.md`, `ENDERECOS.md`.")
+        print("Listas detalhadas por ano: [UFS](UFS.md), [MUNICIPIOS](MUNICIPIOS.md), [ZONAS](ZONAS.md), "
+              "[SECOES](SECOES.md), [ELEITORES](ELEITORES.md), [LOCAIS](LOCAIS.md), "
+              "[ENDERECOS](ENDERECOS.md).")
 
     def por_item(titulo, chave, cab, alinh, ident, ordem, extra, ealinh, linha_extra):
         """Arquivo com uma seção por ano para os itens de a[chave]."""

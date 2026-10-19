@@ -30,4 +30,4 @@ Eleitores = soma de `QT_ELEITOR_SECAO` (1º turno) das seções afetadas. Locais
 | 2024 | 8 | 9 | 13 | 146 | 50.015 | 46 | 49 |
 | 2026 | 21 | 108 | 120 | 933 | 282.814 | 387 | 390 |
 
-Listas detalhadas por ano: `UFS.md`, `MUNICIPIOS.md`, `ZONAS.md`, `SECOES.md`, `ELEITORES.md`, `LOCAIS.md`, `ENDERECOS.md`.
+Listas detalhadas por ano: [UFS](UFS.md), [MUNICIPIOS](MUNICIPIOS.md), [ZONAS](ZONAS.md), [SECOES](SECOES.md), [ELEITORES](ELEITORES.md), [LOCAIS](LOCAIS.md), [ENDERECOS](ENDERECOS.md).
