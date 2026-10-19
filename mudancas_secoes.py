@@ -108,8 +108,20 @@ def listar_md(ano, mudancas):
     print("| UF | Município | Zona | Seção | Eleitores | NR_LOCAL 1º→2º | NR | End. "
           "| Local 1º turno | Endereço 1º turno | Local 2º turno | Endereço 2º turno |")
     print("|---|---|---:|---:|---:|---|:-:|:-:|---|---|---|---|")
-    for (uf, _, zona, secao), nr, end, v1, v2 in mudancas:
-        print(f"| {uf} | {cel(v1[3])} | {zona} | {secao} | {br(v1[6])} | {v1[0]}→{v2[0]} "
+    visto = set()
+
+    def ancora(*partes):
+        # âncora HTML na primeira linha de cada UF / município / zona, para os
+        # links das outras tabelas (ids em minúsculas)
+        id_ = "-".join(str(p) for p in (ano, *partes)).lower()
+        if id_ in visto:
+            return ""
+        visto.add(id_)
+        return f'<a id="{id_}"></a>'
+
+    for (uf, cd, zona, secao), nr, end, v1, v2 in mudancas:
+        a = ancora(uf) + ancora(uf, cd) + ancora(uf, f"z{int(zona)}")
+        print(f"| {a}{uf} | {cel(v1[3])} | {zona} | {secao} | {br(v1[6])} | {v1[0]}→{v2[0]} "
               f"| {'✓' if nr else ''} | {'✓' if end else ''} "
               f"| {cel(v1[4])} | {cel(v1[5])} | {cel(v2[4])} | {cel(v2[5])} |")
 
@@ -178,7 +190,25 @@ def gerar_arquivos(resultados, saida):
     aviso = ("Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério "
              "mudou endereço. `–` = não afetado por aquele critério.\n")
 
+    ctx = {"ano": None, "visto": set()}
+
+    def id_(*partes):
+        return "-".join(str(p) for p in (ctx["ano"], *partes)).lower()
+
+    def anc(*partes):
+        """Âncora HTML na primeira ocorrência do id em cada arquivo."""
+        i = id_(*partes)
+        if i in ctx["visto"]:
+            return ""
+        ctx["visto"].add(i)
+        return f'<a id="{i}"></a>'
+
+    def lk(txt, arq, *partes):
+        """Link para a âncora (ano, *partes) em arq; '–' fica sem link."""
+        return txt if txt == "–" else f"[{txt}]({arq}#{id_(*partes)})"
+
     def escrever(nome, fn):
+        ctx["visto"] = set()
         with open(os.path.join(saida, nome), "w", encoding="utf-8") as f, \
                 contextlib.redirect_stdout(f):
             fn()
@@ -219,6 +249,7 @@ def gerar_arquivos(resultados, saida):
         print(aviso)
         for ano in por_ano:
             nr, en = agg[ano]
+            ctx["ano"] = ano
             print(f"## {ano}\n")
             print(f"{titulo}: {br(len(nr[chave]))} por NR_LOCAL_VOTACAO, "
                   f"{br(len(en[chave]))} por endereço\n")
@@ -234,8 +265,14 @@ def gerar_arquivos(resultados, saida):
     def info(k, dnr, den):
         return dnr[k] if k in dnr else den[k]
 
-    def secoes_eleit(dnr, den, k):
-        return (val(dnr, k, 0), val(den, k, 0), val(dnr, k, 1), val(den, k, 1))
+    def secoes_eleit(parte):
+        """Colunas de seções/eleitores, com link para a primeira seção do item
+        em SECOES.md; parte(k) dá o id (sem o ano) dentro de SECOES.md."""
+        def f(dnr, den, k):
+            p = parte(k)
+            return tuple(lk(val(d, k, i), "SECOES.md", *p)
+                         for i in (0, 1) for d in (dnr, den))
+        return f
 
     SE = ["Seções (NR)", "Seções (End.)", "Eleitores (NR)", "Eleitores (End.)"]
 
@@ -244,6 +281,7 @@ def gerar_arquivos(resultados, saida):
         print(aviso)
         for ano in por_ano:
             nr, en = agg[ano]
+            ctx["ano"] = ano
             print(f"## {ano}\n")
             print(f"UFs: {br(len(nr['ufs']))} por NR_LOCAL_VOTACAO, "
                   f"{br(len(en['ufs']))} por endereço\n")
@@ -263,22 +301,23 @@ def gerar_arquivos(resultados, saida):
                 -(ce[u][2] if u in ce else 0), -(cn[u][2] if u in cn else 0), u))
             for uf in ordem:
                 linha = [uf]
-                for i in range(3):
-                    linha += [br(cn[uf][i]) if uf in cn else "–",
-                              br(ce[uf][i]) if uf in ce else "–"]
+                for i, arq in enumerate(("MUNICIPIOS.md", "ZONAS.md", "SECOES.md")):
+                    linha += [lk(br(c[uf][i]) if uf in c else "–", arq, uf)
+                              for c in (cn, ce)]
                 linhas.append(linha)
             tabela(["UF", "Municípios (NR)", "Municípios (End.)", "Zonas (NR)",
                     "Zonas (End.)", "Seções (NR)", "Seções (End.)"], "lrrrrrr", linhas)
 
     def muns():
         por_item("Municípios", "muns", ["UF", "Município"], "ll",
-                 lambda k, a, b: [k[0], cel(k[2])], lambda k, a, b: (k[0], k[2]),
-                 SE, "rrrr", secoes_eleit)
+                 lambda k, a, b: [anc(k[0]) + k[0], cel(k[2])],
+                 lambda k, a, b: (k[0], k[2]),
+                 SE, "rrrr", secoes_eleit(lambda k: (k[0], k[1])))
 
     def zonas():
         por_item("Zonas eleitorais", "zonas", ["UF", "Zona"], "lr",
-                 lambda k, a, b: [k[0], k[1]], lambda k, a, b: k,
-                 SE, "rrrr", secoes_eleit)
+                 lambda k, a, b: [anc(k[0]) + k[0], k[1]], lambda k, a, b: k,
+                 SE, "rrrr", secoes_eleit(lambda k: (k[0], f"z{k[1]}")))
 
     def locais():
         por_item("Locais de votação", "locais",
@@ -287,7 +326,9 @@ def gerar_arquivos(resultados, saida):
                  lambda k, a, b: (k[0], info(k, a, b)[0], int(k[2])),
                  ["Seções removidas (NR)", "Seções removidas (End.)",
                   "Seções novas (NR)", "Seções novas (End.)"], "rrrr",
-                 lambda a, b, k: (val(a, k, 2), val(b, k, 2), val(a, k, 3), val(b, k, 3)))
+                 lambda a, b, k: tuple(
+                     lk(val(d, k, i), "SECOES.md", k[0], k[1])
+                     for i in (2, 3) for d in (a, b)))
 
     def enderecos():
         print("# Endereços afetados, por ano\n")
@@ -297,12 +338,14 @@ def gerar_arquivos(resultados, saida):
               "votar nele no 2º turno.\n")
         for ano in por_ano:
             ends = agg[ano][1]["ends"]
+            ctx["ano"] = ano
             print(f"## {ano}\n")
             print(f"Endereços: {br(len(ends))}\n")
             tabela(["UF", "Município", "Endereço", "CEP", "Seções removidas",
                     "Seções novas"], "lllrrr",
-                   [(k[0], cel(e[0]), cel(e[1]), e[2], br(e[3]) if e[3] else "–",
-                     br(e[4]) if e[4] else "–")
+                   [(k[0], cel(e[0]), cel(e[1]), e[2],
+                     lk(br(e[3]) if e[3] else "–", "SECOES.md", k[0], k[1]),
+                     lk(br(e[4]) if e[4] else "–", "SECOES.md", k[0], k[1]))
                     for k, e in sorted(ends.items(), key=lambda x: (
                         -(x[1][3] + x[1][4]), x[0][0], x[1][0], x[1][1]))])
 
@@ -314,6 +357,7 @@ def gerar_arquivos(resultados, saida):
         for ano in por_ano:
             nr, en = agg[ano]
             eleit_uf = por_ano[ano][1]
+            ctx["ano"] = ano
             print(f"## {ano}\n")
             print(f"Eleitores: {br(nr['eleitores'])} por NR_LOCAL_VOTACAO, "
                   f"{br(en['eleitores'])} por endereço\n")
@@ -325,7 +369,8 @@ def gerar_arquivos(resultados, saida):
                 linha = [uf, br(eleit_uf[uf])]
                 for a in (nr, en):
                     el = a["ufs"][uf][1] if uf in a["ufs"] else 0
-                    linha += [br(el), br(100 * el / eleit_uf[uf], 3) + "%"]
+                    linha += [lk(br(el), "SECOES.md", uf) if el else "0",
+                              br(100 * el / eleit_uf[uf], 3) + "%"]
                 linhas.append(linha)
             tabela(["UF", "Eleitorado da UF", "Afetados (NR)", "% (NR)",
                     "Afetados (End.)", "% (End.)"], "lrrrrr", linhas)
