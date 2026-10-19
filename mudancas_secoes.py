@@ -154,6 +154,15 @@ def tabela(cabecalho, alinh, linhas):
     print()
 
 
+# posições das contagens de seções em cada tipo de item afetado
+PESO = {"ufs": (0,), "muns": (0,), "zonas": (0,), "locais": (2, 3), "ends": (3, 4)}
+
+
+def peso(chave, d, k):
+    """Seções afetadas de k em d (0 se k não é afetado por esse critério)."""
+    return sum(d[k][i] for i in PESO[chave]) if k in d else 0
+
+
 def val(d, k, i):
     """Valor formatado de d[k][i], ou '–' se k não é afetado por esse critério."""
     return br(d[k][i]) if k in d and d[k][i] else "–"
@@ -213,8 +222,11 @@ def gerar_arquivos(resultados, saida):
             print(f"## {ano}\n")
             print(f"{titulo}: {br(len(nr[chave]))} por NR_LOCAL_VOTACAO, "
                   f"{br(len(en[chave]))} por endereço\n")
+            # ordena por seções (End.) desc., depois seções (NR) desc.
             chaves = sorted(set(nr[chave]) | set(en[chave]),
-                            key=lambda k: ordem(k, nr[chave], en[chave]))
+                            key=lambda k: (-peso(chave, en[chave], k),
+                                           -peso(chave, nr[chave], k),
+                                           ordem(k, nr[chave], en[chave])))
             tabela(cab + extra, alinh + ealinh,
                    [ident(k, nr[chave], en[chave]) + list(linha_extra(nr[chave], en[chave], k))
                     for k in chaves])
@@ -247,7 +259,9 @@ def gerar_arquivos(resultados, saida):
                 return c
             cn, ce = cont(nr), cont(en)
             linhas = []
-            for uf in sorted(set(cn) | set(ce)):
+            ordem = sorted(set(cn) | set(ce), key=lambda u: (
+                -(ce[u][2] if u in ce else 0), -(cn[u][2] if u in cn else 0), u))
+            for uf in ordem:
                 linha = [uf]
                 for i in range(3):
                     linha += [br(cn[uf][i]) if uf in cn else "–",
@@ -289,8 +303,8 @@ def gerar_arquivos(resultados, saida):
                     "Seções novas"], "lllrrr",
                    [(k[0], cel(e[0]), cel(e[1]), e[2], br(e[3]) if e[3] else "–",
                      br(e[4]) if e[4] else "–")
-                    for k, e in sorted(ends.items(),
-                                       key=lambda x: (x[0][0], x[1][0], x[1][1]))])
+                    for k, e in sorted(ends.items(), key=lambda x: (
+                        -(x[1][3] + x[1][4]), x[0][0], x[1][0], x[1][1]))])
 
     def eleitores():
         print("# Eleitores afetados, por ano\n")
@@ -304,7 +318,10 @@ def gerar_arquivos(resultados, saida):
             print(f"Eleitores: {br(nr['eleitores'])} por NR_LOCAL_VOTACAO, "
                   f"{br(en['eleitores'])} por endereço\n")
             linhas = []
-            for uf in sorted(set(nr["ufs"]) | set(en["ufs"])):
+            ufs_aff = sorted(set(nr["ufs"]) | set(en["ufs"]), key=lambda u: (
+                -(en["ufs"][u][1] if u in en["ufs"] else 0),
+                -(nr["ufs"][u][1] if u in nr["ufs"] else 0), u))
+            for uf in ufs_aff:
                 linha = [uf, br(eleit_uf[uf])]
                 for a in (nr, en):
                     el = a["ufs"][uf][1] if uf in a["ufs"] else 0
