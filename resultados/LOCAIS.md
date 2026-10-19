@@ -2,7 +2,9 @@
 
 Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endereço. `–` = não afetado por aquele critério.
 
-## 2010 - locais de votação (12 por NR_LOCAL_VOTACAO, 34 por endereço)
+## 2010
+
+Locais de votação: 12 por NR_LOCAL_VOTACAO, 34 por endereço
 
 | UF | Município | NR_LOCAL | Local | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---:|---|---|---|---:|---:|
@@ -23,41 +25,43 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PE | MARAIAL | 1279 | ESCOLA ESTADUAL FABIO DA SILVEIRA BARROS | destino | – | 3 | – |
 | PE | PRIMAVERA | 1090 | ESCOLA DE 1º GRAU DR. ARTHUR ORLANDO DE ANDRADE BEZERRA | origem | – | 3 | – |
 | PE | PRIMAVERA | 1112 | PSF IV - POSTO DE SAÚDE DA FAMÍLIA | destino | – | 3 | – |
-| PE | RECIFE | 1503 | FACULDADE SANTA HELENA | – | origem | – | 9 |
 | PE | RECIFE | 1503 | CFI - COLÉGIO DE FORMAÇÃO INTEGRAL | – | destino | – | 9 |
+| PE | RECIFE | 1503 | FACULDADE SANTA HELENA | – | origem | – | 9 |
 | PE | RIBEIRÃO | 1031 | CENTRO DE EDUCACAO RURAL JOAO LOPES DE SIQUEIRA SANTOS | destino | – | 2 | – |
 | PE | RIBEIRÃO | 1325 | EXTENSÃO DA ESCOLA MUNICIPAL HENRIQUE DE BARROS E SILVA | origem | – | 2 | – |
-| PI | AMARANTE | 1139 | UNIDADE ESCOLAR PRESIDENTE VARGAS | – | origem | – | 1 |
 | PI | AMARANTE | 1139 | PRÉDIO DA ASSOCIAÇÃO DE SALOBRO II | – | destino | – | 1 |
+| PI | AMARANTE | 1139 | UNIDADE ESCOLAR PRESIDENTE VARGAS | – | origem | – | 1 |
 | PR | ORTIGUEIRA | 1082 | ESCOLA ANTONIO RUPEL | – | origem | – | 6 |
 | PR | ORTIGUEIRA | 1082 | ESCOLA TANCREDO NEVES | – | destino | – | 6 |
 | RJ | NITERÓI | 1031 | ESCOLA MUNCIPAL PROF PAULO FREIRE | – | destino | – | 7 |
 | RJ | NITERÓI | 1031 | COLEGIO SEBASTIANA PINHO | – | origem | – | 7 |
 | RJ | RIO DE JANEIRO | 1163 | ESCOLA BERNARDO VASCONCELOS | – | origem | – | 4 |
+| RJ | RIO DE JANEIRO | 1163 | 28º GBM - GRUPAMENTO DE BOMBEIROS MILITAR | – | destino | – | 4 |
 | RJ | RIO DE JANEIRO | 1163 | CENTRO EDUCACIONAL SOUZA AMORIM | – | destino | – | 9 |
 | RJ | RIO DE JANEIRO | 1163 | CASA DE SHOW OLIMPO | – | origem | – | 9 |
-| RJ | RIO DE JANEIRO | 1163 | 28º GBM - GRUPAMENTO DE BOMBEIROS MILITAR | – | destino | – | 4 |
-| RJ | RIO DE JANEIRO | 1287 | UNIBANCO | – | origem | – | 7 |
 | RJ | RIO DE JANEIRO | 1287 | BANCO DE BRASIL | – | destino | – | 7 |
-| RO | OURO PRETO DO OESTE | 1104 | ESCOLA ADVENTISTA | – | origem | – | 6 |
+| RJ | RIO DE JANEIRO | 1287 | UNIBANCO | – | origem | – | 7 |
 | RO | OURO PRETO DO OESTE | 1104 | ESCOLA ESTADUAL DE ENSINO FUNDAMENTAL JOAQUIM NABUCO | – | destino | – | 6 |
+| RO | OURO PRETO DO OESTE | 1104 | ESCOLA ADVENTISTA | – | origem | – | 6 |
 | RS | SANTA MARIA | 1350 | INSTITUTO ESTADUAL LUIZ GUILHERME DO PRADO VEPPO | – | destino | – | 4 |
 | RS | SANTA MARIA | 1350 | ESCOLA MUNICIPAL IONE PARCIANELLO | – | origem | – | 4 |
-| RS | SANTA MARIA | 1422 | ESCOLA ESTADUAL DE ENSINO FUNDAMENTAL MARECHAL RONDON | – | destino | – | 5 |
 | RS | SANTA MARIA | 1422 | CENTRO COMUNITÁRIO DA VILA KENNEDY | – | origem | – | 5 |
+| RS | SANTA MARIA | 1422 | ESCOLA ESTADUAL DE ENSINO FUNDAMENTAL MARECHAL RONDON | – | destino | – | 5 |
 | SE | ARACAJU | 1074 | AMADEUS, COLÉGIO | destino | destino | 1 | 1 |
 | SE | ARACAJU | 1970 | CARLOS CARMÉLIO COSTA, ESCOLA ESTADUAL MONSENHOR | origem | origem | 1 | 1 |
 | SP | ARAÇATUBA | 2038 | EE PROF ARY BOCUHY | – | destino/origem | – | 4 |
-| SP | VALINHOS | 1031 | ASSOCIAÇÃO LEMENSE DE EDUCAÇÃO E CULTURA - FAV | – | destino | – | 10 |
 | SP | VALINHOS | 1031 | EMEF PADRE LEOPOLDO PETRUS VON LIEMPT | – | origem | – | 10 |
+| SP | VALINHOS | 1031 | ASSOCIAÇÃO LEMENSE DE EDUCAÇÃO E CULTURA - FAV | – | destino | – | 10 |
 
-## 2012 - locais de votação (84 por NR_LOCAL_VOTACAO, 75 por endereço)
+## 2012
+
+Locais de votação: 84 por NR_LOCAL_VOTACAO, 75 por endereço
 
 | UF | Município | NR_LOCAL | Local | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---:|---|---|---|---:|---:|
 | BA | SALVADOR | 1015 | ESCOLA ÚRSULA CATARINO | destino | destino | 4 | 4 |
-| BA | SALVADOR | 1031 | ESCOLA MUNICIPAL CASA DA AMIZADE | destino | destino | 8 | 8 |
 | BA | SALVADOR | 1031 | ESCOLA MACHADO DE ASSIS | destino | destino | 3 | 3 |
+| BA | SALVADOR | 1031 | ESCOLA MUNICIPAL CASA DA AMIZADE | destino | destino | 8 | 8 |
 | BA | SALVADOR | 1058 | COLÉGIO ESTADUAL PRAIA GRANDE | origem | – | 8 | – |
 | BA | SALVADOR | 1074 | ESCOLA DE 1º GRAU SANTA BÁRBARA | destino | destino | 2 | 2 |
 | BA | SALVADOR | 1090 | CENTRO SOCIAL DA PARÓQUIA SÃO JORGE | origem | origem | 2 | 2 |
@@ -144,7 +148,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | SÃO PAULO | 1031 | COLÉGIO CAMPOS SALLES | origem | – | 13 | – |
 | SP | SÃO PAULO | 1058 | EE. PEREIRA BARRETO | destino | – | 13 | – |
 
-## 2014 - locais de votação (180 por NR_LOCAL_VOTACAO, 72 por endereço)
+## 2014
+
+Locais de votação: 180 por NR_LOCAL_VOTACAO, 72 por endereço
 
 | UF | Município | NR_LOCAL | Local | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---:|---|---|---|---:|---:|
@@ -243,8 +249,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PI | SANTA CRUZ DOS MILAGRES | 1031 | UNIDADE ESCOLAR MANOEL PORTELA | destino | – | 7 | – |
 | PI | SÃO FRANCISCO DO PIAUÍ | 1015 | GRUPO ESCOLAR MARIO COELHO | origem | origem | 3 | 3 |
 | PI | SÃO FRANCISCO DO PIAUÍ | 1198 | UNIDADE ESCOLAR MARTINHO MENDES DE CARVALHO | destino | destino | 3 | 3 |
-| PI | TERESINA | 1023 | CEB - CENTRO DE EDUCAÇÃO BÁSICA GOVERNADOR FREITAS NETO | destino | destino | 8 | 8 |
 | PI | TERESINA | 1023 | CENTRO DE CIENCIAS DA SAUDE (CCS) | destino | – | 1 | – |
+| PI | TERESINA | 1023 | CEB - CENTRO DE EDUCAÇÃO BÁSICA GOVERNADOR FREITAS NETO | destino | destino | 8 | 8 |
 | PI | TERESINA | 1040 | CIRCULO MILITAR | origem | – | 3 | – |
 | PI | TERESINA | 1066 | COLEGIO SAO FRANCISCO DE SALES (DIOCESANO) | destino | destino | 1 | 1 |
 | PI | TERESINA | 1090 | AGÊNCIA DE DESENVOLVIMENTO HABITACIONAL - ADH | origem | origem | 1 | 1 |
@@ -272,8 +278,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PI | TERESINA | 2305 | UNIDADE ESCOLAR JOEL MENDES | destino | destino | 5 | 5 |
 | PR | ARAPUÃ | 1040 | ESCOLA MUNICIPAL ARDINAL RIBAS | origem | – | 1 | – |
 | PR | ARAPUÃ | 1120 | ESCOLA RURAL PAPA JOAO XXIII (BAIRRO DOS KURTEN) | destino | – | 1 | – |
-| RJ | RIO DE JANEIRO | 1163 | COLÉGIO ESTADUAL PROFESSOR MANUEL MAURÍCIO DE ALBUQUERQUE | – | destino | – | 12 |
 | RJ | RIO DE JANEIRO | 1163 | CIEP GP-418 - ANTONIO CARLOS BERNARDES (MUSSUM) | – | origem | – | 12 |
+| RJ | RIO DE JANEIRO | 1163 | COLÉGIO ESTADUAL PROFESSOR MANUEL MAURÍCIO DE ALBUQUERQUE | – | destino | – | 12 |
 | RJ | RIO DE JANEIRO | 1872 | ESCOLA EDISON CARNEIRO | – | destino/origem | – | 11 |
 | RN | CARAÚBAS | 1228 | ESCOLA MUNICIPAL PROFESSORA LEONIA GURGEL FERNANDES DE AZEVEDO | origem | – | 4 | – |
 | RN | CARAÚBAS | 1325 | ESCOLA MUNICIPAL GISELDA FERNANDES SOARES | destino | – | 4 | – |
@@ -314,8 +320,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SE | LARANJEIRAS | 1015 | CAIC CORONEL JOSE SIZINO DA ROCHA | destino/origem | – | 6 | – |
 | SE | LARANJEIRAS | 1210 | ALCINO MANOEL PRUDENTE, ESCOLA MUNICIPAL | destino/origem | – | 6 | – |
 | SP | FRANCA | 1341 | EMEB. PROFESSORA LUZINETE CORTEZ BALIEIRO | – | destino/origem | – | 3 |
-| SP | SÃO JOSÉ DO RIO PRETO | 1511 | E.M. PROFª CARMEN NELITA ANSELMO VETTORAZZO | – | destino | – | 1 |
 | SP | SÃO JOSÉ DO RIO PRETO | 1511 | NÚCLEO DA ESPERANÇA - ALVORADA FUNDAMENTAL | – | origem | – | 1 |
+| SP | SÃO JOSÉ DO RIO PRETO | 1511 | E.M. PROFª CARMEN NELITA ANSELMO VETTORAZZO | – | destino | – | 1 |
 | TO | ANGICO | 1015 | COLÉGIO ESTADUAL DULCE COELHO DE SOUSA | origem | – | 2 | – |
 | TO | ANGICO | 1023 | COLÉGIO ESTADUAL DULCE COELHO DE SOUSA | destino | – | 2 | – |
 | TO | GURUPI | 1031 | CENTRO UNIVERSITÁRIO-UNIRG - ANTIGO PIONEIROS MIRINS | origem | origem | 5 | 5 |
@@ -339,14 +345,16 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | TO | TOCANTINÓPOLIS | 1201 | ESCOLA REUNIDA 07 DE SETEMBRO | origem | – | 1 | – |
 | TO | TOCANTINÓPOLIS | 1295 | ESCOLA MUNICIPAL NOVO AEROPORTO | destino | – | 1 | – |
 
-## 2016 - locais de votação (450 por NR_LOCAL_VOTACAO, 428 por endereço)
+## 2016
+
+Locais de votação: 450 por NR_LOCAL_VOTACAO, 428 por endereço
 
 | UF | Município | NR_LOCAL | Local | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---:|---|---|---|---:|---:|
 | AL | MACEIÓ | 1074 | ESCOLA DE ENSINO FUNDAMENTAL ARNON AFFONSO DE FARIAS MELLO | destino | destino | 9 | 9 |
 | AL | MACEIÓ | 1090 | ESCOLA DE ENSINO FUNDAMENTAL KATIA PIMENTEL ASSUNCAO | destino | destino | 8 | 8 |
-| AL | MACEIÓ | 1163 | ESCOLA ESTADUAL LADISLAU NETO | destino | destino | 7 | 7 |
 | AL | MACEIÓ | 1163 | ESCOLA DE ENSINO FUNDAMENTAL NOSSO LAR I | origem | origem | 6 | 6 |
+| AL | MACEIÓ | 1163 | ESCOLA ESTADUAL LADISLAU NETO | destino | destino | 7 | 7 |
 | AL | MACEIÓ | 1430 | ESCOLA DE ENSINO FUNDAMENTAL LENILTON ALVES SANTOS | destino | destino | 9 | 9 |
 | AL | MACEIÓ | 1449 | FACULDADE MAURICIO DE NASSAU - ANEXO II (ANTIGO COLEGIO MAIS) | destino | destino | 5 | 5 |
 | AL | MACEIÓ | 1520 | ESCOLA PROFESSOR RANILSON FRANÇA | destino | destino | 6 | 6 |
@@ -415,100 +423,100 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PE | RECIFE | 1481 | ESCOLA MUNICIPAL LUIZ LUA GONZAGA | destino | destino | 3 | 3 |
 | PE | RECIFE | 1600 | FACULDADE CEAGRI II | destino | destino | 11 | 11 |
 | PE | RECIFE | 1775 | DEPARTAMENTO DE HOTELARIA E TURISMO | destino | – | 11 | – |
-| PR | CURITIBA | 1015 | ESCOLA ESTADUAL MANOEL RIBAS | origem | origem | 6 | 6 |
 | PR | CURITIBA | 1015 | ESCOLA ESTADUAL GOTTLIEB MUELLER | origem | origem | 10 | 10 |
+| PR | CURITIBA | 1015 | ESCOLA ESTADUAL MANOEL RIBAS | origem | origem | 6 | 6 |
 | PR | CURITIBA | 1023 | ESCOLA ESTADUAL REPÚBLICA ORIENTAL DO URUGUAI | origem | origem | 16 | 16 |
-| PR | CURITIBA | 1031 | ESCOLA ESTADUAL PROFESSORA LUIZA ROSS | origem | origem | 13 | 13 |
-| PR | CURITIBA | 1031 | COLÉGIO ESTADUAL PAULO LEMINSKI | origem | origem | 9 | 9 |
 | PR | CURITIBA | 1031 | ESCOLA MADRE ANATOLIA | destino | destino | 8 | 8 |
+| PR | CURITIBA | 1031 | COLÉGIO ESTADUAL PAULO LEMINSKI | origem | origem | 9 | 9 |
+| PR | CURITIBA | 1031 | ESCOLA ESTADUAL PROFESSORA LUIZA ROSS | origem | origem | 13 | 13 |
 | PR | CURITIBA | 1040 | COLÉGIO ESTADUAL PROF. ALCYONE MORAES DE CASTRO VELLOZO | origem | origem | 11 | 11 |
 | PR | CURITIBA | 1040 | PONTIFICIA UNIVERSIDADE CATOLICA | destino | destino | 6 | 6 |
 | PR | CURITIBA | 1040 | ESCOLA ESTADUAL JULIA WANDERLEY | origem | origem | 17 | 17 |
-| PR | CURITIBA | 1058 | ESCOLA MUNICIPAL IRATI | destino | destino | 12 | 12 |
-| PR | CURITIBA | 1058 | COLÉGIO ESTADUAL PROF. BRASILIO VICENTE DE CASTRO | origem | origem | 12 | 12 |
-| PR | CURITIBA | 1058 | ESCOLA MUNICIPAL NOSSA SENHORA DO CARMO | destino | destino | 10 | 10 |
 | PR | CURITIBA | 1058 | ESCOLA ESTADUAL DEZENOVE DE DEZEMBRO | origem | origem | 7 | 7 |
+| PR | CURITIBA | 1058 | ESCOLA MUNICIPAL NOSSA SENHORA DO CARMO | destino | destino | 10 | 10 |
 | PR | CURITIBA | 1058 | ESCOLA ESTADUAL DORACY CEZARINO | origem | origem | 11 | 11 |
-| PR | CURITIBA | 1066 | ESCOLA ESTADUAL PROFESSOR CLETO | origem | origem | 8 | 8 |
+| PR | CURITIBA | 1058 | COLÉGIO ESTADUAL PROF. BRASILIO VICENTE DE CASTRO | origem | origem | 12 | 12 |
+| PR | CURITIBA | 1058 | ESCOLA MUNICIPAL IRATI | destino | destino | 12 | 12 |
 | PR | CURITIBA | 1066 | COLEGIO PROFESSOR VICTOR DO AMARAL | origem | origem | 14 | 14 |
+| PR | CURITIBA | 1066 | ESCOLA ESTADUAL PROFESSOR CLETO | origem | origem | 8 | 8 |
 | PR | CURITIBA | 1066 | COLÉGIO ESTADUAL PROFª DIRCE CELESTINO DO AMARAL | origem | origem | 10 | 10 |
-| PR | CURITIBA | 1074 | COLEGIO ESTADUAL SANTOS DUMONT | origem | origem | 8 | 8 |
 | PR | CURITIBA | 1074 | COLEGIO ESTADUAL MÁXIMO ATÍLIO ASINELLI | origem | origem | 6 | 6 |
+| PR | CURITIBA | 1074 | COLEGIO ESTADUAL SANTOS DUMONT | origem | origem | 8 | 8 |
 | PR | CURITIBA | 1074 | ESCOLA ESTADUAL RIO BRANCO | origem | – | 9 | – |
 | PR | CURITIBA | 1082 | COLEGIO BOM JESUS | destino | destino | 11 | 11 |
-| PR | CURITIBA | 1082 | COLÉGIO ESTADUAL IVO LEAO | origem | origem | 13 | 13 |
 | PR | CURITIBA | 1082 | COLEGIO ESTADUAL PROFESSOR ELYSIO VIANA | origem | origem | 10 | 10 |
-| PR | CURITIBA | 1090 | ESCOLA ESTADUAL PAULINA PACIFICO BORSARI | origem | origem | 9 | 9 |
-| PR | CURITIBA | 1090 | COLEGIO ESTADUAL AVELINO ANTONIO VIEIRA | origem | origem | 16 | 16 |
+| PR | CURITIBA | 1082 | COLÉGIO ESTADUAL IVO LEAO | origem | origem | 13 | 13 |
 | PR | CURITIBA | 1090 | SOCIEDADE THALIA | destino | destino | 7 | 7 |
+| PR | CURITIBA | 1090 | COLEGIO ESTADUAL AVELINO ANTONIO VIEIRA | origem | origem | 16 | 16 |
+| PR | CURITIBA | 1090 | ESCOLA ESTADUAL PAULINA PACIFICO BORSARI | origem | origem | 9 | 9 |
 | PR | CURITIBA | 1104 | ESCOLA ESTADUAL PADRE OLIMPIO DE SOUZA | origem | origem | 11 | 11 |
 | PR | CURITIBA | 1104 | ESCOLA ESTADUAL ISOLDA SCHMIT | origem | origem | 15 | 15 |
-| PR | CURITIBA | 1112 | COLEGIO ESTADUAL SENADOR MANOEL ALENCAR GUIMARAES | origem | origem | 9 | 9 |
+| PR | CURITIBA | 1112 | COLEGIO ESTADUAL PROFESSOR JOSE GUIMARAES | origem | origem | 10 | 10 |
 | PR | CURITIBA | 1112 | COLÉGIO ESTADUAL NATÁLIA REGINATO | origem | origem | 7 | 7 |
 | PR | CURITIBA | 1112 | ESCOLA ESTADUAL HELENA DIONISIO | origem | origem | 5 | 5 |
-| PR | CURITIBA | 1112 | COLEGIO ESTADUAL PROFESSOR JOSE GUIMARAES | origem | origem | 10 | 10 |
+| PR | CURITIBA | 1112 | COLEGIO ESTADUAL SENADOR MANOEL ALENCAR GUIMARAES | origem | origem | 9 | 9 |
+| PR | CURITIBA | 1120 | COLEGIO ESTADUAL LEONCIO CORREIA | origem | origem | 25 | 25 |
 | PR | CURITIBA | 1120 | COLEGIO ESTADUAL HOMERO BAPTISTA DE BARROS | origem | origem | 13 | 13 |
 | PR | CURITIBA | 1120 | ESCOLA ESTADUAL PROFESSOR NILO BRANDÃO | origem | origem | 12 | 12 |
-| PR | CURITIBA | 1120 | COLEGIO ESTADUAL LEONCIO CORREIA | origem | origem | 25 | 25 |
 | PR | CURITIBA | 1120 | ESCOLA ESTADUAL JOAO DE OLIVEIRA FRANCO | origem | origem | 8 | 8 |
-| PR | CURITIBA | 1139 | ESCOLA ESTADUAL DEPUTADO OLÍVIO BELICH | origem | origem | 15 | 15 |
-| PR | CURITIBA | 1139 | COLEGIO ESTADUAL JOAO MAZZAROTTO | origem | origem | 11 | 11 |
 | PR | CURITIBA | 1139 | COLEGIO ESTADUAL JOSE BUSNARDO | origem | origem | 8 | 8 |
+| PR | CURITIBA | 1139 | COLEGIO ESTADUAL JOAO MAZZAROTTO | origem | origem | 11 | 11 |
+| PR | CURITIBA | 1139 | ESCOLA ESTADUAL DEPUTADO OLÍVIO BELICH | origem | origem | 15 | 15 |
+| PR | CURITIBA | 1147 | COLEGIO POSITIVO JUNIOR | destino | destino | 9 | 9 |
 | PR | CURITIBA | 1147 | CEI MAESTRO BENTO MOSSURUNGA | destino | – | 11 | – |
 | PR | CURITIBA | 1147 | ESCOLA MUNICIPAL PREFEITO OMAR SABBAG | destino | destino | 7 | 7 |
-| PR | CURITIBA | 1147 | COLEGIO POSITIVO JUNIOR | destino | destino | 9 | 9 |
 | PR | CURITIBA | 1155 | COLÉGIO ESTADUAL EMILIO DE MENEZES | origem | origem | 13 | 13 |
-| PR | CURITIBA | 1155 | COLEGIO ESTADUAL PROFESSOR GUIDO STRAUB | origem | origem | 11 | 11 |
-| PR | CURITIBA | 1155 | ESCOLA ESTADUAL SANTA ROSA | origem | origem | 9 | 9 |
-| PR | CURITIBA | 1155 | COLEGIO ESTADUAL NEWTON FERREIRA DA COSTA | origem | origem | 11 | 11 |
 | PR | CURITIBA | 1155 | ESCOLA ESTADUAL LUCIA BASTOS | origem | origem | 12 | 12 |
-| PR | CURITIBA | 1163 | CEI - RAOUL WALLEMBERG | destino | destino | 7 | 7 |
+| PR | CURITIBA | 1155 | ESCOLA ESTADUAL SANTA ROSA | origem | origem | 9 | 9 |
+| PR | CURITIBA | 1155 | COLEGIO ESTADUAL PROFESSOR GUIDO STRAUB | origem | origem | 11 | 11 |
+| PR | CURITIBA | 1155 | COLEGIO ESTADUAL NEWTON FERREIRA DA COSTA | origem | origem | 11 | 11 |
 | PR | CURITIBA | 1163 | COLEGIO ESTADUAL ROBERTO LANGER JUNIOR | origem | origem | 14 | 14 |
-| PR | CURITIBA | 1163 | COLÉGIO ESTADUAL SENHORINHA DE MORAES SARMENTO | origem | origem | 24 | 24 |
 | PR | CURITIBA | 1163 | ESCOLA ESTADUAL DOM ATICO EUZEBIO DA ROCHA | origem | origem | 13 | 13 |
+| PR | CURITIBA | 1163 | COLÉGIO ESTADUAL SENHORINHA DE MORAES SARMENTO | origem | origem | 24 | 24 |
 | PR | CURITIBA | 1163 | ESCOLA VICENTINA NOSSA SENHORA DAS MERCES | destino | destino | 11 | 11 |
-| PR | CURITIBA | 1171 | COLEGIO ERASTO GAERTNER | destino | destino | 10 | 10 |
+| PR | CURITIBA | 1163 | CEI - RAOUL WALLEMBERG | destino | destino | 7 | 7 |
 | PR | CURITIBA | 1171 | ESCOLA ESTADUAL OLAVO DEL CLARO | origem | origem | 7 | 7 |
+| PR | CURITIBA | 1171 | COLEGIO ERASTO GAERTNER | destino | destino | 10 | 10 |
 | PR | CURITIBA | 1171 | COLÉGIO ESTADUAL HILDEBRANDO DE ARAÚJO | origem | origem | 13 | 13 |
 | PR | CURITIBA | 1180 | ESCOLA ESTADUAL EUZEBIO DA MOTTA | origem | origem | 14 | 14 |
 | PR | CURITIBA | 1180 | COLÉGIO ESTADUAL DOUTOR FRANCISCO AZEVEDO MACEDO | origem | origem | 19 | 19 |
 | PR | CURITIBA | 1180 | ESCOLA ESTADUAL PADRE SILVESTRE KANDORA | origem | origem | 9 | 9 |
 | PR | CURITIBA | 1198 | ESCOLA ESTADUAL ANGELO TREVISAN | origem | origem | 4 | 4 |
-| PR | CURITIBA | 1201 | COLEGIO ESTADUAL PILAR MATURANA | origem | origem | 15 | 15 |
 | PR | CURITIBA | 1201 | ESCOLA ESTADUAL GUILHERME PEREIRA NETO | origem | origem | 7 | 7 |
+| PR | CURITIBA | 1201 | COLEGIO ESTADUAL PILAR MATURANA | origem | origem | 15 | 15 |
 | PR | CURITIBA | 1201 | ESCOLA ESTADUAL SAO BRAZ | origem | origem | 11 | 11 |
 | PR | CURITIBA | 1210 | ESCOLA ESTADUAL ANGELO VOLPATO | origem | origem | 10 | 10 |
-| PR | CURITIBA | 1210 | COLÉGIO ESTADUAL PROFESSORA MARIA AGUIAR TEIXEIRA | origem | origem | 19 | 19 |
 | PR | CURITIBA | 1210 | COLEGIO ESTADUAL NUCLEO SOCIAL YVONE PIMENTEL | origem | origem | 7 | 7 |
+| PR | CURITIBA | 1210 | COLÉGIO ESTADUAL PROFESSORA MARIA AGUIAR TEIXEIRA | origem | origem | 19 | 19 |
+| PR | CURITIBA | 1228 | ESCOLA ESTADUAL JOAO BETTEGA | origem | origem | 11 | 11 |
 | PR | CURITIBA | 1228 | ESCOLA ESTADUAL POLIVALENTE DE CURITIBA | origem | origem | 10 | 10 |
 | PR | CURITIBA | 1228 | ESCOLA ESTADUAL FRANCISCO ZARDO | origem | origem | 13 | 13 |
-| PR | CURITIBA | 1228 | ESCOLA ESTADUAL JOAO BETTEGA | origem | origem | 11 | 11 |
 | PR | CURITIBA | 1236 | ESCOLA ESTADUAL SANTA FELICIDADE | origem | origem | 7 | 7 |
 | PR | CURITIBA | 1244 | COLEGIO ESTADUAL BOM PASTOR | origem | origem | 12 | 12 |
-| PR | CURITIBA | 1252 | ESCOLA ESTADUAL DONA CAROLA | origem | origem | 8 | 8 |
 | PR | CURITIBA | 1252 | CEEP CENTRO ESTADUAL DE EDUCAÇÃO PROFISSIONAL DE CURITIBA | origem | origem | 10 | 10 |
-| PR | CURITIBA | 1279 | ESCOLA ESTADUAL LAMENHA LINS | origem | origem | 8 | 8 |
-| PR | CURITIBA | 1279 | COLEGIO NOSSA SENHORA DO ROSARIO | destino | destino | 25 | 25 |
+| PR | CURITIBA | 1252 | ESCOLA ESTADUAL DONA CAROLA | origem | origem | 8 | 8 |
 | PR | CURITIBA | 1279 | COLEGIO ESTADUAL RODOLFO ZANINELLI | origem | origem | 13 | 13 |
+| PR | CURITIBA | 1279 | COLEGIO NOSSA SENHORA DO ROSARIO | destino | destino | 25 | 25 |
+| PR | CURITIBA | 1279 | ESCOLA ESTADUAL LAMENHA LINS | origem | origem | 8 | 8 |
 | PR | CURITIBA | 1287 | COLEGIO ESTADUAL SEGISMUNDO FALARZ | origem | origem | 12 | 12 |
-| PR | CURITIBA | 1287 | COLÉGIO ESTADUAL ARLINDO CARVALHO DE AMORIM | origem | origem | 13 | 13 |
 | PR | CURITIBA | 1287 | ESCOLA ESTADUAL PADRE COBALCHINI | origem | origem | 5 | 5 |
+| PR | CURITIBA | 1287 | COLÉGIO ESTADUAL ARLINDO CARVALHO DE AMORIM | origem | origem | 13 | 13 |
 | PR | CURITIBA | 1295 | CEEBJA - CENTRO ESTADUAL DE EDUCAÇÃO BÁSICA PARA JOVENS E ADULTOS | origem | origem | 5 | 5 |
 | PR | CURITIBA | 1295 | COLEGIO ESTADUAL PINHEIRO DO PARANA | origem | origem | 5 | 5 |
-| PR | CURITIBA | 1309 | ESCOLA ESTADUAL GUAIRA | origem | origem | 7 | 7 |
-| PR | CURITIBA | 1309 | ESCOLA ESTADUAL MILTON CARNEIRO | origem | – | 11 | – |
 | PR | CURITIBA | 1309 | COLÉGIO ESTADUAL PROFESSOR ELIAS ABRAHÃO | origem | origem | 7 | 7 |
+| PR | CURITIBA | 1309 | ESCOLA ESTADUAL MILTON CARNEIRO | origem | – | 11 | – |
+| PR | CURITIBA | 1309 | ESCOLA ESTADUAL GUAIRA | origem | origem | 7 | 7 |
 | PR | CURITIBA | 1317 | COLÉGIO BOM JESUS - NOSSA SENHORA DE LOURDES | destino | destino | 7 | 7 |
-| PR | CURITIBA | 1317 | FACULDADE SANTA CRUZ - CAMPUS PEDRO BONAT | destino | destino | 19 | 19 |
-| PR | CURITIBA | 1317 | COLÉGIO ADVENTISTA BOM RETIRO (PARTICULAR) | destino | destino | 8 | 8 |
-| PR | CURITIBA | 1317 | UNICURITIBA | destino | destino | 20 | 20 |
 | PR | CURITIBA | 1317 | COLEGIO ESTADUAL DO PARANA | origem | origem | 16 | 16 |
+| PR | CURITIBA | 1317 | UNICURITIBA | destino | destino | 20 | 20 |
+| PR | CURITIBA | 1317 | COLÉGIO ADVENTISTA BOM RETIRO (PARTICULAR) | destino | destino | 8 | 8 |
+| PR | CURITIBA | 1317 | FACULDADE SANTA CRUZ - CAMPUS PEDRO BONAT | destino | destino | 19 | 19 |
 | PR | CURITIBA | 1325 | FACULDADE DOM BOSCO | destino | destino | 32 | 32 |
-| PR | CURITIBA | 1325 | ESCOLA ESTADUAL TIRADENTES | origem | origem | 5 | 5 |
 | PR | CURITIBA | 1325 | OPET | destino | destino | 9 | 9 |
-| PR | CURITIBA | 1333 | FACULDADE DE FILOSOFIA DA UNIVERSIDADE FEDERAL DO PARANA | origem | origem | 12 | 12 |
-| PR | CURITIBA | 1333 | COLEGIO ESTADUAL SANTO AGOSTINHO | origem | origem | 10 | 10 |
+| PR | CURITIBA | 1325 | ESCOLA ESTADUAL TIRADENTES | origem | origem | 5 | 5 |
 | PR | CURITIBA | 1333 | FACULDADE SANTA CRUZ - CAMPUS SEDE | destino | destino | 18 | 18 |
+| PR | CURITIBA | 1333 | COLEGIO ESTADUAL SANTO AGOSTINHO | origem | origem | 10 | 10 |
+| PR | CURITIBA | 1333 | FACULDADE DE FILOSOFIA DA UNIVERSIDADE FEDERAL DO PARANA | origem | origem | 12 | 12 |
 | PR | CURITIBA | 1341 | FACULDADE DE DIREITO DA UNIVERSIDADE FEDERAL DO PARANA | destino | destino | 5 | 5 |
 | PR | CURITIBA | 1350 | ESCOLA ESTADUAL PROFESSOR LYSIMACO FERREIRA DA COSTA | origem | origem | 15 | 15 |
 | PR | CURITIBA | 1368 | COLEGIO SAGRADO CORACAO DE JESUS | destino | destino | 7 | 7 |
@@ -524,40 +532,40 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PR | CURITIBA | 1406 | REDE MARISTA DE SOLIDARIEDADE | destino | destino | 16 | 16 |
 | PR | CURITIBA | 1414 | ESCOLA ESTADUAL AMANCIO MORO | origem | origem | 15 | 15 |
 | PR | CURITIBA | 1422 | COLEGIO ESTADUAL BENTO MUNHOZ DA ROCHA NETO | origem | origem | 9 | 9 |
-| PR | CURITIBA | 1430 | COLEGIO SAO JOSE | destino | destino | 17 | 17 |
-| PR | CURITIBA | 1430 | INSTITUTO SALESIANO (PARÓQUIA SÃO CRISTÓVÃO) | destino | destino | 8 | 8 |
 | PR | CURITIBA | 1430 | COLÉGIO EXPOENTE | destino | destino | 11 | 11 |
-| PR | CURITIBA | 1449 | COLEGIO ESTADUAL PEDRO MACEDO | origem | origem | 22 | 22 |
+| PR | CURITIBA | 1430 | INSTITUTO SALESIANO (PARÓQUIA SÃO CRISTÓVÃO) | destino | destino | 8 | 8 |
+| PR | CURITIBA | 1430 | COLEGIO SAO JOSE | destino | destino | 17 | 17 |
 | PR | CURITIBA | 1449 | ESCOLA MUNICIPAL DO CAIC CANDIDO PORTINARI | destino | destino | 11 | 11 |
+| PR | CURITIBA | 1449 | COLEGIO ESTADUAL PEDRO MACEDO | origem | origem | 22 | 22 |
 | PR | CURITIBA | 1449 | CEDUCA - CENTRO DE EDUCAÇÃO CRISTÃ ACADÊMICA | destino | destino | 8 | 8 |
-| PR | CURITIBA | 1457 | ESCOLA ESTADUAL PROFESSORA MARIA HELOISA CASSELI | origem | origem | 6 | 6 |
 | PR | CURITIBA | 1457 | ESCOLA ESTADUAL NOSSA SENHORA DE FÁTIMA | origem | origem | 13 | 13 |
 | PR | CURITIBA | 1457 | INSTITUTO DE EDUCACAO PROFESSOR ERASMO PILOTTO | origem | origem | 17 | 17 |
-| PR | CURITIBA | 1465 | ESCOLA ESTADUAL SANTA CANDIDA | origem | origem | 22 | 22 |
+| PR | CURITIBA | 1457 | ESCOLA ESTADUAL PROFESSORA MARIA HELOISA CASSELI | origem | origem | 6 | 6 |
 | PR | CURITIBA | 1465 | COLEGIO ESTADUAL EMILIANO PERNETA | origem | origem | 8 | 8 |
+| PR | CURITIBA | 1465 | ESCOLA ESTADUAL SANTA CANDIDA | origem | origem | 22 | 22 |
 | PR | CURITIBA | 1465 | COLÉGIO ESTADUAL ALFREDO PARODI | origem | origem | 12 | 12 |
 | PR | CURITIBA | 1473 | COLÉGIO ESTADUAL CONSELHEIRO CARRÃO | origem | origem | 13 | 13 |
-| PR | CURITIBA | 1490 | COL. EST. DES. GUILHERME DE ALBUQUERQUE MARANHAO | origem | origem | 9 | 9 |
 | PR | CURITIBA | 1490 | ESCOLA ESTADUAL MARECHAL CANDIDO RONDON | origem | origem | 12 | 12 |
-| PR | CURITIBA | 1503 | ESCOLA ESTADUAL NILSON BATISTA RIBAS | origem | origem | 6 | 6 |
+| PR | CURITIBA | 1490 | COL. EST. DES. GUILHERME DE ALBUQUERQUE MARANHAO | origem | origem | 9 | 9 |
 | PR | CURITIBA | 1503 | COLEGIO ESTADUAL MORADIAS MONTEIRO LOBATO | origem | origem | 13 | 13 |
 | PR | CURITIBA | 1503 | COLEGIO ESTADUAL CECILIA MEIRELES | origem | origem | 24 | 24 |
+| PR | CURITIBA | 1503 | ESCOLA ESTADUAL NILSON BATISTA RIBAS | origem | origem | 6 | 6 |
+| PR | CURITIBA | 1511 | ESCOLA ESTADUAL DONA BRANCA DO NASCIMENTO MIRANDA | origem | origem | 9 | 9 |
 | PR | CURITIBA | 1511 | COLEGIO ESTADUAL EURIDES BRANDAO | origem | origem | 11 | 11 |
 | PR | CURITIBA | 1511 | ESCOLA ESTADUAL DOM PEDRO II | origem | – | 10 | – |
-| PR | CURITIBA | 1511 | ESCOLA ESTADUAL DONA BRANCA DO NASCIMENTO MIRANDA | origem | origem | 9 | 9 |
-| PR | CURITIBA | 1520 | COLEGIO ESTADUAL LA SALLE | origem | origem | 17 | 17 |
-| PR | CURITIBA | 1520 | ESCOLA MUNICIPAL ALVARO BORGES | destino | destino | 3 | 3 |
 | PR | CURITIBA | 1520 | ESCOLA ESTADUAL MARIA MONTESSORI | origem | origem | 13 | 13 |
-| PR | CURITIBA | 1538 | COLEGIO MARISTA PARANAENSE | destino | – | 19 | – |
+| PR | CURITIBA | 1520 | ESCOLA MUNICIPAL ALVARO BORGES | destino | destino | 3 | 3 |
+| PR | CURITIBA | 1520 | COLEGIO ESTADUAL LA SALLE | origem | origem | 17 | 17 |
 | PR | CURITIBA | 1538 | COLÉGIO ESTADUAL PIO LANTERI | origem | origem | 12 | 12 |
-| PR | CURITIBA | 1546 | COLÉGIO ESTADUAL NIRLEI MEDEIROS | origem | origem | 12 | 12 |
+| PR | CURITIBA | 1538 | COLEGIO MARISTA PARANAENSE | destino | – | 19 | – |
 | PR | CURITIBA | 1546 | ESCOLA ESTADUAL SÃO PAULO APÓSTOLO | origem | origem | 15 | 15 |
+| PR | CURITIBA | 1546 | COLÉGIO ESTADUAL NIRLEI MEDEIROS | origem | origem | 12 | 12 |
 | PR | CURITIBA | 1554 | COLÉGIO POSITIVO - JARDIM AMBIENTAL | destino | destino | 26 | 26 |
 | PR | CURITIBA | 1562 | 3 MARIAS CLUBE DE CAMPO | destino | destino | 11 | 11 |
 | PR | CURITIBA | 1570 | ESCOLA ESTADUAL PROFESSORA IZABEL LOPES SANTOS SOUZA | origem | origem | 12 | 12 |
+| PR | CURITIBA | 1589 | ESCOLA MUNICIPAL ELZA LERNER | destino | destino | 15 | 15 |
 | PR | CURITIBA | 1589 | COLEGIO ESTADUAL PROFESSOR JOAO LOYOLA | origem | origem | 16 | 16 |
 | PR | CURITIBA | 1589 | ESCOLA MUNICIPAL GOVERNADOR LEONEL DE MOURA BRIZOLA | destino | destino | 9 | 9 |
-| PR | CURITIBA | 1589 | ESCOLA MUNICIPAL ELZA LERNER | destino | destino | 15 | 15 |
 | PR | CURITIBA | 1597 | COLÉGIO ESTADUAL PROFESSORA MARLI QUEIROZ AZEVEDO | origem | origem | 3 | 3 |
 | PR | CURITIBA | 1600 | ESCOLA MUNICIPAL HELENA KOLODY | destino | destino | 12 | 12 |
 | PR | CURITIBA | 1619 | ESCOLA ESTADUAL HASDRUBAL BELLEGARD | origem | origem | 14 | 14 |
@@ -565,20 +573,20 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PR | CURITIBA | 1619 | ESCOLA ESTADUAL JOSE FRESSATO | origem | origem | 5 | 5 |
 | PR | CURITIBA | 1635 | ESCOLA BAMBINATA | destino | destino | 10 | 10 |
 | PR | CURITIBA | 1635 | ESCOLA MUNICIPAL OTTO BRACARENSE COSTA | destino | destino | 13 | 13 |
+| PR | CURITIBA | 1643 | ESCOLA MUNICIPAL DOS VINHEDOS | destino | destino | 13 | 13 |
 | PR | CURITIBA | 1643 | COLÉGIO ESTADUAL PROFESSORA HILDEGARD SONDAHL - EFM | origem | origem | 8 | 8 |
 | PR | CURITIBA | 1643 | SESI CIC | destino | destino | 26 | 26 |
-| PR | CURITIBA | 1643 | ESCOLA MUNICIPAL DOS VINHEDOS | destino | destino | 13 | 13 |
 | PR | CURITIBA | 1643 | COLÉGIO ESTADUAL ANÍBAL KHURY NETO | origem | origem | 9 | 9 |
 | PR | CURITIBA | 1651 | UFPR - SETOR DE CIÊNCIAS SOCIAIS APLICADAS | destino | destino | 13 | 13 |
 | PR | CURITIBA | 1651 | ESCOLA ESTADUAL MONSENHOR IVO ZANLORENZI | origem | origem | 11 | 11 |
-| PR | CURITIBA | 1660 | FACULDADE POSITIVO | destino | destino | 13 | 13 |
 | PR | CURITIBA | 1660 | COLEGIO ESTADUAL DOMINGOS ZANLORENZI | origem | origem | 9 | 9 |
+| PR | CURITIBA | 1660 | FACULDADE POSITIVO | destino | destino | 13 | 13 |
 | PR | CURITIBA | 1678 | CRECHE MUNICIPAL MONTEIRO LOBATO | destino | destino | 13 | 13 |
 | PR | CURITIBA | 1678 | COLEGIO NOVO ATENEU | destino | destino | 6 | 6 |
-| PR | CURITIBA | 1686 | ESCOLA ESTADUAL SANTO ANTONIO | origem | origem | 12 | 12 |
 | PR | CURITIBA | 1686 | CLUBE CURITIBANO (SEDE ADMINISTRATIVA) | destino | destino | 15 | 15 |
-| PR | CURITIBA | 1686 | ESCOLA ESTADUAL PADRE CLAUDIO MORELLI | origem | origem | 13 | 13 |
 | PR | CURITIBA | 1686 | UTFPR (ANTIGA FÁBRICA DA SIEMENS) | destino | destino | 33 | 33 |
+| PR | CURITIBA | 1686 | ESCOLA ESTADUAL PADRE CLAUDIO MORELLI | origem | origem | 13 | 13 |
+| PR | CURITIBA | 1686 | ESCOLA ESTADUAL SANTO ANTONIO | origem | origem | 12 | 12 |
 | PR | CURITIBA | 1694 | ESCOLA ESTADUAL SAO SEBASTIAO | origem | – | 6 | – |
 | PR | CURITIBA | 1694 | ESCOLA PROJETO 21 | destino | destino | 5 | 5 |
 | PR | CURITIBA | 1694 | CMEI PRÉ VILA VERDE II | destino | destino | 13 | 13 |
@@ -586,12 +594,12 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PR | CURITIBA | 1708 | COLEGIO ESTADUAL TEOTONIO VILELA | origem | origem | 15 | 15 |
 | PR | CURITIBA | 1708 | PRIMEIRA IGREJA BATISTA DE CURITIBA | destino | destino | 17 | 17 |
 | PR | CURITIBA | 1716 | COLEGIO (PARTICULAR) MARTINUS PORTÃO | destino | destino | 12 | 12 |
-| PR | CURITIBA | 1716 | SUPERMERCADO CONDOR XAXIM | destino | destino | 11 | 11 |
 | PR | CURITIBA | 1716 | PARÓQUIA SÃO JOSÉ TRABALHADOR | destino | destino | 11 | 11 |
-| PR | CURITIBA | 1724 | ESCOLA ESTADUAL JAYME CANET | origem | origem | 18 | 18 |
+| PR | CURITIBA | 1716 | SUPERMERCADO CONDOR XAXIM | destino | destino | 11 | 11 |
+| PR | CURITIBA | 1724 | SESI DO BOQUEIRÃO | destino | destino | 27 | 27 |
 | PR | CURITIBA | 1724 | PARÓQUIA SÃO BRAZ | destino | destino | 9 | 9 |
 | PR | CURITIBA | 1724 | COLEGIO ESTADUAL PROTASIO DE CARVALHO | origem | origem | 17 | 17 |
-| PR | CURITIBA | 1724 | SESI DO BOQUEIRÃO | destino | destino | 27 | 27 |
+| PR | CURITIBA | 1724 | ESCOLA ESTADUAL JAYME CANET | origem | origem | 18 | 18 |
 | PR | CURITIBA | 1732 | ESCOLA MUNICIPAL PROFESSOR LAURO ESMANHOTO - CEI | destino | destino | 8 | 8 |
 | PR | CURITIBA | 1732 | ESCOLA ESTADUAL JOAO PAULO II | origem | origem | 10 | 10 |
 | PR | CURITIBA | 1740 | COLEGIO ESTADUAL SAO PEDRO APOSTOLO | origem | origem | 25 | 25 |
@@ -600,52 +608,52 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PR | CURITIBA | 1767 | ESCOLA ESTADUAL PROFESSOR NARCISO MENDES | origem | – | 11 | – |
 | PR | CURITIBA | 1767 | COLEGIO ESTADUAL PROFESSOR LOUREIRO FERNANDES | origem | origem | 10 | 10 |
 | PR | CURITIBA | 1767 | FACULDADE ESIC - BUSINESS E MARKETING SSCHOOL | destino | destino | 34 | 34 |
-| PR | CURITIBA | 1775 | ESCOLA ESTADUAL ALINE PICHETH | origem | origem | 9 | 9 |
 | PR | CURITIBA | 1775 | COLÉGIO NOSSA SENHORA DA ASSUNÇÃO | destino | destino | 19 | 19 |
+| PR | CURITIBA | 1775 | ESCOLA ESTADUAL ALINE PICHETH | origem | origem | 9 | 9 |
 | PR | CURITIBA | 1783 | CENTRO TECNOLÓGICO DO GRUPO POSITIVO | destino | destino | 10 | 10 |
-| PR | CURITIBA | 1791 | PORTAL DO FUTURO DO BOQUEIRÃO | destino | destino | 14 | 14 |
 | PR | CURITIBA | 1791 | ESCOLA MUNICIPAL PROFESSORA REJANE | destino | destino | 6 | 6 |
+| PR | CURITIBA | 1791 | PORTAL DO FUTURO DO BOQUEIRÃO | destino | destino | 14 | 14 |
 | PR | CURITIBA | 1805 | ESCOLA ATUAÇÃO CURITIBA BOQUEIRÃO | destino | destino | 12 | 12 |
-| PR | CURITIBA | 1813 | COLEGIO ESTADUAL BENEDICTO JOAO CORDEIRO | origem | origem | 16 | 16 |
 | PR | CURITIBA | 1813 | GRUPO EDUCACIONAL ACESSO BOQUEIRÃO | destino | destino | 15 | 15 |
+| PR | CURITIBA | 1813 | COLEGIO ESTADUAL BENEDICTO JOAO CORDEIRO | origem | origem | 16 | 16 |
 | PR | CURITIBA | 1813 | CIRCULO MILITAR DO PR | destino | destino | 16 | 16 |
 | PR | CURITIBA | 1821 | PARÓQUIA SÃO JOSÉ OPERÁRIO | destino | destino | 12 | 12 |
-| PR | CURITIBA | 1821 | ESCOLA LYGIA CARNEIRO | destino | destino | 5 | 5 |
 | PR | CURITIBA | 1821 | COLEGIO ESTADUAL LUIZ CARLOS PAULA E SOUZA | origem | origem | 9 | 9 |
+| PR | CURITIBA | 1821 | ESCOLA LYGIA CARNEIRO | destino | destino | 5 | 5 |
 | PR | CURITIBA | 1830 | CAPELA SÃO JUDAS TADEU | destino | destino | 4 | 4 |
+| PR | CURITIBA | 1848 | TRIESTE STADIUM SOCIEDADE | destino | destino | 7 | 7 |
 | PR | CURITIBA | 1848 | ESCOLA ESTADUAL PROFESSOR TEOBALDO LEONARDO KLETEMBERG | origem | origem | 9 | 9 |
 | PR | CURITIBA | 1848 | COLEGIO ESTADUAL SANTA GEMMA GALGANI | origem | origem | 9 | 9 |
-| PR | CURITIBA | 1848 | TRIESTE STADIUM SOCIEDADE | destino | destino | 7 | 7 |
 | PR | CURITIBA | 1856 | COLEGIO ESTADUAL GELVIRA CORREA PACHECO | origem | origem | 14 | 14 |
 | PR | CURITIBA | 1864 | ANEXO SOC IGUAÇU (CONTRATURNO STIVAL) | destino | destino | 5 | 5 |
 | PR | CURITIBA | 1872 | COLEGIO ESTADUAL PROFESSORA IARA BERGMANN | origem | origem | 9 | 9 |
 | PR | CURITIBA | 1872 | CENTRO CULTURAL INTER AMERICANO | destino | destino | 12 | 12 |
 | PR | CURITIBA | 1872 | ESCOLA ESTADUAL MARIA PEREIRA MARTINS | origem | origem | 8 | 8 |
-| PR | CURITIBA | 1880 | ESCOLA ESTADUAL CRUZEIRO DO SUL | origem | origem | 6 | 6 |
 | PR | CURITIBA | 1880 | COLEGIO ESTADUAL PAPA JOAO PAULO I | origem | – | 10 | – |
+| PR | CURITIBA | 1880 | ESCOLA ESTADUAL CRUZEIRO DO SUL | origem | origem | 6 | 6 |
 | PR | CURITIBA | 1899 | COLEGIO ESTADUAL PROFESSORA ETELVINA CORDEIRO RIBAS | origem | origem | 7 | 7 |
-| PR | CURITIBA | 1899 | COLEGIO ESTADUAL ERMELINO DE LEAO | origem | origem | 14 | 14 |
 | PR | CURITIBA | 1899 | COLEGIO ESTADUAL PROFESSOR ALGACYR MUNHOZ MAEDER | origem | origem | 18 | 18 |
-| PR | CURITIBA | 1902 | COLEGIO ESTADUAL PRIETO MARTINEZ | origem | origem | 8 | 8 |
+| PR | CURITIBA | 1899 | COLEGIO ESTADUAL ERMELINO DE LEAO | origem | origem | 14 | 14 |
 | PR | CURITIBA | 1902 | CENTRO DE EDUCAÇÃO INFANTIL BELA VISTA DO PARAÍSO | destino | destino | 6 | 6 |
+| PR | CURITIBA | 1902 | COLEGIO ESTADUAL PRIETO MARTINEZ | origem | origem | 8 | 8 |
 | PR | CURITIBA | 1910 | COLÉGIO ADVENTISTA UNIDADE BOA VISTA | destino | destino | 22 | 22 |
 | PR | CURITIBA | 1929 | COLÉGIO SAINT GERMAIN | destino | destino | 11 | 11 |
-| PR | CURITIBA | 1937 | ESCOLA MUNICIPAL PAULO FREIRE | destino | destino | 9 | 9 |
 | PR | CURITIBA | 1937 | ESCOLA BILUSCO EDUCAÇÃO INFANTIL E EDUCAÇÃO FUNDAMENTAL | destino | destino | 18 | 18 |
-| PR | CURITIBA | 1945 | ESCOLA DUNAMYS ENSINO FUNDAMENTAL | destino | destino | 15 | 15 |
+| PR | CURITIBA | 1937 | ESCOLA MUNICIPAL PAULO FREIRE | destino | destino | 9 | 9 |
 | PR | CURITIBA | 1945 | ESCOLA NOSSA SENHORA DO SAGRADO CORACAO | destino | destino | 17 | 17 |
+| PR | CURITIBA | 1945 | ESCOLA DUNAMYS ENSINO FUNDAMENTAL | destino | destino | 15 | 15 |
 | PR | CURITIBA | 1945 | UNIVERSIDADE POSITIVO | destino | destino | 15 | 15 |
-| PR | CURITIBA | 1953 | ESCOLA ESTADUAL ERNANI VIDAL | origem | origem | 9 | 9 |
 | PR | CURITIBA | 1953 | ESCOLA MUNICIPAL PROFESSOR KO YAMAWAKI | destino | destino | 24 | 24 |
-| PR | CURITIBA | 1961 | COLEGIO MARTINUS (PARTICULAR) | destino | destino | 8 | 8 |
+| PR | CURITIBA | 1953 | ESCOLA ESTADUAL ERNANI VIDAL | origem | origem | 9 | 9 |
 | PR | CURITIBA | 1961 | FACULDADE ARAUCÁRIA CAMPUS BACACHERI | destino | destino | 9 | 9 |
+| PR | CURITIBA | 1961 | COLEGIO MARTINUS (PARTICULAR) | destino | destino | 8 | 8 |
 | PR | CURITIBA | 1970 | COLEGIO ESTADUAL SEBASTIAO SAPORSKI | origem | origem | 3 | 3 |
 | PR | CURITIBA | 1970 | SALÃO DA PARÓQUIA SÃO JOÃO BATISTA | destino | destino | 13 | 13 |
 | PR | CURITIBA | 1996 | COLEGIO BOM JESUS DIVINA PROVIDENCIA (PARTICULAR) | destino | destino | 9 | 9 |
 | PR | CURITIBA | 2003 | ESCOLA MUNICIPAL PROFESSOR RICARDO KRIEGER | destino | – | 10 | – |
 | PR | CURITIBA | 2011 | UNIVERSIDADE UNIANDRADE | destino | destino | 22 | 22 |
-| PR | CURITIBA | 2020 | ESCOLA MUNICIPAL ULISSES GUIMARAES- CEI | destino | destino | 9 | 9 |
 | PR | CURITIBA | 2020 | COLÉGIO ADVENTISTA DO PORTÃO | destino | destino | 22 | 22 |
+| PR | CURITIBA | 2020 | ESCOLA MUNICIPAL ULISSES GUIMARAES- CEI | destino | destino | 9 | 9 |
 | PR | CURITIBA | 2038 | PORTAL DO FUTURO CIC | destino | destino | 8 | 8 |
 | PR | CURITIBA | 2046 | ESCOLA MUNICIPAL DITMAR BREPOHL | destino | destino | 17 | 17 |
 | PR | CURITIBA | 2054 | ESCOLA MUNICIPAL MICHEL KHURY | destino | destino | 9 | 9 |
@@ -662,8 +670,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PR | CURITIBA | 2194 | ESCOLA ENERGIA ATIVA - PARTICULAR | destino | destino | 12 | 12 |
 | PR | CURITIBA | 2208 | ESCOLA DOMINIUS - PARTICULAR | destino | – | 11 | – |
 | PR | CURITIBA | 2216 | COLEGIO EST NOSSA SENHORA APARECIDA | origem | origem | 6 | 6 |
-| PR | CURITIBA | 2224 | COLEGIO ESTADUAL ANGELO GUSSO | origem | origem | 9 | 9 |
 | PR | CURITIBA | 2224 | ESCOLA AMPLA E AÇÃO | destino | destino | 16 | 16 |
+| PR | CURITIBA | 2224 | COLEGIO ESTADUAL ANGELO GUSSO | origem | origem | 9 | 9 |
 | PR | CURITIBA | 2232 | COLEGIO MARISTA SANTA MARIA (PARTICULAR) | destino | destino | 9 | 9 |
 | PR | CURITIBA | 2240 | COLÉGIO ESTADUAL PROFESSOR GUIDO ARZUA | origem | origem | 6 | 6 |
 | PR | CURITIBA | 2240 | UNIVERSIDADE TUIUTI DO PARANÁ | destino | destino | 9 | 9 |
@@ -673,33 +681,33 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PR | CURITIBA | 2275 | CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL SANTA EFIGÊNIA | destino | destino | 8 | 8 |
 | PR | CURITIBA | 2283 | COLÉGIO DOM BOSCO - AHÚ | destino | destino | 10 | 10 |
 | PR | CURITIBA | 2291 | COLÉGIO FÊNIX - ENSINO FUNDAMENTAL E MÉDIO | destino | destino | 14 | 14 |
-| PR | CURITIBA | 2305 | IGREJA SÃO FRANCISCO XAVIER | destino | destino | 6 | 6 |
 | PR | CURITIBA | 2305 | FACULDADE SOCIESC DE CURITIBA/TUPY | destino | destino | 35 | 35 |
-| PR | CURITIBA | 2313 | GRUPO EDUCACIONAL OPET BLOCO 2 | destino | destino | 12 | 12 |
+| PR | CURITIBA | 2305 | IGREJA SÃO FRANCISCO XAVIER | destino | destino | 6 | 6 |
 | PR | CURITIBA | 2313 | PAROQUIA SÃO PEDRO APOSTOLO | destino | destino | 6 | 6 |
+| PR | CURITIBA | 2313 | GRUPO EDUCACIONAL OPET BLOCO 2 | destino | destino | 12 | 12 |
 | PR | CURITIBA | 2321 | PARÓQUIA SANTA CRUZ E SANTA EFIGÊNIA | destino | destino | 14 | 14 |
 | PR | CURITIBA | 2321 | FACULDADE - FACEAR - CAMPUS SITIO CERCADO | destino | destino | 53 | 53 |
 | PR | CURITIBA | 2330 | ESCOLA MUNICIPAL PROFESSORA MARIA NEIDE GABARDO BETIATTO | destino | destino | 9 | 9 |
 | PR | CURITIBA | 2364 | CAPELA SÃO SEBASTIÃO DO CALISTO | destino | – | 6 | – |
-| PR | MARINGÁ | 1015 | ESCOLA ESTADUAL DOUTOR RODRIGUES ALVES | origem | origem | 19 | 19 |
 | PR | MARINGÁ | 1015 | COLEGIO ESTADUAL JOÃO XXIII - ENSINO FUNDAMENTAL E MÉDIO | origem | origem | 18 | 18 |
+| PR | MARINGÁ | 1015 | ESCOLA ESTADUAL DOUTOR RODRIGUES ALVES | origem | origem | 19 | 19 |
 | PR | MARINGÁ | 1023 | COLÉGIO ESTADUAL ALBERTO JACKSON BYINGTON JUNIOR | origem | origem | 9 | 9 |
 | PR | MARINGÁ | 1023 | ESCOLA MUNICIPAL PROFESSOR JOSE MARCHESINI | destino | destino | 12 | 12 |
-| PR | MARINGÁ | 1031 | ESCOLA ESTADUAL ELVIRA BALANI DOS SANTOS | origem | origem | 5 | 5 |
 | PR | MARINGÁ | 1031 | ESCOLA ESTADUAL MARCO ANTONIO PIMENTA - ENS. FUND. E MÉDIO | origem | origem | 10 | 10 |
+| PR | MARINGÁ | 1031 | ESCOLA ESTADUAL ELVIRA BALANI DOS SANTOS | origem | origem | 5 | 5 |
 | PR | MARINGÁ | 1031 | UEM - UNIVERSIDADE ESTADUAL DE MARINGA | destino | destino | 6 | 6 |
-| PR | MARINGÁ | 1040 | ESCOLA ESTADUAL PRESIDENTE KENNEDY | origem | origem | 10 | 10 |
-| PR | MARINGÁ | 1040 | ESCOLA ESTADUAL VÍNICIUS DE MORAIS - ENSINO FUNDAMENTAL E MÉDIO | origem | origem | 8 | 8 |
 | PR | MARINGÁ | 1040 | INSTITUTO DE EDUCACAO ESTADUAL DE MARINGA | origem | origem | 15 | 15 |
+| PR | MARINGÁ | 1040 | ESCOLA ESTADUAL VÍNICIUS DE MORAIS - ENSINO FUNDAMENTAL E MÉDIO | origem | origem | 8 | 8 |
+| PR | MARINGÁ | 1040 | ESCOLA ESTADUAL PRESIDENTE KENNEDY | origem | origem | 10 | 10 |
 | PR | MARINGÁ | 1058 | SENAI - CENTRO DE EDUCAÇÃO PROFISSIONAL DE MARINGÁ (PARTICULAR) | destino | destino | 5 | 5 |
 | PR | MARINGÁ | 1058 | COLEGIO REGINA MUNDI - PARTICULAR | destino | destino | 15 | 15 |
 | PR | MARINGÁ | 1066 | ESCOLA ESTADUAL BRASILIO ITIBERE | origem | origem | 4 | 4 |
 | PR | MARINGÁ | 1074 | COLEGIO ESTADUAL BRANCA DA MOTA FERNANDES | origem | origem | 16 | 16 |
 | PR | MARINGÁ | 1074 | COLEGIO ESTADUAL JOSE GERARDO BRAGA | origem | origem | 13 | 13 |
-| PR | MARINGÁ | 1082 | ESCOLA ESTADUAL ALFREDO MOISES MALUF | origem | origem | 14 | 14 |
 | PR | MARINGÁ | 1082 | ESCOLA ESTADUAL JOAO DE FARIA PIOLI | origem | – | 17 | – |
-| PR | MARINGÁ | 1090 | COLEGIO ESTADUAL DUQUE DE CAXIAS | origem | origem | 15 | 15 |
+| PR | MARINGÁ | 1082 | ESCOLA ESTADUAL ALFREDO MOISES MALUF | origem | origem | 14 | 14 |
 | PR | MARINGÁ | 1090 | COLEGIO ESTADUAL DIRCE DE AGUIAR MAIA | origem | origem | 12 | 12 |
+| PR | MARINGÁ | 1090 | COLEGIO ESTADUAL DUQUE DE CAXIAS | origem | origem | 15 | 15 |
 | PR | MARINGÁ | 1112 | ESCOLA MUNICIPAL PAULO FREIRE | destino/origem | destino/origem | 14 | 14 |
 | PR | MARINGÁ | 1112 | ESCOLA ESTADUAL THEOBALDO MIRANDA SANTOS | origem | origem | 8 | 8 |
 | PR | MARINGÁ | 1120 | ESCOLA ESTADUAL RUI BARBOSA | origem | origem | 9 | 9 |
@@ -714,32 +722,32 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PR | MARINGÁ | 1252 | ESCOLA ESTADUAL SILVIO MAGALHAES BARROS | origem | origem | 9 | 9 |
 | PR | MARINGÁ | 1252 | COLÉGIO ESTADUAL VITAL BRASIL | origem | – | 6 | – |
 | PR | MARINGÁ | 1260 | COLEGIO ESTADUAL JUSCELINO KUBTSCHEK DE OLIVEIRA - ENS. FUND. E MÉDIO | origem | origem | 13 | 13 |
-| PR | MARINGÁ | 1279 | ESCOLA ESTADUAL IPIRANGA | origem | origem | 8 | 8 |
 | PR | MARINGÁ | 1279 | ESCOLA MUNICIPAL ODILON TULIO VARGAS | destino | destino | 10 | 10 |
 | PR | MARINGÁ | 1279 | ESCOLA MUNICIPAL ANGELA VERGINIA BORIN | destino | destino | 7 | 7 |
-| PR | MARINGÁ | 1287 | ESCOLA ESTADUAL TOMAZ EDISON DE ANDRADE VIEIRA - ENS. FUND. E MÉDIO | origem | origem | 10 | 10 |
-| PR | MARINGÁ | 1287 | PONTIFÍCIA UNIVERSIDADE CATÓLICA DO PARANÁ | destino | destino | 14 | 14 |
+| PR | MARINGÁ | 1279 | ESCOLA ESTADUAL IPIRANGA | origem | origem | 8 | 8 |
 | PR | MARINGÁ | 1287 | COLÉGIO OBJETIVO | destino | destino | 18 | 18 |
-| PR | MARINGÁ | 1295 | CENTRO MUNICIPAL DE ENSINO INFANTIL MARIA LUIZA SANDRI MENEGUETTI | destino | destino | 10 | 4 |
-| PR | MARINGÁ | 1295 | ESCOLA MUNICIPAL CAMPOS SALLES - ENSINO FUNDAMENTAL | destino | destino | 10 | 10 |
+| PR | MARINGÁ | 1287 | PONTIFÍCIA UNIVERSIDADE CATÓLICA DO PARANÁ | destino | destino | 14 | 14 |
+| PR | MARINGÁ | 1287 | ESCOLA ESTADUAL TOMAZ EDISON DE ANDRADE VIEIRA - ENS. FUND. E MÉDIO | origem | origem | 10 | 10 |
 | PR | MARINGÁ | 1295 | ESCOLA MUNICIPAL PIONEIRO GERALDO MENEGHETTI | destino/origem | origem | 20 | 3 |
 | PR | MARINGÁ | 1295 | COLÉGIO ESTADUAL DO PARQUE ITAIPU - ENSINO FUNDAMENTAL | origem | origem | 6 | 6 |
-| PR | MARINGÁ | 1309 | CENTRO MUNICIPAL DE ENSINO INFANTIL BENEDITO DE SOUZA | destino | destino | 8 | 8 |
-| PR | MARINGÁ | 1309 | CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL NILZA DE OLIVEIRA PIPINO | destino | destino | 9 | 9 |
+| PR | MARINGÁ | 1295 | ESCOLA MUNICIPAL CAMPOS SALLES - ENSINO FUNDAMENTAL | destino | destino | 10 | 10 |
+| PR | MARINGÁ | 1295 | CENTRO MUNICIPAL DE ENSINO INFANTIL MARIA LUIZA SANDRI MENEGUETTI | destino | destino | 10 | 4 |
 | PR | MARINGÁ | 1309 | ESCOLA MUNICIPAL DOM JAIME LUIZ COELHO | destino | destino | 8 | 8 |
-| PR | MARINGÁ | 1333 | ESCOLA ESTADUAL TANIA VARELLA FERREIRA | origem | origem | 7 | 7 |
+| PR | MARINGÁ | 1309 | CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL NILZA DE OLIVEIRA PIPINO | destino | destino | 9 | 9 |
+| PR | MARINGÁ | 1309 | CENTRO MUNICIPAL DE ENSINO INFANTIL BENEDITO DE SOUZA | destino | destino | 8 | 8 |
 | PR | MARINGÁ | 1333 | CENTRO EDUCACIONAL E CULTURAL MARINGAENSE - COLÉGIO MATER DEI (PARTICU | destino | destino | 18 | 18 |
+| PR | MARINGÁ | 1333 | ESCOLA ESTADUAL TANIA VARELLA FERREIRA | origem | origem | 7 | 7 |
 | PR | MARINGÁ | 1341 | COLÉGIO EVANGÉLICO DE MARINGÁ | destino | destino | 9 | 9 |
 | PR | MARINGÁ | 1341 | ASSOCIAÇÃO RECREATIVA COPEL MARINGA | destino | destino | 19 | 19 |
+| PR | MARINGÁ | 1350 | CENTRO ESPORTIVO MUNICIPAL MANDACARU - JARDIM CANADÁ | destino | destino | 10 | 10 |
 | PR | MARINGÁ | 1350 | CMEI NICE BRAGA | destino | destino | 12 | 12 |
 | PR | MARINGÁ | 1350 | CRAS MORANGUEIRA | destino | destino | 8 | 8 |
-| PR | MARINGÁ | 1350 | CENTRO ESPORTIVO MUNICIPAL MANDACARU - JARDIM CANADÁ | destino | destino | 10 | 10 |
 | PR | MARINGÁ | 1368 | SALÃO DE FESTAS CSU | destino | destino | 8 | 8 |
 | PR | MARINGÁ | 1368 | CMEI JOSÉ GERARDO BRAGA | destino | destino | 13 | 13 |
 | PR | MARINGÁ | 1376 | ASSOCIAÇÃO COMUNITÁRIA JD ALVORADA | destino | destino | 15 | 15 |
 | PR | MARINGÁ | 1376 | ESCOLA NOTRE DAME | destino | destino | 13 | 13 |
-| PR | MARINGÁ | 1384 | CMEI FRANCE LUZ | destino | destino | 5 | 5 |
 | PR | MARINGÁ | 1384 | CMEI MARIA DONÁ FERRAZ | destino | destino | 10 | 10 |
+| PR | MARINGÁ | 1384 | CMEI FRANCE LUZ | destino | destino | 5 | 5 |
 | PR | MARINGÁ | 1392 | SALÃO PAROQUIAL - SÃO FRANCISCO DE ASSIS | destino | destino | 20 | 20 |
 | PR | MARINGÁ | 1406 | CMEI ETELVINA MATOS SILVA | destino | destino | 3 | 3 |
 | PR | PONTA GROSSA | 1031 | COLÉGIO ESTADUAL PROFESSOR BECKER E SILVA | origem | origem | 11 | 11 |
@@ -748,11 +756,11 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PR | PONTA GROSSA | 1066 | COLÉGIO ESTADUAL PADRE CARLOS ZALESNY | origem | origem | 15 | 15 |
 | PR | PONTA GROSSA | 1074 | COLÉGIO ESTADUAL PROFESSORA ELZIRA CORREIA DE SÁ | origem | origem | 16 | 16 |
 | PR | PONTA GROSSA | 1074 | ESCOLA ESTADUAL PROFESSOR EUGENIO MALANSKI (BORSATO) | origem | origem | 7 | 7 |
-| PR | PONTA GROSSA | 1082 | COLÉGIO ESTADUAL 31 DE MARÇO | origem | origem | 12 | 12 |
 | PR | PONTA GROSSA | 1082 | INSTITUTO DE EDUCAÇÃO ESTADUAL PROFESSOR CÉSAR PRIETO MARTINEZ | origem | – | 10 | – |
+| PR | PONTA GROSSA | 1082 | COLÉGIO ESTADUAL 31 DE MARÇO | origem | origem | 12 | 12 |
 | PR | PONTA GROSSA | 1090 | COLEGIO AGRICOLA ESTADUAL AUGUSTO RIBAS | origem | origem | 9 | 9 |
-| PR | PONTA GROSSA | 1104 | SENAI PONTA GROSSA - SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL | destino | – | 10 | – |
 | PR | PONTA GROSSA | 1104 | COLEGIO ESTADUAL JOAO RICARDO VON BORELL DU VERNAY | origem | origem | 13 | 13 |
+| PR | PONTA GROSSA | 1104 | SENAI PONTA GROSSA - SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL | destino | – | 10 | – |
 | PR | PONTA GROSSA | 1112 | ESCOLA MUNICIPAL PROFESSORA ANA DE BARROS HOLZMANN | destino | destino | 4 | 4 |
 | PR | PONTA GROSSA | 1139 | ESCOLA ESTADUAL JESUS DIVINO OPERÁRIO | origem | origem | 7 | 7 |
 | PR | PONTA GROSSA | 1147 | COLÉGIO ESTADUAL PROFESSOR COLARES | origem | origem | 7 | 7 |
@@ -762,14 +770,14 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PR | PONTA GROSSA | 1201 | ESCOLA ESTADUAL SENADOR CORREIA | origem | origem | 5 | 5 |
 | PR | PONTA GROSSA | 1228 | ESCOLA MUNICIPAL DEPUTADO DJALMA DE ALMEIDA CESAR | destino | destino | 9 | 9 |
 | PR | PONTA GROSSA | 1236 | UNIVERSIDADE ESTADUAL DE PONTA GROSSA | origem | origem | 9 | 9 |
-| PR | PONTA GROSSA | 1260 | COLÉGIO ESTADUAL PROFESSORA LINDA SALAMUNI BACILA | origem | origem | 4 | 4 |
 | PR | PONTA GROSSA | 1260 | ESCOLA ESTADUAL MAESTRO BENTO MOSSURUNGA | origem | origem | 7 | 7 |
+| PR | PONTA GROSSA | 1260 | COLÉGIO ESTADUAL PROFESSORA LINDA SALAMUNI BACILA | origem | origem | 4 | 4 |
 | PR | PONTA GROSSA | 1287 | ESCOLA MUNICIPAL PROFª. MARIA LAURA PEREIRA | destino | destino | 12 | 12 |
 | PR | PONTA GROSSA | 1295 | ESCOLA MUNICIPAL PROFª. ECLÉA DOS PASSOS HORN | destino | destino | 14 | 14 |
 | PR | PONTA GROSSA | 1309 | ESCOLA MUNICIPAL PROFª ADELAIDE THOMÉ CHAMMA | destino | destino | 11 | 11 |
-| PR | PONTA GROSSA | 1317 | ESCOLA ESTADUAL JOSE ELIAS DA ROCHA | origem | origem | 9 | 9 |
 | PR | PONTA GROSSA | 1317 | COLÉGIO ESTADUAL ESPÍRITO SANTO | origem | origem | 4 | 4 |
 | PR | PONTA GROSSA | 1317 | ASSOCIAÇÃO BENEFICENTE LUA NOVA | destino | destino | 4 | 4 |
+| PR | PONTA GROSSA | 1317 | ESCOLA ESTADUAL JOSE ELIAS DA ROCHA | origem | origem | 9 | 9 |
 | PR | PONTA GROSSA | 1341 | ESCOLA ESTADUAL GENERAL OSORIO | origem | origem | 10 | 10 |
 | PR | PONTA GROSSA | 1376 | COLÉGIO ESTADUAL PROFESSOR JÚLIO TEODORICO | origem | origem | 5 | 5 |
 | PR | PONTA GROSSA | 1406 | ESCOLA ESTADUAL NOSSA SENHORA DA GLÓRIA | origem | origem | 4 | 4 |
@@ -783,8 +791,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PR | PONTA GROSSA | 1503 | ESCOLA MUNICIPAL PROFESSORA ARMIDA FRARE GRACIA | destino | destino | 4 | 4 |
 | PR | PONTA GROSSA | 1511 | COLÉGIO MARTINUS BOM PASTOR | destino | destino | 5 | 5 |
 | PR | PONTA GROSSA | 1520 | COLÉGIO MARISTA PIO XII | destino | destino | 20 | 20 |
-| PR | PONTA GROSSA | 1538 | GINÁSIO DE ESPORTES DO COLÉGIO SEPAM | destino | destino | 8 | 8 |
 | PR | PONTA GROSSA | 1538 | COLÉGIO ESTADUAL SANTA MARIA | origem | origem | 4 | 4 |
+| PR | PONTA GROSSA | 1538 | GINÁSIO DE ESPORTES DO COLÉGIO SEPAM | destino | destino | 8 | 8 |
 | PR | PONTA GROSSA | 1546 | SAGRADA FAMÍLIA - UNIDADE AUXILIADORA | destino | destino | 12 | 12 |
 | PR | PONTA GROSSA | 1554 | COLÉGIO INTEGRAÇÃO | destino | destino | 7 | 7 |
 | PR | PONTA GROSSA | 1589 | SENAC | destino | destino | 11 | 11 |
@@ -794,14 +802,16 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PR | PONTA GROSSA | 1686 | PARÓQUIA SÃO PEDRO | destino | destino | 15 | 15 |
 | PR | PONTA GROSSA | 1694 | CENTRO DE IDOSOS | destino | – | 5 | – |
 | PR | PONTA GROSSA | 1708 | ESCOLA MUNICIPAL LUDOVICO ANTONIO EGG | destino | destino | 16 | 16 |
-| RJ | NITERÓI | 1279 | CLUBE REGATAS ICARAI | – | origem | – | 5 |
 | RJ | NITERÓI | 1279 | COLÉGIO SÃO VICENTE DE PAULO | – | destino | – | 5 |
+| RJ | NITERÓI | 1279 | CLUBE REGATAS ICARAI | – | origem | – | 5 |
 | RO | PORTO VELHO | 1090 | ULISSES GUIMARAES - ESCOLA ESTADUAL | origem | origem | 1 | 1 |
 | RO | PORTO VELHO | 1171 | CRECHE MUNICIPAL JARDIM SANTANA | destino | destino | 1 | 1 |
 | SP | BAURU | 1023 | EE. PROF. FRANCISCO ALVES BRIZOLA | destino | destino | 12 | 12 |
 | SP | BAURU | 1376 | CTV - CENTRO DE TRANSFORMAÇÃO E VIVÊNCIAS | origem | origem | 12 | 12 |
 
-## 2018 - locais de votação (386 por NR_LOCAL_VOTACAO, 162 por endereço)
+## 2018
+
+Locais de votação: 386 por NR_LOCAL_VOTACAO, 162 por endereço
 
 | UF | Município | NR_LOCAL | Local | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---:|---|---|---|---:|---:|
@@ -839,26 +849,26 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | AM | MANAUS | 1805 | E. E. HILDA DE AZEVEDO TRIBUZY. | origem | origem | 2 | 2 |
 | AM | MANAUS | 1830 | E. E. DE TEMPO INTEGRAL IRMA GABRIELLI COGELS | origem | origem | 1 | 1 |
 | AM | MANAUS | 1899 | COLEGIO MILITAR DA POLICIA MILITAR | origem | – | 1 | – |
-| AM | MANAUS | 1899 | CSU HUMBERTO DE ALENCAR CASTELO BRANCO | origem | origem | 3 | 3 |
 | AM | MANAUS | 1899 | E. E ANTONIO LUCENA BITENCOURT | origem | origem | 1 | 1 |
+| AM | MANAUS | 1899 | CSU HUMBERTO DE ALENCAR CASTELO BRANCO | origem | origem | 3 | 3 |
 | AM | MANAUS | 1902 | E. M. N. S. MAE MESTRA | destino | destino | 3 | 3 |
-| AM | MANAUS | 1910 | E. E. ISAAC BENZECRY | origem | – | 4 | – |
 | AM | MANAUS | 1910 | E. E. PROF. BERNARDETE TRINDADE DA ROCHA | destino | destino | 2 | 2 |
 | AM | MANAUS | 1910 | E. M. PROF SULAMITA PEREIRA GONÇALVES. | origem | origem | 1 | 1 |
+| AM | MANAUS | 1910 | E. E. ISAAC BENZECRY | origem | – | 4 | – |
 | AM | MANAUS | 1937 | E. E. JACIMAR DA SILVA GAMA | destino | destino | 7 | 7 |
 | AM | MANAUS | 1953 | CMEI PROF JOSE ERICO II | destino | destino | 1 | 1 |
 | AM | MANAUS | 1953 | E. M. SÃO SEBASTIÃO | destino | destino | 1 | 1 |
 | AM | MANAUS | 1996 | IFAM - INST FED DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO AMAZONAS | origem | origem | 2 | 2 |
 | AM | MANAUS | 1996 | ESCOLA DE FORMAÇÃO PROFISSIONAL ENFERMEIRA FCA SAAVEDRA - CETAM | destino | – | 4 | – |
 | AM | MANAUS | 2003 | JARDIM DA INFANCIA CASA DA CRIANCA | destino | destino | 2 | 2 |
-| AM | MANAUS | 2038 | E. E. LUIZINHA NASCIMENTO | destino | destino | 5 | 5 |
 | AM | MANAUS | 2038 | CENTRO EDUCACIONAL AMAZONIA | origem | origem | 3 | 3 |
+| AM | MANAUS | 2038 | E. E. LUIZINHA NASCIMENTO | destino | destino | 5 | 5 |
 | AM | MANAUS | 2062 | SENAI | origem | origem | 3 | 3 |
 | AM | MANAUS | 2070 | E.M. ARTHUR CEZAR FERREIRA REIS | destino | destino | 3 | 3 |
 | AM | MANAUS | 2089 | E. M. JORGE AMADO (OPÇÃO P/ BEATRIZ SVERVER E MADRE TEREZA) | origem | origem | 2 | 2 |
 | AM | MANAUS | 2089 | CEMEI PROF. ROSENDO NETO DE LIMA | destino | destino | 1 | 1 |
-| AM | MANAUS | 2097 | CENTRO DE TREINAMENTO INSS | destino | – | 1 | – |
 | AM | MANAUS | 2097 | E. M. RAIMUNDO THEODORO BOTINELLY ASSUMPÇÃO | destino | destino | 2 | 2 |
+| AM | MANAUS | 2097 | CENTRO DE TREINAMENTO INSS | destino | – | 1 | – |
 | AM | MANAUS | 2097 | E. M. ARTE E CULTURA | destino | destino | 1 | 1 |
 | AM | MANAUS | 2127 | E.M. JULIA BARJONA LABRE | origem | origem | 3 | 3 |
 | AM | MANAUS | 2135 | E.E. DAISAKU IKEDA (OPÇÃO P/ RODERICK E BERNARDETE) | origem | origem | 2 | 2 |
@@ -867,15 +877,15 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | AM | MANAUS | 2194 | E. M. JOÃO DOS SANTOS BRAGA | origem | – | 1 | – |
 | AM | MANAUS | 2208 | ESCOLA SUPERIOR DE CIÊNCIAS SOCIAIS - UEA | destino | destino | 3 | 3 |
 | AM | MANAUS | 2224 | E. M. LORIS CORDOVIL | origem | origem | 5 | 5 |
-| AM | MANAUS | 2232 | E. E. MACHADO DE ASSIS | origem | origem | 1 | 1 |
 | AM | MANAUS | 2232 | E. E. VICENTE TELLES DE SOUZA | destino | – | 6 | – |
+| AM | MANAUS | 2232 | E. E. MACHADO DE ASSIS | origem | origem | 1 | 1 |
 | AM | MANAUS | 2232 | E. E. CACILDA BRAULE PINTO | origem | origem | 1 | 1 |
-| AM | MANAUS | 2240 | E. M. SERGIO ALFREDO PESSOA FIGUEIREDO | origem | origem | 3 | 3 |
 | AM | MANAUS | 2240 | CENTRO EDUCACIONAL SEMEAR BOAS NOVAS | destino | destino | 1 | 1 |
+| AM | MANAUS | 2240 | E. M. SERGIO ALFREDO PESSOA FIGUEIREDO | origem | origem | 3 | 3 |
 | AM | MANAUS | 2259 | E. E. SALDANHA MARINHO | destino | destino | 1 | 1 |
 | AM | MANAUS | 2267 | COLEGIO AMAZONENSE DOM PEDRO II | origem | origem | 1 | 1 |
-| AM | MANAUS | 2275 | E. E. LIBERALINA WEILL | destino | destino | 3 | 3 |
 | AM | MANAUS | 2275 | E. E. CONEGO AZEVEDO | destino | destino | 4 | 4 |
+| AM | MANAUS | 2275 | E. E. LIBERALINA WEILL | destino | destino | 3 | 3 |
 | AM | MANAUS | 2275 | E. E. PROF. MARIA ARMINDA GUIMARAES DE ANDRADE | destino | destino | 9 | 9 |
 | AM | MANAUS | 2283 | INSTITUTO DE EDUCACAO DO AMAZONAS | origem | origem | 2 | 2 |
 | AM | MANAUS | 2283 | E. E. FUETH PAULO MOURÃO | destino | destino | 3 | 3 |
@@ -902,8 +912,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | BA | SALVADOR | 1031 | ESCOLA MUNICIPAL NOVA SUSSUARANA | – | destino/origem | – | 9 |
 | BA | SALVADOR | 1082 | COLÉGIO ESTADUAL CELINA PINHO | origem | origem | 17 | 17 |
 | BA | SALVADOR | 1406 | ETE LUIZ NAVARRO DE BRITO | destino | destino | 17 | 17 |
-| BA | SALVADOR | 1473 | ESCOLA MUNCIPAL DO BEIRU | – | origem | – | 5 |
 | BA | SALVADOR | 1473 | ESCOLA MUNICIPAL DO ALTO DA CACHOEIRINHA NELSON MALEIRO | – | destino | – | 5 |
+| BA | SALVADOR | 1473 | ESCOLA MUNCIPAL DO BEIRU | – | origem | – | 5 |
 | BA | SALVADOR | 1759 | ESPECIAL ESCOLA MUNICIPAL DE PARIPE | – | destino/origem | – | 1 |
 | BA | SALVADOR | 1783 | ESPECIAL ESCOLA MUNICIPAL DE CAJAZEIRAS XI | – | destino/origem | – | 1 |
 | BA | SALVADOR | 1791 | ESCOLA MUNICIPAL DE CAJAZEIRAS XI | – | destino/origem | – | 11 |
@@ -916,8 +926,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | CE | CANINDÉ | 1236 | E.E.F. MENINO JESUS | origem | – | 8 | – |
 | CE | FORTALEZA | 1260 | EEFM IRMAO URBANO GONZALEZ RODRIGUEZ | origem | origem | 9 | 9 |
 | CE | FORTALEZA | 1708 | CITS - CENTRO DE INCLUSÃO TECNOLÓGICA E SOCIAL | destino | destino | 9 | 9 |
-| CE | FORTALEZA | 2534 | EMEIF ALDEÍDES REGIS | – | origem | – | 4 |
 | CE | FORTALEZA | 2534 | EMEIF ALDEÍDES REGIS - (ALVARO WEYNE) | – | destino | – | 4 |
+| CE | FORTALEZA | 2534 | EMEIF ALDEÍDES REGIS | – | origem | – | 4 |
 | CE | FORTALEZA | 3107 | FIC / ESTÁCIO - UNIDADE MOREIRA CAMPOS | – | destino/origem | – | 13 |
 | CE | QUIXADÁ | 1180 | ESCOLA DE ENSINO FUNDAMENTAL JOSÉ LINHARES DA PÁSCOA | origem | origem | 2 | 2 |
 | CE | QUIXADÁ | 1465 | FECLESC | destino | destino | 2 | 2 |
@@ -1134,8 +1144,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PI | PICOS | 2534 | FACULDADE R SA. | destino | – | 1 | – |
 | PI | SEBASTIÃO BARROS | 1015 | EDUCANDARIO MUNICIPAL SANTA LUZIA | origem | – | 2 | – |
 | PI | SEBASTIÃO BARROS | 1058 | UNIDADE ESCOLAR MIGUEL FERREIRA DIAS | destino | – | 2 | – |
-| PI | TERESINA | 1368 | COMPLEXO ESCOLAR ODILON NUNES | – | origem | – | 5 |
 | PI | TERESINA | 1368 | UNIDADE ESCOLAR DUQUE DE CAXIAS | – | destino | – | 5 |
+| PI | TERESINA | 1368 | COMPLEXO ESCOLAR ODILON NUNES | – | origem | – | 5 |
 | PI | TERESINA | 2313 | UNIDADE ESCOLAR DOM SEVERINO | origem | origem | 4 | 4 |
 | PI | TERESINA | 2437 | EMGERPI - ANTIGA CIDAPI | origem | origem | 2 | 2 |
 | PI | TERESINA | 2453 | EMGERPI, POR TRÁS DA EMGERPI PRINCIPAL | origem | origem | 6 | 6 |
@@ -1145,8 +1155,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PI | UNIÃO | 1767 | CRECHE JACIRA ABREU DO RÊGO MONTEIRO | destino | – | 3 | – |
 | PR | ALMIRANTE TAMANDARÉ | 1430 | COLEGIO ESTADUAL PROFESSOR ALBERTO KRAUSE | – | origem | – | 12 |
 | PR | ALMIRANTE TAMANDARÉ | 1430 | FACOP - FUNDACAO DO ASSEIO E CONSERVACAO DO PARANA | – | destino | – | 12 |
-| PR | MARINGÁ | 1414 | CMEI MARIA DONÁ FERRAZ - ESPAÇO TONINHA MAMPRIM 2018 | – | destino | – | 3 |
 | PR | MARINGÁ | 1414 | CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL MARIA DONÁ FERRAZ | – | origem | – | 3 |
+| PR | MARINGÁ | 1414 | CMEI MARIA DONÁ FERRAZ - ESPAÇO TONINHA MAMPRIM 2018 | – | destino | – | 3 |
 | RJ | NOVA IGUAÇU | 1058 | CIEP 022 - GETULIO VARGAS | – | origem | – | 12 |
 | RJ | NOVA IGUAÇU | 1058 | SENAI - SESI NOVA IGUAÇU | – | destino | – | 12 |
 | RJ | SEROPÉDICA | 1147 | COLÉGIO ESTADUAL PRESIDENTE DUTRA | – | origem | – | 9 |
@@ -1168,8 +1178,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | RN | MONTE ALEGRE | 1244 | ESCOLA MUN. VER. KERGINALDO VIEIRA DE SOUZA(CRECHE MUN.EUGÊNIA ROCHA) | destino | – | 3 | – |
 | RN | NATAL | 1180 | ESCOLA MUNICIPAL IVONETE MACIEL | – | destino/origem | – | 7 |
 | RN | NATAL | 1554 | ESCOLA ESTADUAL DJALMA ARANHA MARINHO | origem | origem | 9 | 9 |
-| RN | NATAL | 2186 | INSTITUTO BRASIL - UNIDADE II | destino | destino | 9 | 9 |
 | RN | NATAL | 2186 | ESCOLA MUNICIPAL PROFESSORA MARECI GOMES | origem | origem | 2 | 2 |
+| RN | NATAL | 2186 | INSTITUTO BRASIL - UNIDADE II | destino | destino | 9 | 9 |
 | RN | NATAL | 2313 | INSTITUTO DE EDUCAÇÃO E REABILITAÇÃO DE CEGOS | destino | destino | 2 | 2 |
 | RN | SANTA CRUZ | 1015 | ESCOLA PROFESSOR F DE ASSIS RIBEIRO | origem | – | 10 | – |
 | RN | SANTA CRUZ | 1031 | ESCOLA ESTADUAL QUINTINO BOCAIUVA | origem | – | 6 | – |
@@ -1196,8 +1206,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SE | PINHÃO | 1074 | COLÉGIO JOÃO LIMA FEITOSA | origem | – | 10 | – |
 | SE | PINHÃO | 1082 | COLÉGIO ESTADUAL PROFESSOR GENARO DANTAS SILVA | destino | – | 10 | – |
 | SP | ARARAQUARA | 1376 | CURSO E COLÉGIO INTERATIVO | – | destino/origem | – | 5 |
-| SP | CAMPOS DO JORDÃO | 1015 | EM PROF ANTONIO NICOLA PADULA | – | destino | – | 10 |
 | SP | CAMPOS DO JORDÃO | 1015 | EEPG PROF ANTONIO NICOLA PADULA | – | origem | – | 10 |
+| SP | CAMPOS DO JORDÃO | 1015 | EM PROF ANTONIO NICOLA PADULA | – | destino | – | 10 |
 | SP | CAMPOS DO JORDÃO | 1031 | EM FREI ORESTES GIRARDI (SEA) | – | destino | – | 9 |
 | SP | CAMPOS DO JORDÃO | 1031 | SOCIEDADE DE EDUCACAO E ASSISTENCIA (SEA) | – | origem | – | 9 |
 | SP | SANTANA DE PARNAÍBA | 1112 | COLÉGIO MUNICIPAL PREF. BERNARDINO MARQUES DA SILVA | – | destino/origem | – | 4 |
@@ -1231,7 +1241,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | TO | SANTA TEREZINHA DO TOCANTINS | 1031 | ESCOLA MUNICIPAL XV DE NOVEMBRO | destino | – | 1 | – |
 | TO | SANTA TEREZINHA DO TOCANTINS | 1040 | ESCOLA MUNICIPAL SAO PEDRO | origem | – | 1 | – |
 
-## 2020 - locais de votação (47 por NR_LOCAL_VOTACAO, 43 por endereço)
+## 2020
+
+Locais de votação: 47 por NR_LOCAL_VOTACAO, 43 por endereço
 
 | UF | Município | NR_LOCAL | Local | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---:|---|---|---|---:|---:|
@@ -1280,18 +1292,20 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | MG | CONTAGEM | 1449 | SINE CONTAGEM | origem | origem | 8 | 8 |
 | PE | RECIFE | 1350 | ESCOLA MUNICIPAL PASTOR MUNGUBA SOBRINHO | origem | origem | 1 | 1 |
 | PE | RECIFE | 1384 | ESCOLA MUNICIPAL DEPUTADO EDSON CANTARELLI | destino | destino | 1 | 1 |
-| PE | RECIFE | 1430 | ESCOLA MUNICIPAL PROFESSOR POTIGUAR MATOS | – | destino | – | 7 |
 | PE | RECIFE | 1430 | ESCOLA MUNICIPAL PROFESSOR POTYGUAR MATOS | – | origem | – | 7 |
-| PI | TERESINA | 1589 | CENTRO SOCIAL CRISTO REI | – | origem | – | 6 |
+| PE | RECIFE | 1430 | ESCOLA MUNICIPAL PROFESSOR POTIGUAR MATOS | – | destino | – | 7 |
 | PI | TERESINA | 1589 | ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE TERESINA (APAE) | – | destino | – | 6 |
+| PI | TERESINA | 1589 | CENTRO SOCIAL CRISTO REI | – | origem | – | 6 |
 | RJ | RIO DE JANEIRO | 1155 | ESCOLA MUNICIPAL LEONOR COELHO PEREIRA | – | destino | – | 25 |
 | RJ | RIO DE JANEIRO | 1155 | CIEP GREGÓRIO BEZERRA | – | origem | – | 25 |
-| RJ | RIO DE JANEIRO | 1473 | VILA OLÍMPICA DA GAMBOA | – | origem | – | 8 |
 | RJ | RIO DE JANEIRO | 1473 | CENTRO CULTURAL JOSÉ BONIFÁCIO | – | destino | – | 8 |
+| RJ | RIO DE JANEIRO | 1473 | VILA OLÍMPICA DA GAMBOA | – | origem | – | 8 |
 | SP | MAUÁ | 2135 | E.M.PROFª MARIA WANNY SOARES CRUZ | destino | destino | 5 | 5 |
 | SP | MAUÁ | 2151 | E.M. PROFº JOSÉ TOMAZ NETO | origem | origem | 5 | 5 |
 
-## 2022 - locais de votação (824 por NR_LOCAL_VOTACAO, 262 por endereço)
+## 2022
+
+Locais de votação: 824 por NR_LOCAL_VOTACAO, 262 por endereço
 
 | UF | Município | NR_LOCAL | Local | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---:|---|---|---|---:|---:|
@@ -1311,8 +1325,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | AC | RIO BRANCO | 1317 | ESCOLA MUN PROF TEREZINHA MIGUÉIS (PROJ. FIGUEIRA - INCRA) | origem | – | 1 | – |
 | AC | RIO BRANCO | 1503 | DETRAN | destino | – | 1 | – |
 | AC | RIO BRANCO | 1686 | ESCOLA RURAL ALTO ALEGRE II | destino | – | 1 | – |
-| AC | RIO BRANCO | 1775 | CRAS SOBRAL - CENTRO DE REFERENCIA DE ASSISTENCIA SOCIAL | – | origem | – | 2 |
 | AC | RIO BRANCO | 1775 | CENTRO DE REFERÊNCIA DA REGIONAL VI | destino | destino | 2 | 4 |
+| AC | RIO BRANCO | 1775 | CRAS SOBRAL - CENTRO DE REFERENCIA DE ASSISTENCIA SOCIAL | – | origem | – | 2 |
 | AC | RIO BRANCO | 1830 | CRAS - CENTRO DE REFERENCIA DE ASSISTENCIA SOCIAL | origem | origem | 2 | 2 |
 | AC | RIO BRANCO | 1848 | SECRETARIA DE ESTADO DE PRODUÇÃO - SEPA - SEAPROF (TRANSACREANA) | destino | – | 1 | – |
 | AC | RIO BRANCO | 1880 | TRIBUNAL DE JUSTIÇA | destino | destino | 3 | 3 |
@@ -1343,10 +1357,10 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | AL | DELMIRO GOUVEIA | 1023 | NATERCIA S. DE MENEZES, ESCOLA (FÁBRICA) | destino | – | 4 | – |
 | AL | DELMIRO GOUVEIA | 1040 | VICENTE DE MENEZES, ESCOLA DE 1 E 2 GRAUS | origem | – | 6 | – |
 | AL | DELMIRO GOUVEIA | 1414 | ESCOLA CASINHA FELIZ | destino | – | 2 | – |
-| AL | DELMIRO GOUVEIA | 1465 | CLUBE CANECAO | destino | destino | 2 | 1 |
 | AL | DELMIRO GOUVEIA | 1465 | ESCOLA ESTADUAL PEDRO NEPOMUCENO DOS SANTOS | – | origem | – | 1 |
-| AL | DELMIRO GOUVEIA | 1503 | ESCOLINHA JEITO DE NINAR | destino | destino | 2 | 2 |
+| AL | DELMIRO GOUVEIA | 1465 | CLUBE CANECAO | destino | destino | 2 | 1 |
 | AL | DELMIRO GOUVEIA | 1503 | ESCOLA ESTADUAL PEDRO NEPOMUCENO DOS SANTOS | – | origem | – | 2 |
+| AL | DELMIRO GOUVEIA | 1503 | ESCOLINHA JEITO DE NINAR | destino | destino | 2 | 2 |
 | AL | DELMIRO GOUVEIA | 1554 | CENTRO DE EDUCAÇÃO INFANTIL EMÍLIA DA SILVA (CRECHE) | origem | – | 4 | – |
 | AL | IBATEGUARA | 1015 | GRUPO ESCOLAR MUNICIPAL AFRANIO LAGES | destino | – | 5 | – |
 | AL | IBATEGUARA | 1180 | CAPS - CENTRO DE ATENÇÃO PSICOSSOCIAL | origem | – | 5 | – |
@@ -1392,8 +1406,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | AM | MANAUS | 1805 | CMEI N. S. DA BOA ESPERANÇA | destino | destino | 3 | 3 |
 | AM | MANAUS | 1821 | E. M. SEN. DARCY RIBEIRO | origem | origem | 2 | 2 |
 | AM | MANAUS | 1830 | E. E. DE TEMPO INTEGRAL IRMA GABRIELLIE COGELS | origem | origem | 2 | 2 |
-| AM | MANAUS | 1848 | E. M. SAO BENEDITO | destino | destino | 2 | 2 |
 | AM | MANAUS | 1848 | E. M. NOSSA SENHORA DE FÁTIMA | origem | origem | 3 | 3 |
+| AM | MANAUS | 1848 | E. M. SAO BENEDITO | destino | destino | 2 | 2 |
 | AM | MANAUS | 1864 | E. M. AUREO NONATO | destino | destino | 4 | 4 |
 | AM | MANAUS | 1880 | E. M. ULISSES GUIMARAES | destino | destino | 5 | 5 |
 | AM | MANAUS | 1902 | E. E. OSMAR PEDROSA | origem | origem | 1 | 1 |
@@ -1424,8 +1438,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | AM | MANAUS | 2275 | E. E. CONEGO AZEVEDO | destino | destino | 4 | 4 |
 | AM | MANAUS | 2283 | E. E. FUETH PAULO MOURÃO | destino/origem | destino/origem | 12 | 12 |
 | AM | MANAUS | 2283 | INSTITUTO DE EDUCACAO DO AMAZONAS | origem | origem | 1 | 1 |
-| AM | MANAUS | 2291 | E. M. PROF. WALDIR GARCIA | destino | destino | 2 | 2 |
 | AM | MANAUS | 2291 | E. M. SÃO JOSÉ | destino | – | 1 | – |
+| AM | MANAUS | 2291 | E. M. PROF. WALDIR GARCIA | destino | destino | 2 | 2 |
 | AM | MANAUS | 2305 | E. DE EDUCAÇÃO PROFISSIONAL PADRE ESTÉLIO DALISON | origem | origem | 3 | 3 |
 | AM | MANAUS | 2313 | E. E. VICENTE SCHETTINI | origem | origem | 4 | 4 |
 | AM | MANAUS | 2356 | CMEI JEAN PIAGET | origem | origem | 5 | 5 |
@@ -1521,8 +1535,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | ES | VILA VELHA | 1783 | UMEI TIA NINA | – | destino | – | 9 |
 | GO | CHAPADÃO DO CÉU | 1015 | ESCOLA MUNICIPAL FLORES DO CERRADO | origem | – | 8 | – |
 | GO | CHAPADÃO DO CÉU | 1023 | ESCOLA MUNICIPAL DONA AMÉLIA GARCIA CUNHA | destino | – | 8 | – |
-| GO | GOIÂNIA | 1481 | CEPI - DR. ANTÔNIO RAIMUNDO GOMES DA FROTA | – | origem | – | 11 |
 | GO | GOIÂNIA | 1481 | UNIGOIÁS - CENTRO UNIVERSITÁRIO | – | destino | – | 11 |
+| GO | GOIÂNIA | 1481 | CEPI - DR. ANTÔNIO RAIMUNDO GOMES DA FROTA | – | origem | – | 11 |
 | MA | ALDEIAS ALTAS | 1090 | ESCOLA PADRE ANTONIO FERRARIS | destino | – | 2 | – |
 | MA | ALDEIAS ALTAS | 1155 | SINDICATO DOS TRABALHADORES RURAIS | destino | – | 1 | – |
 | MA | ALDEIAS ALTAS | 1228 | ESCOLA MUNICIPAL PROFª MARIA DA CONCEIÇÃO DE OLIVEIRA | origem | – | 1 | – |
@@ -1686,10 +1700,10 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | MG | GAMELEIRAS | 1074 | ESCOLA MUNICIPAL DE CURRAL NOVO | origem | – | 1 | – |
 | MG | GOVERNADOR VALADARES | 1023 | CRAS SANTA EFIGENIA - CENTRO DE ESPORTES UNIFICADO | – | destino | – | 4 |
 | MG | GOVERNADOR VALADARES | 1023 | CENTRO DE ESPORTES UNIFICADO | – | origem | – | 4 |
-| MG | GOVERNADOR VALADARES | 1163 | COLÉGIO VITORINO | – | origem | – | 12 |
 | MG | GOVERNADOR VALADARES | 1163 | VITORINO - COLÉGIO PARTICULAR | – | destino | – | 12 |
-| MG | GOVERNADOR VALADARES | 1228 | ESCOLA MUNICIPAL REVERENDO SILLAS CRESPO | – | origem | – | 10 |
+| MG | GOVERNADOR VALADARES | 1163 | COLÉGIO VITORINO | – | origem | – | 12 |
 | MG | GOVERNADOR VALADARES | 1228 | REVERENDO SILLAS CRESPO - ESCOLA MUNICIPAL | – | destino | – | 10 |
+| MG | GOVERNADOR VALADARES | 1228 | ESCOLA MUNICIPAL REVERENDO SILLAS CRESPO | – | origem | – | 10 |
 | MG | GOVERNADOR VALADARES | 1236 | PROF. LAURA FABRI - ESCOLA MUNICIPAL | – | destino | – | 11 |
 | MG | GOVERNADOR VALADARES | 1236 | ESCOLA MUNICIPAL PROF. LAURA FABRI | – | origem | – | 11 |
 | MG | JANUÁRIA | 1120 | ESCOLA MUNICIPAL D. JUDITH JACQUES | destino | – | 1 | – |
@@ -1947,8 +1961,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PR | ARAUCÁRIA | 1074 | ESCOLA MUNICIPAL PAPA PAULO VI | origem | origem | 2 | 2 |
 | PR | ARAUCÁRIA | 1112 | ESCOLA MUNICIPAL DEPUTADO JOAO LEOPOLDO JACOMEL | destino | destino | 3 | 3 |
 | PR | ARAUCÁRIA | 1201 | CENTRO DE SAUDE BOA VISTA | destino | – | 1 | – |
-| PR | ARAUCÁRIA | 1210 | CENTRO DE SAUDE NOSSA SENHORA APARECIDA | destino | destino | 1 | 2 |
 | PR | ARAUCÁRIA | 1210 | ESCOLA DO CAMPO MUNICIPAL RUI BARBOSA | – | origem | – | 1 |
+| PR | ARAUCÁRIA | 1210 | CENTRO DE SAUDE NOSSA SENHORA APARECIDA | destino | destino | 1 | 2 |
 | PR | ARAUCÁRIA | 1228 | ESCOLA MUNICIPAL RURAL RUI BARBOSA | origem | origem | 1 | 1 |
 | PR | ARAUCÁRIA | 1260 | ESCOLA RURAL MUNICIPAL EDVINO NOWAK | origem | origem | 1 | 1 |
 | PR | ARAUCÁRIA | 1309 | ESCOLA MUNICIPAL ESPECIAL AGRICOLA PADRE JOSE ANUSZ | destino | destino | 2 | 2 |
@@ -1956,8 +1970,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PR | ARAUCÁRIA | 1368 | ESCOLA RURAL MUNICIPAL PRESIDENTE CASTELO BRANCO | destino | destino | 2 | 2 |
 | PR | ARAUCÁRIA | 1376 | ESCOLA RURAL MUNICIPAL DUQUE DE CAXIAS | destino | – | 1 | – |
 | PR | ARAUCÁRIA | 1422 | CAIC - ESCOLA MUNICIPAL PROF. EGLE CORDEIRO MACHADO PINTO | destino | – | 6 | – |
-| PR | ARAUCÁRIA | 1481 | ESCOLA MUNICIPAL PROFESSORA NADIR NEPOMUCENO ALVES PINTO | destino | destino | 10 | 11 |
 | PR | ARAUCÁRIA | 1481 | COLÉGIO ESTADUAL PROFª HELENA WYSOCKI | – | origem | – | 1 |
+| PR | ARAUCÁRIA | 1481 | ESCOLA MUNICIPAL PROFESSORA NADIR NEPOMUCENO ALVES PINTO | destino | destino | 10 | 11 |
 | PR | ARAUCÁRIA | 1490 | ESCOLA MUNICIPAL PROFESSORA EGIPCIANA SWAIN PARANÁ CARRANO | destino | destino | 5 | 5 |
 | PR | ARAUCÁRIA | 1597 | SEBASTIÃO TAVARES DA SILVA | origem | origem | 3 | 3 |
 | PR | ARAUCÁRIA | 1635 | CENTRO EDUCACIONAL BÁSICO PARA JOVENS E ADULTOS - CEEBJA | origem | origem | 1 | 1 |
@@ -2038,13 +2052,13 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | RJ | NOVA FRIBURGO | 1147 | COLÉGIO PENSI | destino | destino | 2 | 8 |
 | RJ | NOVA FRIBURGO | 1147 | UNIVERSIDADE CÂNDIDO MENDES | – | origem | – | 6 |
 | RJ | NOVA FRIBURGO | 1457 | UNIVERSIDADE CÂNDIDO MENDES | origem | origem | 2 | 2 |
-| RJ | RIO DE JANEIRO | 1058 | ESCOLA MUNICIPAL ALCIDE DE GÁSPERI | – | origem | – | 8 |
 | RJ | RIO DE JANEIRO | 1058 | PARÓQUIA NOSSA SENHORA DO BONSUCESSO | – | destino | – | 8 |
+| RJ | RIO DE JANEIRO | 1058 | ESCOLA MUNICIPAL ALCIDE DE GÁSPERI | – | origem | – | 8 |
 | RJ | TRÊS RIOS | 1120 | ESCOLA MUNICIPAL GUILHERMINA GUINLE | origem | – | 2 | – |
 | RJ | TRÊS RIOS | 1260 | ESCOLA MUNICIPAL PROFESSORA MILCAH DE SOUSA | origem | origem | 2 | 2 |
 | RJ | TRÊS RIOS | 1279 | ESCOLA MUNICIPAL LAURA DA SILVA RIBAS | origem | – | 1 | – |
-| RJ | TRÊS RIOS | 1287 | IGREJA DO SAGRADO CORAÇÃO DE JESUS | – | origem | – | 4 |
 | RJ | TRÊS RIOS | 1287 | CLUBE POLIESPORTIVO ROBERTO ANK | – | destino | – | 4 |
+| RJ | TRÊS RIOS | 1287 | IGREJA DO SAGRADO CORAÇÃO DE JESUS | – | origem | – | 4 |
 | RJ | TRÊS RIOS | 1414 | ESCOLA MUNICIPAL ALCINA DE ALMEIDA | destino | destino | 2 | 2 |
 | RJ | TRÊS RIOS | 1422 | UNIDADE SAÚDE DA FAMÍLIA - CIDADE NOVA | destino | – | 1 | – |
 | RJ | TRÊS RIOS | 1449 | IGREJA NOSSA SENHORA DA CONCEIÇÃO | destino | – | 2 | – |
@@ -2152,7 +2166,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | TO | TOCANTINÓPOLIS | 1120 | ESCOLA MUNICIPAL MANOEL DE SOUSA LIMA | destino | – | 1 | – |
 | TO | TOCANTINÓPOLIS | 1287 | ESCOLA MUNICIPAL ANTÔNIO FERNANDES DOS SANTOS | origem | – | 1 | – |
 
-## 2024 - locais de votação (49 por NR_LOCAL_VOTACAO, 46 por endereço)
+## 2024
+
+Locais de votação: 49 por NR_LOCAL_VOTACAO, 46 por endereço
 
 | UF | Município | NR_LOCAL | Local | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---:|---|---|---|---:|---:|
@@ -2209,7 +2225,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | TO | PALMAS | 1368 | ESCOLA MUNICIPAL DE TEMPO INTEGRAL CORA CORALINA | origem | – | 2 | – |
 | TO | PALMAS | 1740 | ESCOLA JOÃO PAULO II | destino | – | 2 | – |
 
-## 2026 - locais de votação (1.122 por NR_LOCAL_VOTACAO, 387 por endereço)
+## 2026
+
+Locais de votação: 1.122 por NR_LOCAL_VOTACAO, 387 por endereço
 
 | UF | Município | NR_LOCAL | Local | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---:|---|---|---|---:|---:|
@@ -2306,8 +2324,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | AM | MANAUS | 2135 | P.E. CRECHE INFANTE TIRADENTES (ANTIGO CIESA) | origem | origem | 1 | 1 |
 | AM | MANAUS | 2143 | E. M. POETISA CORA CORALINA | destino | destino | 1 | 1 |
 | AM | MANAUS | 2151 | E. E. ELIRA PINHEIRO | origem | origem | 1 | 1 |
-| AM | MANAUS | 2160 | E. M. PROF. PERCILIA DO NASCIMENTO SOUZA | origem | – | 1 | – |
 | AM | MANAUS | 2160 | E. M. PINTOR CANDIDO PORTINARI | origem | origem | 1 | 1 |
+| AM | MANAUS | 2160 | E. M. PROF. PERCILIA DO NASCIMENTO SOUZA | origem | – | 1 | – |
 | AM | MANAUS | 2194 | CECF PROF. TEONÍZIA LOBO DE CARVALHO | origem | origem | 6 | 6 |
 | AM | MANAUS | 2208 | E. M. SOCIÓLOGO HERBERT JOSÉ SOUZA | destino | destino | 1 | 1 |
 | AM | MANAUS | 2240 | EMEF. MIGUEL ARRAES DE ALENCAR | origem | origem | 5 | 5 |
@@ -3153,8 +3171,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PR | VERA CRUZ DO OESTE | 1120 | SALÃO PAROQUIAL DA IGREJA SANTA CATARINA DE ALEXANDRIA | origem | origem | 3 | 3 |
 | RJ | NOVA IGUAÇU | 1279 | COLEGIO ESTADUAL BARÃO DE TINGUÁ | – | destino | – | 14 |
 | RJ | NOVA IGUAÇU | 1279 | CIEP 351 - GRAMA - SALGADO FILHO | – | origem | – | 14 |
-| RJ | RIO DE JANEIRO | 1295 | REDE DE ENSINO EEEPV (RUA IRAPUÁ 2) | – | destino | – | 5 |
 | RJ | RIO DE JANEIRO | 1295 | REDE DE ENSINO EEEPV (RUA MUANÁ) | – | origem | – | 5 |
+| RJ | RIO DE JANEIRO | 1295 | REDE DE ENSINO EEEPV (RUA IRAPUÁ 2) | – | destino | – | 5 |
 | RN | BODÓ | 1066 | ESCOLA ESTADUAL SÉRVULO PEREIRA DE ARAÚJO | origem | – | 2 | – |
 | RN | BODÓ | 1074 | CENTRO DE CONVIVÊNCIA DE IDOSOS | destino | – | 2 | – |
 | RN | CARAÚBAS | 1023 | ESCOLA ESTADUAL SEBASTIAO GURGEL | destino | – | 8 | – |

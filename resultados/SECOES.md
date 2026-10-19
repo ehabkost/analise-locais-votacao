@@ -1,6 +1,8 @@
 # Seções afetadas, por ano
 
-## 2010 - seções que mudaram (133)
+## 2010
+
+Seções que mudaram: 133
 
 | UF | Município | Zona | Seção | Eleitores | NR_LOCAL 1º→2º | NR | End. | Local 1º turno | Endereço 1º turno | Local 2º turno | Endereço 2º turno |
 |---|---|---:|---:|---:|---|:-:|:-:|---|---|---|---|
@@ -138,7 +140,9 @@
 | SP | VALINHOS | 34 | 100 | 422 | 1031→1031 |  | ✓ | EMEF PADRE LEOPOLDO PETRUS VON LIEMPT | R ITALIA, 139 | ASSOCIAÇÃO LEMENSE DE EDUCAÇÃO E CULTURA - FAV | AV INVERNADA, 595 |
 | SP | VALINHOS | 34 | 135 | 316 | 1031→1031 |  | ✓ | EMEF PADRE LEOPOLDO PETRUS VON LIEMPT | R ITALIA, 139 | ASSOCIAÇÃO LEMENSE DE EDUCAÇÃO E CULTURA - FAV | AV INVERNADA, 595 |
 
-## 2012 - seções que mudaram (218)
+## 2012
+
+Seções que mudaram: 218
 
 | UF | Município | Zona | Seção | Eleitores | NR_LOCAL 1º→2º | NR | End. | Local 1º turno | Endereço 1º turno | Local 2º turno | Endereço 2º turno |
 |---|---|---:|---:|---:|---|:-:|:-:|---|---|---|---|
@@ -361,7 +365,9 @@
 | SP | SÃO PAULO | 250 | 323 | 393 | 1031→1058 | ✓ |  | COLÉGIO CAMPOS SALLES | RUA NOSSA SENHORA DA LAPA, 270 | EE. PEREIRA BARRETO | RUA NOSSA SENHORA DA LAPA, 615 |
 | SP | SÃO PAULO | 250 | 329 | 389 | 1031→1058 | ✓ |  | COLÉGIO CAMPOS SALLES | RUA NOSSA SENHORA DA LAPA, 270 | EE. PEREIRA BARRETO | RUA NOSSA SENHORA DA LAPA, 615 |
 
-## 2014 - seções que mudaram (283)
+## 2014
+
+Seções que mudaram: 283
 
 | UF | Município | Zona | Seção | Eleitores | NR_LOCAL 1º→2º | NR | End. | Local 1º turno | Endereço 1º turno | Local 2º turno | Endereço 2º turno |
 |---|---|---:|---:|---:|---|:-:|:-:|---|---|---|---|
@@ -649,7 +655,9 @@
 | TO | TOCANTINÓPOLIS | 9 | 110 | 266 | 1023→1074 | ✓ |  | UFT - CAMPUS UNIVERSITÁRIO DE TOCANTINÓPOLIS | AV. NOSSA SENHORA DE FÁTIMA, S/N | ESCOLA ESTADUAL PIO XII | AV. NOSSA SENHORA DE FÁTIMA, 1418 |
 | TO | TOCANTINÓPOLIS | 9 | 135 | 63 | 1201→1295 | ✓ |  | ESCOLA REUNIDA 07 DE SETEMBRO | POVOADO PALMEIRÓPOLIS | ESCOLA MUNICIPAL NOVO AEROPORTO | OLHO D'AGUA DE CIMA - NOVO AEROPORTO |
 
-## 2016 - seções que mudaram (2.510)
+## 2016
+
+Seções que mudaram: 2.510
 
 | UF | Município | Zona | Seção | Eleitores | NR_LOCAL 1º→2º | NR | End. | Local 1º turno | Endereço 1º turno | Local 2º turno | Endereço 2º turno |
 |---|---|---:|---:|---:|---|:-:|:-:|---|---|---|---|
@@ -3164,7 +3172,9 @@
 | SP | BAURU | 387 | 112 | 366 | 1376→1023 | ✓ | ✓ | CTV - CENTRO DE TRANSFORMAÇÃO E VIVÊNCIAS | RUA IRMÃOS DO SAGRADO CORAÇÃO, 3-30 | EE. PROF. FRANCISCO ALVES BRIZOLA | RUA DR. IVO GUINTA, 2-45 |
 | SP | BAURU | 387 | 124 | 362 | 1376→1023 | ✓ | ✓ | CTV - CENTRO DE TRANSFORMAÇÃO E VIVÊNCIAS | RUA IRMÃOS DO SAGRADO CORAÇÃO, 3-30 | EE. PROF. FRANCISCO ALVES BRIZOLA | RUA DR. IVO GUINTA, 2-45 |
 
-## 2018 - seções que mudaram (861)
+## 2018
+
+Seções que mudaram: 861
 
 | UF | Município | Zona | Seção | Eleitores | NR_LOCAL 1º→2º | NR | End. | Local 1º turno | Endereço 1º turno | Local 2º turno | Endereço 2º turno |
 |---|---|---:|---:|---:|---|:-:|:-:|---|---|---|---|
@@ -4030,7 +4040,9 @@
 | TO | ALIANÇA DO TOCANTINS | 2 | 134 | 308 | 1015→1031 | ✓ |  | COLEGIO DUQUE DE CAXIAS | AVENIDA BERNARDO SAYAO, QD 20-B | COLEGIO ESTADUAL ANITA CASSIMIRO MORENO | RUA 03, QD 17 |
 | TO | ALIANÇA DO TOCANTINS | 2 | 135 | 307 | 1015→1031 | ✓ |  | COLEGIO DUQUE DE CAXIAS | AVENIDA BERNARDO SAYAO, QD 20-B | COLEGIO ESTADUAL ANITA CASSIMIRO MORENO | RUA 03, QD 17 |
 
-## 2020 - seções que mudaram (104)
+## 2020
+
+Seções que mudaram: 104
 
 | UF | Município | Zona | Seção | Eleitores | NR_LOCAL 1º→2º | NR | End. | Local 1º turno | Endereço 1º turno | Local 2º turno | Endereço 2º turno |
 |---|---|---:|---:|---:|---|:-:|:-:|---|---|---|---|
@@ -4139,7 +4151,9 @@
 | SP | MAUÁ | 217 | 348 | 356 | 2151→2135 | ✓ | ✓ | E.M. PROFº JOSÉ TOMAZ NETO | AV. DOM JOSÉ GASPAR -1049 | E.M.PROFª MARIA WANNY SOARES CRUZ | AV.CLODOALDO PORTUGAL CARIBE,411 |
 | SP | MAUÁ | 217 | 349 | 352 | 2151→2135 | ✓ | ✓ | E.M. PROFº JOSÉ TOMAZ NETO | AV. DOM JOSÉ GASPAR -1049 | E.M.PROFª MARIA WANNY SOARES CRUZ | AV.CLODOALDO PORTUGAL CARIBE,411 |
 
-## 2022 - seções que mudaram (1.508)
+## 2022
+
+Seções que mudaram: 1.508
 
 | UF | Município | Zona | Seção | Eleitores | NR_LOCAL 1º→2º | NR | End. | Local 1º turno | Endereço 1º turno | Local 2º turno | Endereço 2º turno |
 |---|---|---:|---:|---:|---|:-:|:-:|---|---|---|---|
@@ -5652,7 +5666,9 @@
 | TO | SANTA TEREZINHA DO TOCANTINS | 9 | 89 | 208 | 1040→1031 | ✓ |  | ESCOLA MUNICIPAL SAO PEDRO | POVOADO FORTUNA | ESCOLA MUNICIPAL SÃO PEDRO | POVOADO FORTUNA (E RIZADA) |
 | TO | TOCANTINÓPOLIS | 9 | 127 | 132 | 1287→1120 | ✓ |  | ESCOLA MUNICIPAL ANTÔNIO FERNANDES DOS SANTOS | POVOADO RIBEIRÃO GRANDE - PEDRO BENTO | ESCOLA MUNICIPAL MANOEL DE SOUSA LIMA | POVOADO FOLHA GROSSA |
 
-## 2024 - seções que mudaram (154)
+## 2024
+
+Seções que mudaram: 154
 
 | UF | Município | Zona | Seção | Eleitores | NR_LOCAL 1º→2º | NR | End. | Local 1º turno | Endereço 1º turno | Local 2º turno | Endereço 2º turno |
 |---|---|---:|---:|---:|---|:-:|:-:|---|---|---|---|
@@ -5811,7 +5827,9 @@
 | TO | PALMAS | 29 | 352 | 309 | 1368→1740 | ✓ |  | ESCOLA MUNICIPAL DE TEMPO INTEGRAL CORA CORALINA | 603 NORTE APM-26 ALAMEDA 10 | ESCOLA JOÃO PAULO II | 503 NORTE ALAMEDA 07 APM 17 |
 | TO | PALMAS | 29 | 403 | 262 | 1368→1740 | ✓ |  | ESCOLA MUNICIPAL DE TEMPO INTEGRAL CORA CORALINA | 603 NORTE APM-26 ALAMEDA 10 | ESCOLA JOÃO PAULO II | 503 NORTE ALAMEDA 07 APM 17 |
 
-## 2026 - seções que mudaram (2.093)
+## 2026
+
+Seções que mudaram: 2.093
 
 | UF | Município | Zona | Seção | Eleitores | NR_LOCAL 1º→2º | NR | End. | Local 1º turno | Endereço 1º turno | Local 2º turno | Endereço 2º turno |
 |---|---|---:|---:|---:|---|:-:|:-:|---|---|---|---|

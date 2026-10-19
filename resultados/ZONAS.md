@@ -2,7 +2,9 @@
 
 Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endereço. `–` = não afetado por aquele critério.
 
-## 2010 - zonas eleitorais (4 por NR_LOCAL_VOTACAO, 19 por endereço)
+## 2010
+
+Zonas eleitorais: 4 por NR_LOCAL_VOTACAO, 19 por endereço
 
 | UF | Zona | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---:|---:|---:|---:|---:|
@@ -29,7 +31,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | 11 | – | 4 | – | 1.314 |
 | SP | 34 | – | 10 | – | 4.183 |
 
-## 2012 - zonas eleitorais (23 por NR_LOCAL_VOTACAO, 23 por endereço)
+## 2012
+
+Zonas eleitorais: 23 por NR_LOCAL_VOTACAO, 23 por endereço
 
 | UF | Zona | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---:|---:|---:|---:|---:|
@@ -60,7 +64,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | 250 | 13 | – | 5.103 | – |
 | SP | 394 | – | 7 | – | 2.125 |
 
-## 2014 - zonas eleitorais (53 por NR_LOCAL_VOTACAO, 25 por endereço)
+## 2014
+
+Zonas eleitorais: 53 por NR_LOCAL_VOTACAO, 25 por endereço
 
 | UF | Zona | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---:|---:|---:|---:|---:|
@@ -125,7 +131,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | TO | 11 | 1 | – | 348 | – |
 | TO | 18 | 1 | – | 4 | – |
 
-## 2016 - zonas eleitorais (41 por NR_LOCAL_VOTACAO, 40 por endereço)
+## 2016
+
+Zonas eleitorais: 41 por NR_LOCAL_VOTACAO, 40 por endereço
 
 | UF | Zona | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---:|---:|---:|---:|---:|
@@ -174,7 +182,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | RO | 20 | 1 | 1 | 260 | 260 |
 | SP | 387 | 12 | 12 | 4.405 | 4.405 |
 
-## 2018 - zonas eleitorais (116 por NR_LOCAL_VOTACAO, 62 por endereço)
+## 2018
+
+Zonas eleitorais: 116 por NR_LOCAL_VOTACAO, 62 por endereço
 
 | UF | Zona | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---:|---:|---:|---:|---:|
@@ -315,7 +325,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | TO | 31 | 1 | – | 63 | – |
 | TO | 34 | 1 | – | 192 | – |
 
-## 2020 - zonas eleitorais (8 por NR_LOCAL_VOTACAO, 11 por endereço)
+## 2020
+
+Zonas eleitorais: 8 por NR_LOCAL_VOTACAO, 11 por endereço
 
 | UF | Zona | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---:|---:|---:|---:|---:|
@@ -332,7 +344,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | RJ | 204 | – | 8 | – | 3.312 |
 | SP | 217 | 5 | 5 | 1.773 | 1.773 |
 
-## 2022 - zonas eleitorais (219 por NR_LOCAL_VOTACAO, 69 por endereço)
+## 2022
+
+Zonas eleitorais: 219 por NR_LOCAL_VOTACAO, 69 por endereço
 
 | UF | Zona | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---:|---:|---:|---:|---:|
@@ -564,7 +578,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | TO | 29 | 3 | 3 | 976 | 976 |
 | TO | 31 | 2 | – | 432 | – |
 
-## 2024 - zonas eleitorais (12 por NR_LOCAL_VOTACAO, 13 por endereço)
+## 2024
+
+Zonas eleitorais: 12 por NR_LOCAL_VOTACAO, 13 por endereço
 
 | UF | Zona | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---:|---:|---:|---:|---:|
@@ -583,7 +599,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | 328 | 15 | 15 | 5.637 | 5.637 |
 | TO | 29 | 2 | – | 571 | – |
 
-## 2026 - zonas eleitorais (294 por NR_LOCAL_VOTACAO, 120 por endereço)
+## 2026
+
+Zonas eleitorais: 294 por NR_LOCAL_VOTACAO, 120 por endereço
 
 | UF | Zona | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---:|---:|---:|---:|---:|

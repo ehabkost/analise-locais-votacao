@@ -2,7 +2,9 @@
 
 Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endereço. `–` = não afetado por aquele critério.
 
-## 2010 - endereços (10 por NR_LOCAL_VOTACAO, 38 por endereço)
+## 2010
+
+Endereços: 10 por NR_LOCAL_VOTACAO, 38 por endereço
 
 | UF | Município | Endereço | CEP | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---|---:|---|---|---:|---:|
@@ -53,7 +55,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | VALINHOS | AV INVERNADA, 595 | 13271450 | – | destino | – | 10 |
 | SP | VALINHOS | R ITALIA, 139 | 13270180 | – | origem | – | 10 |
 
-## 2012 - endereços (83 por NR_LOCAL_VOTACAO, 77 por endereço)
+## 2012
+
+Endereços: 83 por NR_LOCAL_VOTACAO, 77 por endereço
 
 | UF | Município | Endereço | CEP | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---|---:|---|---|---:|---:|
@@ -147,7 +151,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | SÃO PAULO | RUA NOSSA SENHORA DA LAPA, 270 | 05072000 | origem | – | 13 | – |
 | SP | SÃO PAULO | RUA NOSSA SENHORA DA LAPA, 615 | 05072000 | destino | – | 13 | – |
 
-## 2014 - endereços (174 por NR_LOCAL_VOTACAO, 78 por endereço)
+## 2014
+
+Endereços: 174 por NR_LOCAL_VOTACAO, 78 por endereço
 
 | UF | Município | Endereço | CEP | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---|---:|---|---|---:|---:|
@@ -342,7 +348,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | TO | TOCANTINÓPOLIS | PRAÇA DA IGREJA MATRIZ | 77900000 | destino | – | 2 | – |
 | TO | TOCANTINÓPOLIS | RUA 15 DE NOVEMBRO, S/N | 77900000 | origem | – | 2 | – |
 
-## 2016 - endereços (449 por NR_LOCAL_VOTACAO, 428 por endereço)
+## 2016
+
+Endereços: 449 por NR_LOCAL_VOTACAO, 428 por endereço
 
 | UF | Município | Endereço | CEP | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---|---:|---|---|---:|---:|
@@ -804,7 +812,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | BAURU | RUA DR. IVO GUINTA, 2-45 | 17032800 | destino | destino | 12 | 12 |
 | SP | BAURU | RUA IRMÃOS DO SAGRADO CORAÇÃO, 3-30 | 17031723 | origem | origem | 12 | 12 |
 
-## 2018 - endereços (366 por NR_LOCAL_VOTACAO, 177 por endereço)
+## 2018
+
+Endereços: 366 por NR_LOCAL_VOTACAO, 177 por endereço
 
 | UF | Município | Endereço | CEP | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---|---:|---|---|---:|---:|
@@ -1229,7 +1239,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | TO | SANTA TEREZINHA DO TOCANTINS | POVOADO FORTUNA | 77885000 | origem | – | 1 | – |
 | TO | SANTA TEREZINHA DO TOCANTINS | POVOADO RIZADA | 77885000 | destino | – | 1 | – |
 
-## 2020 - endereços (47 por NR_LOCAL_VOTACAO, 43 por endereço)
+## 2020
+
+Endereços: 47 por NR_LOCAL_VOTACAO, 43 por endereço
 
 | UF | Município | Endereço | CEP | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---|---:|---|---|---:|---:|
@@ -1289,7 +1301,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | MAUÁ | AV. DOM JOSÉ GASPAR -1049 | 09370670 | origem | origem | 5 | 5 |
 | SP | MAUÁ | AV.CLODOALDO PORTUGAL CARIBE,411 | 09370620 | destino | destino | 5 | 5 |
 
-## 2022 - endereços (776 por NR_LOCAL_VOTACAO, 261 por endereço)
+## 2022
+
+Endereços: 776 por NR_LOCAL_VOTACAO, 261 por endereço
 
 | UF | Município | Endereço | CEP | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---|---:|---|---|---:|---:|
@@ -1753,8 +1767,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PB | ESPERANÇA | DISTRITO DE SÃO MIGUEL | 58135000 | destino | – | 2 | – |
 | PB | ITAPORANGA | ESTRADA DO CARAVELAS, 189 | 58780000 | origem | – | 11 | – |
 | PB | ITAPORANGA | RUA SEBASTIÃO RODRIGUES DE OLIVEIRA, 100 | 58780000 | destino | – | 11 | – |
-| PB | JOÃO PESSOA | CARTEIRO FRANCISCO INACIO DO REGO FILHO S/N | 58000000 | destino | – | 1 | – |
 | PB | JOÃO PESSOA | CARTEIRO FRANCISCO INACIO DO REGO FILHO S/N | 58090570 | origem | – | 1 | – |
+| PB | JOÃO PESSOA | CARTEIRO FRANCISCO INACIO DO REGO FILHO S/N | 58000000 | destino | – | 1 | – |
 | PB | JOÃO PESSOA | RUA ADAUTO TOLEDO, S/N | 58075260 | origem | origem | 9 | 9 |
 | PB | JOÃO PESSOA | RUA VICENTE COZZA, S/N | 58075420 | destino | destino | 9 | 9 |
 | PB | MARCAÇÃO | RUA MARIA ALTA, S/N | 58294000 | destino | – | 3 | – |
@@ -2102,7 +2116,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | TO | TOCANTINÓPOLIS | POVOADO FOLHA GROSSA | 77900000 | destino | – | 1 | – |
 | TO | TOCANTINÓPOLIS | POVOADO RIBEIRÃO GRANDE - PEDRO BENTO | 77900000 | origem | – | 1 | – |
 
-## 2024 - endereços (49 por NR_LOCAL_VOTACAO, 49 por endereço)
+## 2024
+
+Endereços: 49 por NR_LOCAL_VOTACAO, 49 por endereço
 
 | UF | Município | Endereço | CEP | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---|---:|---|---|---:|---:|
@@ -2162,7 +2178,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | TO | PALMAS | 503 NORTE ALAMEDA 07 APM 17 | 77000000 | destino | – | 2 | – |
 | TO | PALMAS | 603 NORTE APM-26 ALAMEDA 10 | 77000000 | origem | – | 2 | – |
 
-## 2026 - endereços (1.082 por NR_LOCAL_VOTACAO, 390 por endereço)
+## 2026
+
+Endereços: 1.082 por NR_LOCAL_VOTACAO, 390 por endereço
 
 | UF | Município | Endereço | CEP | Papel (NR) | Papel (End.) | Seções (NR) | Seções (End.) |
 |---|---|---|---:|---|---|---:|---:|
@@ -2648,8 +2666,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | MG | SÃO ROMÃO | BATIZAL - ZONA RURAL DE SÃO ROMÃO | 39290000 | origem | – | 1 | – |
 | MG | SÃO ROMÃO | FAZENDA TRAÇADAL, VILA SANTA LUZIA | 39290000 | origem | – | 1 | – |
 | MG | SÃO ROMÃO | TRAÇADAL | 39290000 | destino | – | 1 | – |
-| MG | TIMÓTEO | RUA TUIA, 101 | 35181422 | origem | – | 12 | – |
 | MG | TIMÓTEO | RUA TUIA, 101 | 35180000 | destino | – | 12 | – |
+| MG | TIMÓTEO | RUA TUIA, 101 | 35181422 | origem | – | 12 | – |
 | MG | TRÊS PONTAS | RUA DOUTOR ARTUR BRANDÃO, 73 | 37187144 | destino | destino | 6 | 6 |
 | MG | TRÊS PONTAS | RUA SANTANA DA VARGEM, 223 | 37191416 | origem | origem | 6 | 6 |
 | MG | UNAÍ | FAZENDA ALDEIA DE BAIXO | 38610000 | destino | – | 1 | – |
@@ -2669,8 +2687,8 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | PA | COLARES | LOCALIDADE DE GUAJARÁ | 68785000 | origem | – | 2 | – |
 | PA | COLARES | LOCALIDADE DE MOCAJATUBA | 68785000 | origem | – | 2 | – |
 | PA | COLARES | MOCAJATUBA | 68785000 | destino | – | 2 | – |
-| PA | PIÇARRA | VILA BOA VISTA | 68570000 | destino | – | 3 | – |
 | PA | PIÇARRA | VILA BOA VISTA | 68575000 | origem | – | 3 | – |
+| PA | PIÇARRA | VILA BOA VISTA | 68570000 | destino | – | 3 | – |
 | PA | SÃO GERALDO DO ARAGUAIA | AV. FIRMINO COSTA, S/N | 68570000 | origem | – | 4 | – |
 | PA | SÃO GERALDO DO ARAGUAIA | AVENIDA SANTA CLARA S/N | 68570000 | origem | – | 3 | – |
 | PA | SÃO GERALDO DO ARAGUAIA | RUA SANTA CLARA | 68570000 | destino | – | 3 | – |

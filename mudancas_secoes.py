@@ -103,7 +103,8 @@ def cel(x):
 
 
 def listar_md(ano, mudancas):
-    print(f"\n## {ano} - seções que mudaram ({br(len(mudancas))})\n")
+    print(f"\n## {ano}\n")
+    print(f"Seções que mudaram: {br(len(mudancas))}\n")
     print("| UF | Município | Zona | Seção | Eleitores | NR_LOCAL 1º→2º | NR | End. "
           "| Local 1º turno | Endereço 1º turno | Local 2º turno | Endereço 2º turno |")
     print("|---|---|---:|---:|---:|---|:-:|:-:|---|---|---|---|")
@@ -113,6 +114,8 @@ def listar_md(ano, mudancas):
               f"| {cel(v1[4])} | {cel(v1[5])} | {cel(v2[4])} | {cel(v2[5])} |")
 
 
+ARQUIVOS = ("UFS.md", "MUNICIPIOS.md", "ZONAS.md", "SECOES.md", "ELEITORES.md",
+            "LOCAIS.md", "ENDERECOS.md")
 BASES = (("NR_LOCAL_VOTACAO", 1, "mudou NR_LOCAL_VOTACAO"),
          ("endereço", 2, "mudou endereço (endereço normalizado E CEP diferentes)"))
 
@@ -181,7 +184,8 @@ def gerar_arquivos(resultados, saida):
     def totais():
         print("# Totais de seções que mudaram entre o 1º e o 2º turno\n")
         print("Eleitores = soma de `QT_ELEITOR_SECAO` (1º turno) das seções "
-              "afetadas. Locais e endereços afetados incluem os de origem "
+              "afetadas. Cada valor leva à seção do ano no arquivo detalhado. "
+              "Locais e endereços afetados incluem os de origem "
               "(1º turno) e os de destino (2º turno). Um local é identificado por "
               "NR_LOCAL_VOTACAO + nome (o mesmo número pode designar locais "
               "diferentes nos dois turnos); um endereço, por endereço normalizado "
@@ -191,10 +195,11 @@ def gerar_arquivos(resultados, saida):
             linhas = []
             for ano in por_ano:
                 a = agg[ano][k]
-                linhas.append((ano, *(br(x) for x in (
-                    len(a["ufs"]), len(a["muns"]), len(a["zonas"]),
-                    len(a["secoes"]), a["eleitores"], len(a["locais"]),
-                    len(a["ends"])))))
+                vals = (len(a["ufs"]), len(a["muns"]), len(a["zonas"]),
+                        len(a["secoes"]), a["eleitores"], len(a["locais"]),
+                        len(a["ends"]))
+                linhas.append((ano, *(f"[{br(x)}]({arq}#{ano})"
+                                      for x, arq in zip(vals, ARQUIVOS))))
             tabela(["Ano", "UFs", "Municípios", "Zonas", "Seções", "Eleitores",
                     "Locais", "Endereços"], "l" + "r" * 7, linhas)
         print("Listas detalhadas por ano: [UFS](UFS.md), [MUNICIPIOS](MUNICIPIOS.md), [ZONAS](ZONAS.md), "
@@ -207,8 +212,9 @@ def gerar_arquivos(resultados, saida):
         print(aviso)
         for ano in por_ano:
             nr, en = agg[ano]
-            print(f"## {ano} - {titulo.lower()} ({br(len(nr[chave]))} por "
-                  f"NR_LOCAL_VOTACAO, {br(len(en[chave]))} por endereço)\n")
+            print(f"## {ano}\n")
+            print(f"{titulo}: {br(len(nr[chave]))} por NR_LOCAL_VOTACAO, "
+                  f"{br(len(en[chave]))} por endereço\n")
             chaves = sorted(set(nr[chave]) | set(en[chave]),
                             key=lambda k: ordem(k, nr[chave], en[chave]))
             tabela(cab + extra, alinh + ealinh,
@@ -228,8 +234,9 @@ def gerar_arquivos(resultados, saida):
         print(aviso)
         for ano in por_ano:
             nr, en = agg[ano]
-            print(f"## {ano} - UFs ({br(len(nr['ufs']))} por NR_LOCAL_VOTACAO, "
-                  f"{br(len(en['ufs']))} por endereço)\n")
+            print(f"## {ano}\n")
+            print(f"UFs: {br(len(nr['ufs']))} por NR_LOCAL_VOTACAO, "
+                  f"{br(len(en['ufs']))} por endereço\n")
 
             def cont(a):
                 c = {}
@@ -286,8 +293,9 @@ def gerar_arquivos(resultados, saida):
         for ano in por_ano:
             nr, en = agg[ano]
             eleit_uf = por_ano[ano][1]
-            print(f"## {ano} - eleitores ({br(nr['eleitores'])} por NR_LOCAL_VOTACAO, "
-                  f"{br(en['eleitores'])} por endereço)\n")
+            print(f"## {ano}\n")
+            print(f"Eleitores: {br(nr['eleitores'])} por NR_LOCAL_VOTACAO, "
+                  f"{br(en['eleitores'])} por endereço\n")
             linhas = []
             for uf in sorted(set(nr["ufs"]) | set(en["ufs"])):
                 linha = [uf, br(eleit_uf[uf])]

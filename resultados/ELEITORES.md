@@ -4,7 +4,9 @@ Eleitores = soma de `QT_ELEITOR_SECAO` (1º turno) das seções afetadas. % = so
 
 Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endereço. `–` = não afetado por aquele critério.
 
-## 2010 - eleitores (5.084 por NR_LOCAL_VOTACAO, 39.286 por endereço)
+## 2010
+
+Eleitores: 5.084 por NR_LOCAL_VOTACAO, 39.286 por endereço
 
 | UF | Eleitorado da UF | Afetados (NR) | % (NR) | Afetados (End.) | % (End.) |
 |---|---:|---:|---:|---:|---:|
@@ -21,7 +23,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SE | 1.425.602 | 301 | 0,021% | 301 | 0,021% |
 | SP | 30.301.398 | 0 | 0,000% | 5.497 | 0,018% |
 
-## 2012 - eleitores (74.314 por NR_LOCAL_VOTACAO, 64.535 por endereço)
+## 2012
+
+Eleitores: 74.314 por NR_LOCAL_VOTACAO, 64.535 por endereço
 
 | UF | Eleitorado da UF | Afetados (NR) | % (NR) | Afetados (End.) | % (End.) |
 |---|---:|---:|---:|---:|---:|
@@ -36,7 +40,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | RN | 526.426 | 962 | 0,183% | 962 | 0,183% |
 | SP | 13.159.902 | 5.103 | 0,039% | 4.419 | 0,034% |
 
-## 2014 - eleitores (73.270 por NR_LOCAL_VOTACAO, 42.882 por endereço)
+## 2014
+
+Eleitores: 73.270 por NR_LOCAL_VOTACAO, 42.882 por endereço
 
 | UF | Eleitorado da UF | Afetados (NR) | % (NR) | Afetados (End.) | % (End.) |
 |---|---:|---:|---:|---:|---:|
@@ -60,7 +66,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | 31.998.432 | 0 | 0,000% | 910 | 0,003% |
 | TO | 996.887 | 5.007 | 0,502% | 1.678 | 0,168% |
 
-## 2016 - eleitores (806.060 por NR_LOCAL_VOTACAO, 768.037 por endereço)
+## 2016
+
+Eleitores: 806.060 por NR_LOCAL_VOTACAO, 768.037 por endereço
 
 | UF | Eleitorado da UF | Afetados (NR) | % (NR) | Afetados (End.) | % (End.) |
 |---|---:|---:|---:|---:|---:|
@@ -76,7 +84,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | RO | 319.939 | 260 | 0,081% | 260 | 0,081% |
 | SP | 5.400.624 | 4.405 | 0,082% | 4.405 | 0,082% |
 
-## 2018 - eleitores (183.800 por NR_LOCAL_VOTACAO, 155.836 por endereço)
+## 2018
+
+Eleitores: 183.800 por NR_LOCAL_VOTACAO, 155.836 por endereço
 
 | UF | Eleitorado da UF | Afetados (NR) | % (NR) | Afetados (End.) | % (End.) |
 |---|---:|---:|---:|---:|---:|
@@ -103,7 +113,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | 33.040.411 | 0 | 0,000% | 34.865 | 0,106% |
 | TO | 1.039.439 | 9.002 | 0,866% | 775 | 0,075% |
 
-## 2020 - eleitores (17.309 por NR_LOCAL_VOTACAO, 31.931 por endereço)
+## 2020
+
+Eleitores: 17.309 por NR_LOCAL_VOTACAO, 31.931 por endereço
 
 | UF | Eleitorado da UF | Afetados (NR) | % (NR) | Afetados (End.) | % (End.) |
 |---|---:|---:|---:|---:|---:|
@@ -116,7 +128,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | RJ | 6.493.487 | 0 | 0,000% | 12.209 | 0,188% |
 | SP | 14.537.905 | 1.773 | 0,012% | 1.773 | 0,012% |
 
-## 2022 - eleitores (418.581 por NR_LOCAL_VOTACAO, 196.388 por endereço)
+## 2022
+
+Eleitores: 418.581 por NR_LOCAL_VOTACAO, 196.388 por endereço
 
 | UF | Eleitorado da UF | Afetados (NR) | % (NR) | Afetados (End.) | % (End.) |
 |---|---:|---:|---:|---:|---:|
@@ -147,7 +161,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | 34.667.793 | 10.941 | 0,032% | 6.706 | 0,019% |
 | TO | 1.094.003 | 1.871 | 0,171% | 976 | 0,089% |
 
-## 2024 - eleitores (42.624 por NR_LOCAL_VOTACAO, 50.015 por endereço)
+## 2024
+
+Eleitores: 42.624 por NR_LOCAL_VOTACAO, 50.015 por endereço
 
 | UF | Eleitorado da UF | Afetados (NR) | % (NR) | Afetados (End.) | % (End.) |
 |---|---:|---:|---:|---:|---:|
@@ -161,7 +177,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | 15.607.998 | 12.501 | 0,080% | 12.501 | 0,080% |
 | TO | 209.524 | 571 | 0,273% | 0 | 0,000% |
 
-## 2026 - eleitores (595.423 por NR_LOCAL_VOTACAO, 282.814 por endereço)
+## 2026
+
+Eleitores: 595.423 por NR_LOCAL_VOTACAO, 282.814 por endereço
 
 | UF | Eleitorado da UF | Afetados (NR) | % (NR) | Afetados (End.) | % (End.) |
 |---|---:|---:|---:|---:|---:|

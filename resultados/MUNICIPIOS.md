@@ -2,7 +2,9 @@
 
 Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endereço. `–` = não afetado por aquele critério.
 
-## 2010 - municípios (5 por NR_LOCAL_VOTACAO, 16 por endereço)
+## 2010
+
+Municípios: 5 por NR_LOCAL_VOTACAO, 16 por endereço
 
 | UF | Município | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---|---:|---:|---:|---:|
@@ -27,7 +29,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | ARAÇATUBA | – | 4 | – | 1.314 |
 | SP | VALINHOS | – | 10 | – | 4.183 |
 
-## 2012 - municípios (13 por NR_LOCAL_VOTACAO, 14 por endereço)
+## 2012
+
+Municípios: 13 por NR_LOCAL_VOTACAO, 14 por endereço
 
 | UF | Município | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---|---:|---:|---:|---:|
@@ -47,7 +51,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | JUNDIAÍ | – | 6 | – | 2.294 |
 | SP | SÃO PAULO | 13 | – | 5.103 | – |
 
-## 2014 - municípios (59 por NR_LOCAL_VOTACAO, 23 por endereço)
+## 2014
+
+Municípios: 59 por NR_LOCAL_VOTACAO, 23 por endereço
 
 | UF | Município | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---|---:|---:|---:|---:|
@@ -117,7 +123,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | TO | SÍTIO NOVO DO TOCANTINS | 1 | – | 348 | – |
 | TO | TOCANTINÓPOLIS | 6 | – | 1.353 | – |
 
-## 2016 - municípios (13 por NR_LOCAL_VOTACAO, 15 por endereço)
+## 2016
+
+Municípios: 13 por NR_LOCAL_VOTACAO, 15 por endereço
 
 | UF | Município | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---|---:|---:|---:|---:|
@@ -138,7 +146,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | RO | PORTO VELHO | 1 | 1 | 260 | 260 |
 | SP | BAURU | 12 | 12 | 4.405 | 4.405 |
 
-## 2018 - municípios (115 por NR_LOCAL_VOTACAO, 43 por endereço)
+## 2018
+
+Municípios: 115 por NR_LOCAL_VOTACAO, 43 por endereço
 
 | UF | Município | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---|---:|---:|---:|---:|
@@ -273,7 +283,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | TO | PORTO NACIONAL | 2 | – | 155 | – |
 | TO | SANTA TEREZINHA DO TOCANTINS | 1 | – | 157 | – |
 
-## 2020 - municípios (6 por NR_LOCAL_VOTACAO, 7 por endereço)
+## 2020
+
+Municípios: 6 por NR_LOCAL_VOTACAO, 7 por endereço
 
 | UF | Município | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---|---:|---:|---:|---:|
@@ -286,7 +298,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | RJ | RIO DE JANEIRO | – | 33 | – | 12.209 |
 | SP | MAUÁ | 5 | 5 | 1.773 | 1.773 |
 
-## 2022 - municípios (242 por NR_LOCAL_VOTACAO, 61 por endereço)
+## 2022
+
+Municípios: 242 por NR_LOCAL_VOTACAO, 61 por endereço
 
 | UF | Município | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---|---:|---:|---:|---:|
@@ -542,7 +556,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | TO | SANTA TEREZINHA DO TOCANTINS | 1 | – | 208 | – |
 | TO | TOCANTINÓPOLIS | 1 | – | 132 | – |
 
-## 2024 - municípios (8 por NR_LOCAL_VOTACAO, 9 por endereço)
+## 2024
+
+Municípios: 8 por NR_LOCAL_VOTACAO, 9 por endereço
 
 | UF | Município | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---|---:|---:|---:|---:|
@@ -557,7 +573,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | SÃO PAULO | 34 | 34 | 12.501 | 12.501 |
 | TO | PALMAS | 2 | – | 571 | – |
 
-## 2026 - municípios (336 por NR_LOCAL_VOTACAO, 108 por endereço)
+## 2026
+
+Municípios: 336 por NR_LOCAL_VOTACAO, 108 por endereço
 
 | UF | Município | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---|---:|---:|---:|---:|

@@ -2,7 +2,9 @@
 
 Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endereço. `–` = não afetado por aquele critério.
 
-## 2010 - UFs (2 por NR_LOCAL_VOTACAO, 12 por endereço)
+## 2010
+
+UFs: 2 por NR_LOCAL_VOTACAO, 12 por endereço
 
 | UF | Municípios (NR) | Municípios (End.) | Zonas (NR) | Zonas (End.) | Seções (NR) | Seções (End.) |
 |---|---:|---:|---:|---:|---:|---:|
@@ -19,7 +21,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SE | 1 | 1 | 1 | 1 | 1 | 1 |
 | SP | – | 2 | – | 2 | – | 14 |
 
-## 2012 - UFs (10 por NR_LOCAL_VOTACAO, 10 por endereço)
+## 2012
+
+UFs: 10 por NR_LOCAL_VOTACAO, 10 por endereço
 
 | UF | Municípios (NR) | Municípios (End.) | Zonas (NR) | Zonas (End.) | Seções (NR) | Seções (End.) |
 |---|---:|---:|---:|---:|---:|---:|
@@ -34,7 +38,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | RN | 1 | 1 | 1 | 1 | 2 | 2 |
 | SP | 1 | 2 | 1 | 2 | 13 | 13 |
 
-## 2014 - UFs (16 por NR_LOCAL_VOTACAO, 12 por endereço)
+## 2014
+
+UFs: 16 por NR_LOCAL_VOTACAO, 12 por endereço
 
 | UF | Municípios (NR) | Municípios (End.) | Zonas (NR) | Zonas (End.) | Seções (NR) | Seções (End.) |
 |---|---:|---:|---:|---:|---:|---:|
@@ -58,7 +64,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | – | 2 | – | 2 | – | 4 |
 | TO | 9 | 1 | 4 | 1 | 19 | 5 |
 
-## 2016 - UFs (8 por NR_LOCAL_VOTACAO, 11 por endereço)
+## 2016
+
+UFs: 8 por NR_LOCAL_VOTACAO, 11 por endereço
 
 | UF | Municípios (NR) | Municípios (End.) | Zonas (NR) | Zonas (End.) | Seções (NR) | Seções (End.) |
 |---|---:|---:|---:|---:|---:|---:|
@@ -74,7 +82,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | RO | 1 | 1 | 1 | 1 | 1 | 1 |
 | SP | 1 | 1 | 1 | 1 | 12 | 12 |
 
-## 2018 - UFs (18 por NR_LOCAL_VOTACAO, 18 por endereço)
+## 2018
+
+UFs: 18 por NR_LOCAL_VOTACAO, 18 por endereço
 
 | UF | Municípios (NR) | Municípios (End.) | Zonas (NR) | Zonas (End.) | Seções (NR) | Seções (End.) |
 |---|---:|---:|---:|---:|---:|---:|
@@ -101,7 +111,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | – | 4 | – | 4 | – | 94 |
 | TO | 11 | 1 | 9 | 1 | 38 | 4 |
 
-## 2020 - UFs (6 por NR_LOCAL_VOTACAO, 7 por endereço)
+## 2020
+
+UFs: 6 por NR_LOCAL_VOTACAO, 7 por endereço
 
 | UF | Municípios (NR) | Municípios (End.) | Zonas (NR) | Zonas (End.) | Seções (NR) | Seções (End.) |
 |---|---:|---:|---:|---:|---:|---:|
@@ -114,7 +126,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | RJ | – | 1 | – | 2 | – | 33 |
 | SP | 1 | 1 | 1 | 1 | 5 | 5 |
 
-## 2022 - UFs (26 por NR_LOCAL_VOTACAO, 21 por endereço)
+## 2022
+
+UFs: 26 por NR_LOCAL_VOTACAO, 21 por endereço
 
 | UF | Municípios (NR) | Municípios (End.) | Zonas (NR) | Zonas (End.) | Seções (NR) | Seções (End.) |
 |---|---:|---:|---:|---:|---:|---:|
@@ -145,7 +159,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | 5 | 3 | 5 | 3 | 35 | 23 |
 | TO | 5 | 1 | 3 | 1 | 8 | 3 |
 
-## 2024 - UFs (7 por NR_LOCAL_VOTACAO, 8 por endereço)
+## 2024
+
+UFs: 7 por NR_LOCAL_VOTACAO, 8 por endereço
 
 | UF | Municípios (NR) | Municípios (End.) | Zonas (NR) | Zonas (End.) | Seções (NR) | Seções (End.) |
 |---|---:|---:|---:|---:|---:|---:|
@@ -159,7 +175,9 @@ Colunas (NR) = critério mudou NR_LOCAL_VOTACAO; (End.) = critério mudou endere
 | SP | 1 | 1 | 2 | 2 | 34 | 34 |
 | TO | 1 | – | 1 | – | 2 | – |
 
-## 2026 - UFs (23 por NR_LOCAL_VOTACAO, 21 por endereço)
+## 2026
+
+UFs: 23 por NR_LOCAL_VOTACAO, 21 por endereço
 
 | UF | Municípios (NR) | Municípios (End.) | Zonas (NR) | Zonas (End.) | Seções (NR) | Seções (End.) |
 |---|---:|---:|---:|---:|---:|---:|
