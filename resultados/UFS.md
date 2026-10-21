@@ -177,32 +177,31 @@ UFs: 7 por NR_LOCAL_VOTACAO, 8 por endereço
 
 ## 2026
 
-UFs: 23 por NR_LOCAL_VOTACAO, 21 por endereço
+UFs: 22 por NR_LOCAL_VOTACAO, 17 por endereço
 
 | UF | Municípios (NR) | Municípios (End.) | Zonas (NR) | Zonas (End.) | Seções (NR) | Seções (End.) |
 |---|---:|---:|---:|---:|---:|---:|
-| SP | [17](MUNICIPIOS.md#2026-sp) | [14](MUNICIPIOS.md#2026-sp) | [19](ZONAS.md#2026-sp) | [15](ZONAS.md#2026-sp) | [207](SECOES.md#2026-sp) | [174](SECOES.md#2026-sp) |
-| PR | [49](MUNICIPIOS.md#2026-pr) | [19](MUNICIPIOS.md#2026-pr) | [43](ZONAS.md#2026-pr) | [20](ZONAS.md#2026-pr) | [270](SECOES.md#2026-pr) | [149](SECOES.md#2026-pr) |
-| AP | [5](MUNICIPIOS.md#2026-ap) | [2](MUNICIPIOS.md#2026-ap) | [6](ZONAS.md#2026-ap) | [4](ZONAS.md#2026-ap) | [117](SECOES.md#2026-ap) | [82](SECOES.md#2026-ap) |
-| PE | [31](MUNICIPIOS.md#2026-pe) | [8](MUNICIPIOS.md#2026-pe) | [30](ZONAS.md#2026-pe) | [9](ZONAS.md#2026-pe) | [204](SECOES.md#2026-pe) | [79](SECOES.md#2026-pe) |
-| GO | [10](MUNICIPIOS.md#2026-go) | [6](MUNICIPIOS.md#2026-go) | [8](ZONAS.md#2026-go) | [6](ZONAS.md#2026-go) | [73](SECOES.md#2026-go) | [58](SECOES.md#2026-go) |
-| MG | [43](MUNICIPIOS.md#2026-mg) | [11](MUNICIPIOS.md#2026-mg) | [36](ZONAS.md#2026-mg) | [11](ZONAS.md#2026-mg) | [184](SECOES.md#2026-mg) | [52](SECOES.md#2026-mg) |
-| AM | [2](MUNICIPIOS.md#2026-am) | [2](MUNICIPIOS.md#2026-am) | [7](ZONAS.md#2026-am) | [6](ZONAS.md#2026-am) | [48](SECOES.md#2026-am) | [47](SECOES.md#2026-am) |
-| RR | [6](MUNICIPIOS.md#2026-rr) | [4](MUNICIPIOS.md#2026-rr) | [6](ZONAS.md#2026-rr) | [4](ZONAS.md#2026-rr) | [60](SECOES.md#2026-rr) | [42](SECOES.md#2026-rr) |
-| BA | [29](MUNICIPIOS.md#2026-ba) | [6](MUNICIPIOS.md#2026-ba) | [25](ZONAS.md#2026-ba) | [7](ZONAS.md#2026-ba) | [132](SECOES.md#2026-ba) | [41](SECOES.md#2026-ba) |
-| MA | [26](MUNICIPIOS.md#2026-ma) | [6](MUNICIPIOS.md#2026-ma) | [25](ZONAS.md#2026-ma) | [8](ZONAS.md#2026-ma) | [183](SECOES.md#2026-ma) | [39](SECOES.md#2026-ma) |
-| PB | [17](MUNICIPIOS.md#2026-pb) | [5](MUNICIPIOS.md#2026-pb) | [10](ZONAS.md#2026-pb) | [5](ZONAS.md#2026-pb) | [104](SECOES.md#2026-pb) | [36](SECOES.md#2026-pb) |
-| PI | [34](MUNICIPIOS.md#2026-pi) | [6](MUNICIPIOS.md#2026-pi) | [21](ZONAS.md#2026-pi) | [6](ZONAS.md#2026-pi) | [148](SECOES.md#2026-pi) | [28](SECOES.md#2026-pi) |
-| SE | [9](MUNICIPIOS.md#2026-se) | [4](MUNICIPIOS.md#2026-se) | [9](ZONAS.md#2026-se) | [4](ZONAS.md#2026-se) | [72](SECOES.md#2026-se) | [23](SECOES.md#2026-se) |
-| AL | [16](MUNICIPIOS.md#2026-al) | [3](MUNICIPIOS.md#2026-al) | [13](ZONAS.md#2026-al) | [3](ZONAS.md#2026-al) | [102](SECOES.md#2026-al) | [19](SECOES.md#2026-al) |
-| RJ | – | [2](MUNICIPIOS.md#2026-rj) | – | [2](ZONAS.md#2026-rj) | – | [19](SECOES.md#2026-rj) |
-| RO | [1](MUNICIPIOS.md#2026-ro) | [1](MUNICIPIOS.md#2026-ro) | [1](ZONAS.md#2026-ro) | [1](ZONAS.md#2026-ro) | [10](SECOES.md#2026-ro) | [10](SECOES.md#2026-ro) |
-| PA | [5](MUNICIPIOS.md#2026-pa) | [2](MUNICIPIOS.md#2026-pa) | [4](ZONAS.md#2026-pa) | [2](ZONAS.md#2026-pa) | [29](SECOES.md#2026-pa) | [9](SECOES.md#2026-pa) |
-| RS | [7](MUNICIPIOS.md#2026-rs) | [2](MUNICIPIOS.md#2026-rs) | [7](ZONAS.md#2026-rs) | [2](ZONAS.md#2026-rs) | [20](SECOES.md#2026-rs) | [9](SECOES.md#2026-rs) |
-| TO | [13](MUNICIPIOS.md#2026-to) | [2](MUNICIPIOS.md#2026-to) | [11](ZONAS.md#2026-to) | [2](ZONAS.md#2026-to) | [37](SECOES.md#2026-to) | [6](SECOES.md#2026-to) |
-| AC | [4](MUNICIPIOS.md#2026-ac) | [1](MUNICIPIOS.md#2026-ac) | [3](ZONAS.md#2026-ac) | [1](ZONAS.md#2026-ac) | [13](SECOES.md#2026-ac) | [6](SECOES.md#2026-ac) |
-| CE | [3](MUNICIPIOS.md#2026-ce) | [2](MUNICIPIOS.md#2026-ce) | [3](ZONAS.md#2026-ce) | [2](ZONAS.md#2026-ce) | [8](SECOES.md#2026-ce) | [5](SECOES.md#2026-ce) |
+| MG | [26](MUNICIPIOS.md#2026-mg) | [5](MUNICIPIOS.md#2026-mg) | [21](ZONAS.md#2026-mg) | [5](ZONAS.md#2026-mg) | [117](SECOES.md#2026-mg) | [39](SECOES.md#2026-mg) |
+| SP | [3](MUNICIPIOS.md#2026-sp) | [3](MUNICIPIOS.md#2026-sp) | [4](ZONAS.md#2026-sp) | [4](ZONAS.md#2026-sp) | [31](SECOES.md#2026-sp) | [31](SECOES.md#2026-sp) |
+| RJ | [1](MUNICIPIOS.md#2026-rj) | [2](MUNICIPIOS.md#2026-rj) | [1](ZONAS.md#2026-rj) | [2](ZONAS.md#2026-rj) | [5](SECOES.md#2026-rj) | [19](SECOES.md#2026-rj) |
+| PR | [8](MUNICIPIOS.md#2026-pr) | [3](MUNICIPIOS.md#2026-pr) | [7](ZONAS.md#2026-pr) | [3](ZONAS.md#2026-pr) | [29](SECOES.md#2026-pr) | [16](SECOES.md#2026-pr) |
+| GO | – | [1](MUNICIPIOS.md#2026-go) | – | [1](ZONAS.md#2026-go) | – | [15](SECOES.md#2026-go) |
+| MA | [10](MUNICIPIOS.md#2026-ma) | [1](MUNICIPIOS.md#2026-ma) | [9](ZONAS.md#2026-ma) | [1](ZONAS.md#2026-ma) | [39](SECOES.md#2026-ma) | [13](SECOES.md#2026-ma) |
+| PA | [9](MUNICIPIOS.md#2026-pa) | [3](MUNICIPIOS.md#2026-pa) | [7](ZONAS.md#2026-pa) | [3](ZONAS.md#2026-pa) | [41](SECOES.md#2026-pa) | [11](SECOES.md#2026-pa) |
+| MT | [3](MUNICIPIOS.md#2026-mt) | [2](MUNICIPIOS.md#2026-mt) | [3](ZONAS.md#2026-mt) | [2](ZONAS.md#2026-mt) | [19](SECOES.md#2026-mt) | [11](SECOES.md#2026-mt) |
+| RO | [3](MUNICIPIOS.md#2026-ro) | [1](MUNICIPIOS.md#2026-ro) | [3](ZONAS.md#2026-ro) | [1](ZONAS.md#2026-ro) | [12](SECOES.md#2026-ro) | [10](SECOES.md#2026-ro) |
+| RS | [6](MUNICIPIOS.md#2026-rs) | [2](MUNICIPIOS.md#2026-rs) | [6](ZONAS.md#2026-rs) | [2](ZONAS.md#2026-rs) | [19](SECOES.md#2026-rs) | [9](SECOES.md#2026-rs) |
+| CE | [6](MUNICIPIOS.md#2026-ce) | [2](MUNICIPIOS.md#2026-ce) | [6](ZONAS.md#2026-ce) | [2](ZONAS.md#2026-ce) | [12](SECOES.md#2026-ce) | [5](SECOES.md#2026-ce) |
+| BA | [4](MUNICIPIOS.md#2026-ba) | [1](MUNICIPIOS.md#2026-ba) | [4](ZONAS.md#2026-ba) | [1](ZONAS.md#2026-ba) | [7](SECOES.md#2026-ba) | [5](SECOES.md#2026-ba) |
+| AP | [1](MUNICIPIOS.md#2026-ap) | [1](MUNICIPIOS.md#2026-ap) | [1](ZONAS.md#2026-ap) | [1](ZONAS.md#2026-ap) | [5](SECOES.md#2026-ap) | [5](SECOES.md#2026-ap) |
+| PI | [9](MUNICIPIOS.md#2026-pi) | [4](MUNICIPIOS.md#2026-pi) | [7](ZONAS.md#2026-pi) | [4](ZONAS.md#2026-pi) | [41](SECOES.md#2026-pi) | [4](SECOES.md#2026-pi) |
+| PE | [3](MUNICIPIOS.md#2026-pe) | [1](MUNICIPIOS.md#2026-pe) | [3](ZONAS.md#2026-pe) | [1](ZONAS.md#2026-pe) | [8](SECOES.md#2026-pe) | [2](SECOES.md#2026-pe) |
+| SE | [1](MUNICIPIOS.md#2026-se) | [1](MUNICIPIOS.md#2026-se) | [1](ZONAS.md#2026-se) | [1](ZONAS.md#2026-se) | [2](SECOES.md#2026-se) | [2](SECOES.md#2026-se) |
+| PB | [3](MUNICIPIOS.md#2026-pb) | [1](MUNICIPIOS.md#2026-pb) | [2](ZONAS.md#2026-pb) | [1](ZONAS.md#2026-pb) | [8](SECOES.md#2026-pb) | [1](SECOES.md#2026-pb) |
 | RN | [6](MUNICIPIOS.md#2026-rn) | – | [4](ZONAS.md#2026-rn) | – | [24](SECOES.md#2026-rn) | – |
-| ES | [2](MUNICIPIOS.md#2026-es) | – | [2](ZONAS.md#2026-es) | – | [7](SECOES.md#2026-es) | – |
+| ES | [4](MUNICIPIOS.md#2026-es) | – | [4](ZONAS.md#2026-es) | – | [16](SECOES.md#2026-es) | – |
+| AM | [3](MUNICIPIOS.md#2026-am) | – | [3](ZONAS.md#2026-am) | – | [7](SECOES.md#2026-am) | – |
+| TO | [1](MUNICIPIOS.md#2026-to) | – | [1](ZONAS.md#2026-to) | – | [2](SECOES.md#2026-to) | – |
+| AL | [1](MUNICIPIOS.md#2026-al) | – | [1](ZONAS.md#2026-al) | – | [1](SECOES.md#2026-al) | – |
 | MS | [1](MUNICIPIOS.md#2026-ms) | – | [1](ZONAS.md#2026-ms) | – | [1](SECOES.md#2026-ms) | – |
 

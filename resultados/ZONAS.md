@@ -601,306 +601,111 @@ Zonas eleitorais: 12 por NR_LOCAL_VOTACAO, 13 por endereço
 
 ## 2026
 
-Zonas eleitorais: 294 por NR_LOCAL_VOTACAO, 120 por endereço
+Zonas eleitorais: 99 por NR_LOCAL_VOTACAO, 35 por endereço
 
 | UF | Zona | Seções (NR) | Seções (End.) | Eleitores (NR) | Eleitores (End.) |
 |---|---:|---:|---:|---:|---:|
-| <a id="2026-ap"></a>AP | 14 | [44](SECOES.md#2026-ap-z14) | [44](SECOES.md#2026-ap-z14) | [14.321](SECOES.md#2026-ap-z14) | [14.321](SECOES.md#2026-ap-z14) |
-| <a id="2026-sp"></a>SP | 66 | [31](SECOES.md#2026-sp-z66) | [31](SECOES.md#2026-sp-z66) | [8.645](SECOES.md#2026-sp-z66) | [8.645](SECOES.md#2026-sp-z66) |
-| <a id="2026-am"></a>AM | 70 | [29](SECOES.md#2026-am-z70) | [29](SECOES.md#2026-am-z70) | [10.045](SECOES.md#2026-am-z70) | [10.045](SECOES.md#2026-am-z70) |
-| <a id="2026-go"></a>GO | 3 | [14](SECOES.md#2026-go-z3) | [29](SECOES.md#2026-go-z3) | [4.487](SECOES.md#2026-go-z3) | [9.376](SECOES.md#2026-go-z3) |
-| <a id="2026-rr"></a>RR | 1 | [28](SECOES.md#2026-rr-z1) | [28](SECOES.md#2026-rr-z1) | [6.688](SECOES.md#2026-rr-z1) | [6.688](SECOES.md#2026-rr-z1) |
-| SP | 199 | [24](SECOES.md#2026-sp-z199) | [24](SECOES.md#2026-sp-z199) | [8.464](SECOES.md#2026-sp-z199) | [8.464](SECOES.md#2026-sp-z199) |
-| AP | 2 | [35](SECOES.md#2026-ap-z2) | [23](SECOES.md#2026-ap-z2) | [9.151](SECOES.md#2026-ap-z2) | [6.159](SECOES.md#2026-ap-z2) |
-| <a id="2026-pr"></a>PR | 33 | [32](SECOES.md#2026-pr-z33) | [23](SECOES.md#2026-pr-z33) | [9.694](SECOES.md#2026-pr-z33) | [7.065](SECOES.md#2026-pr-z33) |
-| GO | 18 | [18](SECOES.md#2026-go-z18) | [18](SECOES.md#2026-go-z18) | [4.812](SECOES.md#2026-go-z18) | [4.812](SECOES.md#2026-go-z18) |
-| SP | 376 | [18](SECOES.md#2026-sp-z376) | [18](SECOES.md#2026-sp-z376) | [6.082](SECOES.md#2026-sp-z376) | [6.082](SECOES.md#2026-sp-z376) |
-| <a id="2026-ba"></a>BA | 23 | [18](SECOES.md#2026-ba-z23) | [17](SECOES.md#2026-ba-z23) | [5.992](SECOES.md#2026-ba-z23) | [5.713](SECOES.md#2026-ba-z23) |
-| <a id="2026-pe"></a>PE | 3 | [16](SECOES.md#2026-pe-z3) | [16](SECOES.md#2026-pe-z3) | [6.265](SECOES.md#2026-pe-z3) | [6.265](SECOES.md#2026-pe-z3) |
-| PE | 146 | [16](SECOES.md#2026-pe-z146) | [16](SECOES.md#2026-pe-z146) | [5.727](SECOES.md#2026-pe-z146) | [5.727](SECOES.md#2026-pe-z146) |
-| PR | 178 | [16](SECOES.md#2026-pr-z178) | [16](SECOES.md#2026-pr-z178) | [5.263](SECOES.md#2026-pr-z178) | [5.263](SECOES.md#2026-pr-z178) |
-| PE | 13 | [15](SECOES.md#2026-pe-z13) | [15](SECOES.md#2026-pe-z13) | [4.662](SECOES.md#2026-pe-z13) | [4.662](SECOES.md#2026-pe-z13) |
+| <a id="2026-mg"></a>MG | 16 | [16](SECOES.md#2026-mg-z16) | [16](SECOES.md#2026-mg-z16) | [4.559](SECOES.md#2026-mg-z16) | [4.559](SECOES.md#2026-mg-z16) |
+| <a id="2026-go"></a>GO | 3 | – | [15](SECOES.md#2026-go-z3) | – | [4.889](SECOES.md#2026-go-z3) |
 | <a id="2026-rj"></a>RJ | 156 | – | [14](SECOES.md#2026-rj-z156) | – | [4.923](SECOES.md#2026-rj-z156) |
-| <a id="2026-pi"></a>PI | 43 | [44](SECOES.md#2026-pi-z43) | [13](SECOES.md#2026-pi-z43) | [9.193](SECOES.md#2026-pi-z43) | [3.277](SECOES.md#2026-pi-z43) |
-| <a id="2026-pb"></a>PB | 35 | [21](SECOES.md#2026-pb-z35) | [13](SECOES.md#2026-pb-z35) | [6.012](SECOES.md#2026-pb-z35) | [4.165](SECOES.md#2026-pb-z35) |
-| PR | 63 | [16](SECOES.md#2026-pr-z63) | [13](SECOES.md#2026-pr-z63) | [4.106](SECOES.md#2026-pr-z63) | [3.293](SECOES.md#2026-pr-z63) |
-| <a id="2026-ma"></a>MA | 4 | [18](SECOES.md#2026-ma-z4) | [12](SECOES.md#2026-ma-z4) | [3.967](SECOES.md#2026-ma-z4) | [3.271](SECOES.md#2026-ma-z4) |
-| PR | 45 | [18](SECOES.md#2026-pr-z45) | [12](SECOES.md#2026-pr-z45) | [5.570](SECOES.md#2026-pr-z45) | [3.777](SECOES.md#2026-pr-z45) |
-| PB | 57 | [12](SECOES.md#2026-pb-z57) | [12](SECOES.md#2026-pb-z57) | [3.675](SECOES.md#2026-pb-z57) | [3.675](SECOES.md#2026-pb-z57) |
-| PR | 66 | [12](SECOES.md#2026-pr-z66) | [12](SECOES.md#2026-pr-z66) | [3.772](SECOES.md#2026-pr-z66) | [3.772](SECOES.md#2026-pr-z66) |
-| PR | 174 | [12](SECOES.md#2026-pr-z174) | [12](SECOES.md#2026-pr-z174) | [3.334](SECOES.md#2026-pr-z174) | [3.334](SECOES.md#2026-pr-z174) |
-| SP | 256 | [12](SECOES.md#2026-sp-z256) | [12](SECOES.md#2026-sp-z256) | [4.663](SECOES.md#2026-sp-z256) | [4.663](SECOES.md#2026-sp-z256) |
-| SP | 306 | [12](SECOES.md#2026-sp-z306) | [12](SECOES.md#2026-sp-z306) | [3.674](SECOES.md#2026-sp-z306) | [3.674](SECOES.md#2026-sp-z306) |
-| SP | 356 | [12](SECOES.md#2026-sp-z356) | [12](SECOES.md#2026-sp-z356) | [3.540](SECOES.md#2026-sp-z356) | [3.540](SECOES.md#2026-sp-z356) |
+| <a id="2026-ma"></a>MA | 57 | [13](SECOES.md#2026-ma-z57) | [13](SECOES.md#2026-ma-z57) | [4.319](SECOES.md#2026-ma-z57) | [4.319](SECOES.md#2026-ma-z57) |
+| <a id="2026-pr"></a>PR | 45 | [12](SECOES.md#2026-pr-z45) | [12](SECOES.md#2026-pr-z45) | [3.777](SECOES.md#2026-pr-z45) | [3.777](SECOES.md#2026-pr-z45) |
+| <a id="2026-sp"></a>SP | 256 | [12](SECOES.md#2026-sp-z256) | [12](SECOES.md#2026-sp-z256) | [4.663](SECOES.md#2026-sp-z256) | [4.663](SECOES.md#2026-sp-z256) |
 | SP | 402 | [12](SECOES.md#2026-sp-z402) | [12](SECOES.md#2026-sp-z402) | [3.292](SECOES.md#2026-sp-z402) | [3.292](SECOES.md#2026-sp-z402) |
-| PE | 56 | [11](SECOES.md#2026-pe-z56) | [11](SECOES.md#2026-pe-z56) | [3.355](SECOES.md#2026-pe-z56) | [3.355](SECOES.md#2026-pe-z56) |
-| AP | 6 | [21](SECOES.md#2026-ap-z6) | [10](SECOES.md#2026-ap-z6) | [5.908](SECOES.md#2026-ap-z6) | [3.177](SECOES.md#2026-ap-z6) |
-| <a id="2026-mg"></a>MG | 187 | [15](SECOES.md#2026-mg-z187) | [10](SECOES.md#2026-mg-z187) | [2.926](SECOES.md#2026-mg-z187) | [2.014](SECOES.md#2026-mg-z187) |
-| <a id="2026-se"></a>SE | 9 | [11](SECOES.md#2026-se-z9) | [10](SECOES.md#2026-se-z9) | [3.572](SECOES.md#2026-se-z9) | [3.198](SECOES.md#2026-se-z9) |
-| PR | 97 | [10](SECOES.md#2026-pr-z97) | [10](SECOES.md#2026-pr-z97) | [2.997](SECOES.md#2026-pr-z97) | [2.997](SECOES.md#2026-pr-z97) |
 | <a id="2026-ro"></a>RO | 2 | [10](SECOES.md#2026-ro-z2) | [10](SECOES.md#2026-ro-z2) | [3.080](SECOES.md#2026-ro-z2) | [3.080](SECOES.md#2026-ro-z2) |
-| SP | 399 | [10](SECOES.md#2026-sp-z399) | [10](SECOES.md#2026-sp-z399) | [3.487](SECOES.md#2026-sp-z399) | [3.487](SECOES.md#2026-sp-z399) |
-| MG | 194 | [9](SECOES.md#2026-mg-z194) | [9](SECOES.md#2026-mg-z194) | [2.176](SECOES.md#2026-mg-z194) | [2.176](SECOES.md#2026-mg-z194) |
-| SE | 21 | [9](SECOES.md#2026-se-z21) | [9](SECOES.md#2026-se-z21) | [2.603](SECOES.md#2026-se-z21) | [2.603](SECOES.md#2026-se-z21) |
-| MG | 202 | [8](SECOES.md#2026-mg-z202) | [8](SECOES.md#2026-mg-z202) | [2.534](SECOES.md#2026-mg-z202) | [2.534](SECOES.md#2026-mg-z202) |
+| MG | 71 | [13](SECOES.md#2026-mg-z71) | [9](SECOES.md#2026-mg-z71) | [3.913](SECOES.md#2026-mg-z71) | [2.861](SECOES.md#2026-mg-z71) |
+| <a id="2026-mt"></a>MT | 20 | [8](SECOES.md#2026-mt-z20) | [8](SECOES.md#2026-mt-z20) | [1.271](SECOES.md#2026-mt-z20) | [1.271](SECOES.md#2026-mt-z20) |
 | <a id="2026-pa"></a>PA | 90 | [8](SECOES.md#2026-pa-z90) | [8](SECOES.md#2026-pa-z90) | [2.463](SECOES.md#2026-pa-z90) | [2.463](SECOES.md#2026-pa-z90) |
-| PB | 77 | [8](SECOES.md#2026-pb-z77) | [8](SECOES.md#2026-pb-z77) | [2.189](SECOES.md#2026-pb-z77) | [2.189](SECOES.md#2026-pb-z77) |
-| PE | 144 | [8](SECOES.md#2026-pe-z144) | [8](SECOES.md#2026-pe-z144) | [2.524](SECOES.md#2026-pe-z144) | [2.524](SECOES.md#2026-pe-z144) |
-| PR | 9 | [8](SECOES.md#2026-pr-z9) | [8](SECOES.md#2026-pr-z9) | [2.768](SECOES.md#2026-pr-z9) | [2.768](SECOES.md#2026-pr-z9) |
-| PR | 124 | [8](SECOES.md#2026-pr-z124) | [8](SECOES.md#2026-pr-z124) | [2.441](SECOES.md#2026-pr-z124) | [2.441](SECOES.md#2026-pr-z124) |
-| SP | 67 | [8](SECOES.md#2026-sp-z67) | [8](SECOES.md#2026-sp-z67) | [2.106](SECOES.md#2026-sp-z67) | [2.106](SECOES.md#2026-sp-z67) |
-| SP | 275 | [8](SECOES.md#2026-sp-z275) | [8](SECOES.md#2026-sp-z275) | [2.598](SECOES.md#2026-sp-z275) | [2.598](SECOES.md#2026-sp-z275) |
-| <a id="2026-al"></a>AL | 54 | [7](SECOES.md#2026-al-z54) | [7](SECOES.md#2026-al-z54) | [3.448](SECOES.md#2026-al-z54) | [3.448](SECOES.md#2026-al-z54) |
-| BA | 203 | [7](SECOES.md#2026-ba-z203) | [7](SECOES.md#2026-ba-z203) | [2.400](SECOES.md#2026-ba-z203) | [2.400](SECOES.md#2026-ba-z203) |
-| RR | 3 | [7](SECOES.md#2026-rr-z3) | [7](SECOES.md#2026-rr-z3) | [1.899](SECOES.md#2026-rr-z3) | [1.899](SECOES.md#2026-rr-z3) |
-| SP | 317 | [7](SECOES.md#2026-sp-z317) | [7](SECOES.md#2026-sp-z317) | [2.755](SECOES.md#2026-sp-z317) | [2.755](SECOES.md#2026-sp-z317) |
-| GO | 50 | [17](SECOES.md#2026-go-z50) | [6](SECOES.md#2026-go-z50) | [4.275](SECOES.md#2026-go-z50) | [1.105](SECOES.md#2026-go-z50) |
-| AL | 45 | [11](SECOES.md#2026-al-z45) | [6](SECOES.md#2026-al-z45) | [3.059](SECOES.md#2026-al-z45) | [2.091](SECOES.md#2026-al-z45) |
-| MA | 33 | [8](SECOES.md#2026-ma-z33) | [6](SECOES.md#2026-ma-z33) | [2.613](SECOES.md#2026-ma-z33) | [2.173](SECOES.md#2026-ma-z33) |
-| <a id="2026-ac"></a>AC | 9 | [6](SECOES.md#2026-ac-z9) | [6](SECOES.md#2026-ac-z9) | [1.582](SECOES.md#2026-ac-z9) | [1.582](SECOES.md#2026-ac-z9) |
-| AL | 22 | [6](SECOES.md#2026-al-z22) | [6](SECOES.md#2026-al-z22) | [2.191](SECOES.md#2026-al-z22) | [2.191](SECOES.md#2026-al-z22) |
-| BA | 8 | [6](SECOES.md#2026-ba-z8) | [6](SECOES.md#2026-ba-z8) | [1.553](SECOES.md#2026-ba-z8) | [1.553](SECOES.md#2026-ba-z8) |
-| MA | 65 | [6](SECOES.md#2026-ma-z65) | [6](SECOES.md#2026-ma-z65) | [1.605](SECOES.md#2026-ma-z65) | [1.605](SECOES.md#2026-ma-z65) |
-| MG | 185 | [6](SECOES.md#2026-mg-z185) | [6](SECOES.md#2026-mg-z185) | [1.494](SECOES.md#2026-mg-z185) | [1.494](SECOES.md#2026-mg-z185) |
-| MG | 273 | [6](SECOES.md#2026-mg-z273) | [6](SECOES.md#2026-mg-z273) | [1.780](SECOES.md#2026-mg-z273) | [1.780](SECOES.md#2026-mg-z273) |
-| PE | 118 | [6](SECOES.md#2026-pe-z118) | [6](SECOES.md#2026-pe-z118) | [2.378](SECOES.md#2026-pe-z118) | [2.378](SECOES.md#2026-pe-z118) |
-| PR | 26 | [6](SECOES.md#2026-pr-z26) | [6](SECOES.md#2026-pr-z26) | [1.362](SECOES.md#2026-pr-z26) | [1.362](SECOES.md#2026-pr-z26) |
+| MG | 185 | [6](SECOES.md#2026-mg-z185) | [6](SECOES.md#2026-mg-z185) | [1.930](SECOES.md#2026-mg-z185) | [1.930](SECOES.md#2026-mg-z185) |
 | <a id="2026-rs"></a>RS | 164 | [6](SECOES.md#2026-rs-z164) | [6](SECOES.md#2026-rs-z164) | [1.410](SECOES.md#2026-rs-z164) | [1.410](SECOES.md#2026-rs-z164) |
-| SP | 15 | [6](SECOES.md#2026-sp-z15) | [6](SECOES.md#2026-sp-z15) | [1.494](SECOES.md#2026-sp-z15) | [1.494](SECOES.md#2026-sp-z15) |
-| MG | 100 | [16](SECOES.md#2026-mg-z100) | [5](SECOES.md#2026-mg-z100) | [5.115](SECOES.md#2026-mg-z100) | [1.563](SECOES.md#2026-mg-z100) |
-| MA | 47 | [12](SECOES.md#2026-ma-z47) | [5](SECOES.md#2026-ma-z47) | [3.745](SECOES.md#2026-ma-z47) | [1.731](SECOES.md#2026-ma-z47) |
-| AM | 22 | [5](SECOES.md#2026-am-z22) | [5](SECOES.md#2026-am-z22) | [1.918](SECOES.md#2026-am-z22) | [1.918](SECOES.md#2026-am-z22) |
-| AM | 62 | [5](SECOES.md#2026-am-z62) | [5](SECOES.md#2026-am-z62) | [1.780](SECOES.md#2026-am-z62) | [1.780](SECOES.md#2026-am-z62) |
-| AM | 65 | [5](SECOES.md#2026-am-z65) | [5](SECOES.md#2026-am-z65) | [1.803](SECOES.md#2026-am-z65) | [1.803](SECOES.md#2026-am-z65) |
-| AP | 10 | [5](SECOES.md#2026-ap-z10) | [5](SECOES.md#2026-ap-z10) | [1.716](SECOES.md#2026-ap-z10) | [1.716](SECOES.md#2026-ap-z10) |
-| PI | 2 | [5](SECOES.md#2026-pi-z2) | [5](SECOES.md#2026-pi-z2) | [1.628](SECOES.md#2026-pi-z2) | [1.628](SECOES.md#2026-pi-z2) |
-| PR | 157 | [5](SECOES.md#2026-pr-z157) | [5](SECOES.md#2026-pr-z157) | [1.459](SECOES.md#2026-pr-z157) | [1.459](SECOES.md#2026-pr-z157) |
-| SP | 290 | [5](SECOES.md#2026-sp-z290) | [5](SECOES.md#2026-sp-z290) | [1.180](SECOES.md#2026-sp-z290) | [1.180](SECOES.md#2026-sp-z290) |
-| SP | 377 | [5](SECOES.md#2026-sp-z377) | [5](SECOES.md#2026-sp-z377) | [1.415](SECOES.md#2026-sp-z377) | [1.415](SECOES.md#2026-sp-z377) |
-| <a id="2026-to"></a>TO | 7 | [5](SECOES.md#2026-to-z7) | [5](SECOES.md#2026-to-z7) | [1.390](SECOES.md#2026-to-z7) | [1.390](SECOES.md#2026-to-z7) |
-| BA | 127 | – | [5](SECOES.md#2026-ba-z127) | – | [1.391](SECOES.md#2026-ba-z127) |
-| RJ | 188 | – | [5](SECOES.md#2026-rj-z188) | – | [1.880](SECOES.md#2026-rj-z188) |
-| PI | 13 | [11](SECOES.md#2026-pi-z13) | [4](SECOES.md#2026-pi-z13) | [3.017](SECOES.md#2026-pi-z13) | [1.037](SECOES.md#2026-pi-z13) |
-| RR | 5 | [7](SECOES.md#2026-rr-z5) | [4](SECOES.md#2026-rr-z5) | [1.537](SECOES.md#2026-rr-z5) | [779](SECOES.md#2026-rr-z5) |
-| PR | 101 | [5](SECOES.md#2026-pr-z101) | [4](SECOES.md#2026-pr-z101) | [1.049](SECOES.md#2026-pr-z101) | [803](SECOES.md#2026-pr-z101) |
+| SP | 122 | [6](SECOES.md#2026-sp-z122) | [6](SECOES.md#2026-sp-z122) | [2.245](SECOES.md#2026-sp-z122) | [2.245](SECOES.md#2026-sp-z122) |
+| MG | 275 | [11](SECOES.md#2026-mg-z275) | [5](SECOES.md#2026-mg-z275) | [3.744](SECOES.md#2026-mg-z275) | [1.621](SECOES.md#2026-mg-z275) |
+| <a id="2026-ap"></a>AP | 10 | [5](SECOES.md#2026-ap-z10) | [5](SECOES.md#2026-ap-z10) | [1.716](SECOES.md#2026-ap-z10) | [1.716](SECOES.md#2026-ap-z10) |
+| RJ | 188 | [5](SECOES.md#2026-rj-z188) | [5](SECOES.md#2026-rj-z188) | [1.880](SECOES.md#2026-rj-z188) | [1.880](SECOES.md#2026-rj-z188) |
+| <a id="2026-ba"></a>BA | 127 | – | [5](SECOES.md#2026-ba-z127) | – | [1.391](SECOES.md#2026-ba-z127) |
 | <a id="2026-ce"></a>CE | 6 | [4](SECOES.md#2026-ce-z6) | [4](SECOES.md#2026-ce-z6) | [920](SECOES.md#2026-ce-z6) | [920](SECOES.md#2026-ce-z6) |
-| MA | 10 | [4](SECOES.md#2026-ma-z10) | [4](SECOES.md#2026-ma-z10) | [1.374](SECOES.md#2026-ma-z10) | [1.374](SECOES.md#2026-ma-z10) |
-| PR | 80 | [4](SECOES.md#2026-pr-z80) | [4](SECOES.md#2026-pr-z80) | [1.151](SECOES.md#2026-pr-z80) | [1.151](SECOES.md#2026-pr-z80) |
-| PR | 88 | [4](SECOES.md#2026-pr-z88) | [4](SECOES.md#2026-pr-z88) | [991](SECOES.md#2026-pr-z88) | [991](SECOES.md#2026-pr-z88) |
-| SP | 62 | [4](SECOES.md#2026-sp-z62) | [4](SECOES.md#2026-sp-z62) | [479](SECOES.md#2026-sp-z62) | [479](SECOES.md#2026-sp-z62) |
-| BA | 22 | [21](SECOES.md#2026-ba-z22) | [3](SECOES.md#2026-ba-z22) | [6.679](SECOES.md#2026-ba-z22) | [279](SECOES.md#2026-ba-z22) |
-| RR | 9 | [7](SECOES.md#2026-rr-z9) | [3](SECOES.md#2026-rr-z9) | [1.649](SECOES.md#2026-rr-z9) | [818](SECOES.md#2026-rr-z9) |
-| MA | 1 | [3](SECOES.md#2026-ma-z1) | [3](SECOES.md#2026-ma-z1) | [894](SECOES.md#2026-ma-z1) | [894](SECOES.md#2026-ma-z1) |
-| MG | 23 | [3](SECOES.md#2026-mg-z23) | [3](SECOES.md#2026-mg-z23) | [480](SECOES.md#2026-mg-z23) | [480](SECOES.md#2026-mg-z23) |
-| PE | 4 | [3](SECOES.md#2026-pe-z4) | [3](SECOES.md#2026-pe-z4) | [770](SECOES.md#2026-pe-z4) | [770](SECOES.md#2026-pe-z4) |
-| PI | 58 | [3](SECOES.md#2026-pi-z58) | [3](SECOES.md#2026-pi-z58) | [630](SECOES.md#2026-pi-z58) | [630](SECOES.md#2026-pi-z58) |
-| PR | 118 | [3](SECOES.md#2026-pr-z118) | [3](SECOES.md#2026-pr-z118) | [1.050](SECOES.md#2026-pr-z118) | [1.050](SECOES.md#2026-pr-z118) |
+| MG | 272 | [3](SECOES.md#2026-mg-z272) | [3](SECOES.md#2026-mg-z272) | [1.056](SECOES.md#2026-mg-z272) | [1.056](SECOES.md#2026-mg-z272) |
+| MT | 1 | [3](SECOES.md#2026-mt-z1) | [3](SECOES.md#2026-mt-z1) | [936](SECOES.md#2026-mt-z1) | [936](SECOES.md#2026-mt-z1) |
 | RS | 57 | [3](SECOES.md#2026-rs-z57) | [3](SECOES.md#2026-rs-z57) | [1.074](SECOES.md#2026-rs-z57) | [1.074](SECOES.md#2026-rs-z57) |
-| PE | 82 | [16](SECOES.md#2026-pe-z82) | [2](SECOES.md#2026-pe-z82) | [5.416](SECOES.md#2026-pe-z82) | [721](SECOES.md#2026-pe-z82) |
-| GO | 124 | [10](SECOES.md#2026-go-z124) | [2](SECOES.md#2026-go-z124) | [2.961](SECOES.md#2026-go-z124) | [719](SECOES.md#2026-go-z124) |
-| PR | 129 | [9](SECOES.md#2026-pr-z129) | [2](SECOES.md#2026-pr-z129) | [1.985](SECOES.md#2026-pr-z129) | [490](SECOES.md#2026-pr-z129) |
-| PB | 14 | [6](SECOES.md#2026-pb-z14) | [2](SECOES.md#2026-pb-z14) | [1.899](SECOES.md#2026-pb-z14) | [658](SECOES.md#2026-pb-z14) |
-| MA | 31 | [5](SECOES.md#2026-ma-z31) | [2](SECOES.md#2026-ma-z31) | [1.750](SECOES.md#2026-ma-z31) | [704](SECOES.md#2026-ma-z31) |
-| AM | 2 | [2](SECOES.md#2026-am-z2) | [2](SECOES.md#2026-am-z2) | [454](SECOES.md#2026-am-z2) | [454](SECOES.md#2026-am-z2) |
-| BA | 84 | [2](SECOES.md#2026-ba-z84) | [2](SECOES.md#2026-ba-z84) | [364](SECOES.md#2026-ba-z84) | [364](SECOES.md#2026-ba-z84) |
-| GO | 55 | [2](SECOES.md#2026-go-z55) | [2](SECOES.md#2026-go-z55) | [516](SECOES.md#2026-go-z55) | [516](SECOES.md#2026-go-z55) |
-| MG | 206 | [2](SECOES.md#2026-mg-z206) | [2](SECOES.md#2026-mg-z206) | [452](SECOES.md#2026-mg-z206) | [452](SECOES.md#2026-mg-z206) |
-| PE | 60 | [2](SECOES.md#2026-pe-z60) | [2](SECOES.md#2026-pe-z60) | [756](SECOES.md#2026-pe-z60) | [756](SECOES.md#2026-pe-z60) |
-| PI | 5 | [2](SECOES.md#2026-pi-z5) | [2](SECOES.md#2026-pi-z5) | [247](SECOES.md#2026-pi-z5) | [247](SECOES.md#2026-pi-z5) |
-| PR | 50 | [2](SECOES.md#2026-pr-z50) | [2](SECOES.md#2026-pr-z50) | [641](SECOES.md#2026-pr-z50) | [641](SECOES.md#2026-pr-z50) |
-| PR | 177 | [2](SECOES.md#2026-pr-z177) | [2](SECOES.md#2026-pr-z177) | [600](SECOES.md#2026-pr-z177) | [600](SECOES.md#2026-pr-z177) |
+| PR | 34 | [4](SECOES.md#2026-pr-z34) | [2](SECOES.md#2026-pr-z34) | [933](SECOES.md#2026-pr-z34) | [472](SECOES.md#2026-pr-z34) |
+| PA | 83 | [2](SECOES.md#2026-pa-z83) | [2](SECOES.md#2026-pa-z83) | [731](SECOES.md#2026-pa-z83) | [731](SECOES.md#2026-pa-z83) |
+| <a id="2026-pe"></a>PE | 60 | [2](SECOES.md#2026-pe-z60) | [2](SECOES.md#2026-pe-z60) | [756](SECOES.md#2026-pe-z60) | [756](SECOES.md#2026-pe-z60) |
 | PR | 203 | [2](SECOES.md#2026-pr-z203) | [2](SECOES.md#2026-pr-z203) | [558](SECOES.md#2026-pr-z203) | [558](SECOES.md#2026-pr-z203) |
-| SE | 4 | [2](SECOES.md#2026-se-z4) | [2](SECOES.md#2026-se-z4) | [622](SECOES.md#2026-se-z4) | [622](SECOES.md#2026-se-z4) |
-| SE | 34 | [2](SECOES.md#2026-se-z34) | [2](SECOES.md#2026-se-z34) | [751](SECOES.md#2026-se-z34) | [751](SECOES.md#2026-se-z34) |
-| MG | 170 | [8](SECOES.md#2026-mg-z170) | [1](SECOES.md#2026-mg-z170) | [1.563](SECOES.md#2026-mg-z170) | [91](SECOES.md#2026-mg-z170) |
-| BA | 42 | [5](SECOES.md#2026-ba-z42) | [1](SECOES.md#2026-ba-z42) | [1.130](SECOES.md#2026-ba-z42) | [336](SECOES.md#2026-ba-z42) |
-| PB | 53 | [3](SECOES.md#2026-pb-z53) | [1](SECOES.md#2026-pb-z53) | [785](SECOES.md#2026-pb-z53) | [257](SECOES.md#2026-pb-z53) |
-| TO | 31 | [2](SECOES.md#2026-to-z31) | [1](SECOES.md#2026-to-z31) | [245](SECOES.md#2026-to-z31) | [141](SECOES.md#2026-to-z31) |
-| AM | 63 | [1](SECOES.md#2026-am-z63) | [1](SECOES.md#2026-am-z63) | [401](SECOES.md#2026-am-z63) | [401](SECOES.md#2026-am-z63) |
+| <a id="2026-se"></a>SE | 34 | [2](SECOES.md#2026-se-z34) | [2](SECOES.md#2026-se-z34) | [751](SECOES.md#2026-se-z34) | [751](SECOES.md#2026-se-z34) |
+| <a id="2026-pi"></a>PI | 20 | [17](SECOES.md#2026-pi-z20) | [1](SECOES.md#2026-pi-z20) | [3.581](SECOES.md#2026-pi-z20) | [88](SECOES.md#2026-pi-z20) |
+| <a id="2026-pb"></a>PB | 53 | [3](SECOES.md#2026-pb-z53) | [1](SECOES.md#2026-pb-z53) | [785](SECOES.md#2026-pb-z53) | [257](SECOES.md#2026-pb-z53) |
 | CE | 117 | [1](SECOES.md#2026-ce-z117) | [1](SECOES.md#2026-ce-z117) | [356](SECOES.md#2026-ce-z117) | [356](SECOES.md#2026-ce-z117) |
-| GO | 76 | [1](SECOES.md#2026-go-z76) | [1](SECOES.md#2026-go-z76) | [212](SECOES.md#2026-go-z76) | [212](SECOES.md#2026-go-z76) |
-| MA | 26 | [1](SECOES.md#2026-ma-z26) | [1](SECOES.md#2026-ma-z26) | [116](SECOES.md#2026-ma-z26) | [116](SECOES.md#2026-ma-z26) |
-| MG | 196 | [1](SECOES.md#2026-mg-z196) | [1](SECOES.md#2026-mg-z196) | [106](SECOES.md#2026-mg-z196) | [106](SECOES.md#2026-mg-z196) |
-| MG | 210 | [1](SECOES.md#2026-mg-z210) | [1](SECOES.md#2026-mg-z210) | [170](SECOES.md#2026-mg-z210) | [170](SECOES.md#2026-mg-z210) |
+| PI | 5 | [1](SECOES.md#2026-pi-z5) | [1](SECOES.md#2026-pi-z5) | [93](SECOES.md#2026-pi-z5) | [93](SECOES.md#2026-pi-z5) |
+| PI | 69 | [1](SECOES.md#2026-pi-z69) | [1](SECOES.md#2026-pi-z69) | [247](SECOES.md#2026-pi-z69) | [247](SECOES.md#2026-pi-z69) |
 | PI | 90 | [1](SECOES.md#2026-pi-z90) | [1](SECOES.md#2026-pi-z90) | [181](SECOES.md#2026-pi-z90) | [181](SECOES.md#2026-pi-z90) |
-| PR | 183 | [1](SECOES.md#2026-pr-z183) | [1](SECOES.md#2026-pr-z183) | [186](SECOES.md#2026-pr-z183) | [186](SECOES.md#2026-pr-z183) |
+| SP | 326 | [1](SECOES.md#2026-sp-z326) | [1](SECOES.md#2026-sp-z326) | [276](SECOES.md#2026-sp-z326) | [276](SECOES.md#2026-sp-z326) |
 | PA | 13 | – | [1](SECOES.md#2026-pa-z13) | – | [252](SECOES.md#2026-pa-z13) |
-| MA | 13 | [40](SECOES.md#2026-ma-z13) | – | [10.377](SECOES.md#2026-ma-z13) | – |
-| AL | 31 | [29](SECOES.md#2026-al-z31) | – | [9.644](SECOES.md#2026-al-z31) | – |
-| PE | 26 | [21](SECOES.md#2026-pe-z26) | – | [6.321](SECOES.md#2026-pe-z26) | – |
-| SP | 1 | [20](SECOES.md#2026-sp-z1) | – | [4.684](SECOES.md#2026-sp-z1) | – |
-| AL | 40 | [18](SECOES.md#2026-al-z40) | – | [4.622](SECOES.md#2026-al-z40) | – |
-| PB | 30 | [16](SECOES.md#2026-pb-z30) | – | [3.859](SECOES.md#2026-pb-z30) | – |
-| PI | 41 | [16](SECOES.md#2026-pi-z41) | – | [4.178](SECOES.md#2026-pi-z41) | – |
-| MA | 8 | [15](SECOES.md#2026-ma-z8) | – | [3.875](SECOES.md#2026-ma-z8) | – |
-| SE | 30 | [14](SECOES.md#2026-se-z30) | – | [4.642](SECOES.md#2026-se-z30) | – |
-| PB | 38 | [13](SECOES.md#2026-pb-z38) | – | [4.278](SECOES.md#2026-pb-z38) | – |
-| PE | 19 | [13](SECOES.md#2026-pe-z19) | – | [2.954](SECOES.md#2026-pe-z19) | – |
-| BA | 64 | [12](SECOES.md#2026-ba-z64) | – | [3.934](SECOES.md#2026-ba-z64) | – |
-| MG | 98 | [12](SECOES.md#2026-mg-z98) | – | [4.574](SECOES.md#2026-mg-z98) | – |
+| MG | 148 | [13](SECOES.md#2026-mg-z148) | – | [2.763](SECOES.md#2026-mg-z148) | – |
+| MG | 193 | [12](SECOES.md#2026-mg-z193) | – | [2.900](SECOES.md#2026-mg-z193) | – |
 | PA | 62 | [12](SECOES.md#2026-pa-z62) | – | [3.912](SECOES.md#2026-pa-z62) | – |
 | <a id="2026-rn"></a>RN | 20 | [12](SECOES.md#2026-rn-z20) | – | [3.766](SECOES.md#2026-rn-z20) | – |
-| MG | 128 | [11](SECOES.md#2026-mg-z128) | – | [3.644](SECOES.md#2026-mg-z128) | – |
-| MG | 253 | [11](SECOES.md#2026-mg-z253) | – | [3.895](SECOES.md#2026-mg-z253) | – |
-| PB | 69 | [11](SECOES.md#2026-pb-z69) | – | [3.517](SECOES.md#2026-pb-z69) | – |
-| BA | 126 | [10](SECOES.md#2026-ba-z126) | – | [2.591](SECOES.md#2026-ba-z126) | – |
-| MA | 22 | [10](SECOES.md#2026-ma-z22) | – | [3.682](SECOES.md#2026-ma-z22) | – |
-| PR | 169 | [10](SECOES.md#2026-pr-z169) | – | [2.978](SECOES.md#2026-pr-z169) | – |
-| RR | 8 | [10](SECOES.md#2026-rr-z8) | – | [2.597](SECOES.md#2026-rr-z8) | – |
-| SE | 13 | [10](SECOES.md#2026-se-z13) | – | [2.881](SECOES.md#2026-se-z13) | – |
-| AL | 12 | [9](SECOES.md#2026-al-z12) | – | [3.216](SECOES.md#2026-al-z12) | – |
-| BA | 43 | [9](SECOES.md#2026-ba-z43) | – | [2.706](SECOES.md#2026-ba-z43) | – |
-| MA | 6 | [9](SECOES.md#2026-ma-z6) | – | [3.046](SECOES.md#2026-ma-z6) | – |
-| MG | 45 | [9](SECOES.md#2026-mg-z45) | – | [2.568](SECOES.md#2026-mg-z45) | – |
-| PB | 67 | [9](SECOES.md#2026-pb-z67) | – | [2.805](SECOES.md#2026-pb-z67) | – |
-| PE | 23 | [9](SECOES.md#2026-pe-z23) | – | [3.460](SECOES.md#2026-pe-z23) | – |
-| PI | 8 | [9](SECOES.md#2026-pi-z8) | – | [2.077](SECOES.md#2026-pi-z8) | – |
+| MG | 345 | [9](SECOES.md#2026-mg-z345) | – | [2.203](SECOES.md#2026-mg-z345) | – |
 | PI | 15 | [9](SECOES.md#2026-pi-z15) | – | [1.926](SECOES.md#2026-pi-z15) | – |
-| PI | 36 | [9](SECOES.md#2026-pi-z36) | – | [2.132](SECOES.md#2026-pi-z36) | – |
 | PI | 46 | [9](SECOES.md#2026-pi-z46) | – | [2.460](SECOES.md#2026-pi-z46) | – |
-| SE | 35 | [9](SECOES.md#2026-se-z35) | – | [2.924](SECOES.md#2026-se-z35) | – |
-| SP | 58 | [9](SECOES.md#2026-sp-z58) | – | [3.366](SECOES.md#2026-sp-z58) | – |
-| AL | 39 | [8](SECOES.md#2026-al-z39) | – | [2.898](SECOES.md#2026-al-z39) | – |
-| MA | 46 | [8](SECOES.md#2026-ma-z46) | – | [2.814](SECOES.md#2026-ma-z46) | – |
-| MG | 179 | [8](SECOES.md#2026-mg-z179) | – | [2.698](SECOES.md#2026-mg-z179) | – |
-| PE | 35 | [8](SECOES.md#2026-pe-z35) | – | [2.975](SECOES.md#2026-pe-z35) | – |
-| PI | 89 | [8](SECOES.md#2026-pi-z89) | – | [1.807](SECOES.md#2026-pi-z89) | – |
+| MA | 84 | [8](SECOES.md#2026-ma-z84) | – | [1.384](SECOES.md#2026-ma-z84) | – |
+| MT | 28 | [8](SECOES.md#2026-mt-z28) | – | [2.832](SECOES.md#2026-mt-z28) | – |
 | RN | 36 | [8](SECOES.md#2026-rn-z36) | – | [2.262](SECOES.md#2026-rn-z36) | – |
-| SE | 15 | [8](SECOES.md#2026-se-z15) | – | [2.920](SECOES.md#2026-se-z15) | – |
-| AL | 6 | [7](SECOES.md#2026-al-z6) | – | [2.076](SECOES.md#2026-al-z6) | – |
-| AP | 12 | [7](SECOES.md#2026-ap-z12) | – | [2.519](SECOES.md#2026-ap-z12) | – |
-| BA | 78 | [7](SECOES.md#2026-ba-z78) | – | [1.996](SECOES.md#2026-ba-z78) | – |
-| BA | 128 | [7](SECOES.md#2026-ba-z128) | – | [2.049](SECOES.md#2026-ba-z128) | – |
-| GO | 38 | [7](SECOES.md#2026-go-z38) | – | [1.543](SECOES.md#2026-go-z38) | – |
-| MG | 339 | [7](SECOES.md#2026-mg-z339) | – | [2.122](SECOES.md#2026-mg-z339) | – |
-| PE | 80 | [7](SECOES.md#2026-pe-z80) | – | [2.135](SECOES.md#2026-pe-z80) | – |
-| PE | 81 | [7](SECOES.md#2026-pe-z81) | – | [2.199](SECOES.md#2026-pe-z81) | – |
-| PR | 64 | [7](SECOES.md#2026-pr-z64) | – | [2.200](SECOES.md#2026-pr-z64) | – |
-| PR | 91 | [7](SECOES.md#2026-pr-z91) | – | [2.167](SECOES.md#2026-pr-z91) | – |
-| PR | 96 | [7](SECOES.md#2026-pr-z96) | – | [2.075](SECOES.md#2026-pr-z96) | – |
-| PR | 167 | [7](SECOES.md#2026-pr-z167) | – | [1.925](SECOES.md#2026-pr-z167) | – |
-| PR | 171 | [7](SECOES.md#2026-pr-z171) | – | [2.480](SECOES.md#2026-pr-z171) | – |
+| <a id="2026-es"></a>ES | 18 | [7](SECOES.md#2026-es-z18) | – | [1.912](SECOES.md#2026-es-z18) | – |
 | RS | 52 | [7](SECOES.md#2026-rs-z52) | – | [1.983](SECOES.md#2026-rs-z52) | – |
-| SE | 6 | [7](SECOES.md#2026-se-z6) | – | [1.948](SECOES.md#2026-se-z6) | – |
-| MA | 95 | [6](SECOES.md#2026-ma-z95) | – | [897](SECOES.md#2026-ma-z95) | – |
-| MA | 96 | [6](SECOES.md#2026-ma-z96) | – | [1.477](SECOES.md#2026-ma-z96) | – |
-| MA | 109 | [6](SECOES.md#2026-ma-z109) | – | [2.307](SECOES.md#2026-ma-z109) | – |
-| MG | 54 | [6](SECOES.md#2026-mg-z54) | – | [1.234](SECOES.md#2026-mg-z54) | – |
-| MG | 112 | [6](SECOES.md#2026-mg-z112) | – | [1.385](SECOES.md#2026-mg-z112) | – |
-| PE | 21 | [6](SECOES.md#2026-pe-z21) | – | [1.874](SECOES.md#2026-pe-z21) | – |
-| PE | 89 | [6](SECOES.md#2026-pe-z89) | – | [2.185](SECOES.md#2026-pe-z89) | – |
-| PR | 18 | [6](SECOES.md#2026-pr-z18) | – | [2.043](SECOES.md#2026-pr-z18) | – |
-| PR | 83 | [6](SECOES.md#2026-pr-z83) | – | [1.957](SECOES.md#2026-pr-z83) | – |
-| AP | 1 | [5](SECOES.md#2026-ap-z1) | – | [1.471](SECOES.md#2026-ap-z1) | – |
-| BA | 182 | [5](SECOES.md#2026-ba-z182) | – | [1.397](SECOES.md#2026-ba-z182) | – |
-| MA | 18 | [5](SECOES.md#2026-ma-z18) | – | [495](SECOES.md#2026-ma-z18) | – |
-| MA | 37 | [5](SECOES.md#2026-ma-z37) | – | [651](SECOES.md#2026-ma-z37) | – |
+| PA | 8 | [6](SECOES.md#2026-pa-z8) | – | [1.754](SECOES.md#2026-pa-z8) | – |
+| MA | 40 | [5](SECOES.md#2026-ma-z40) | – | [1.500](SECOES.md#2026-ma-z40) | – |
+| PA | 15 | [5](SECOES.md#2026-pa-z15) | – | [1.828](SECOES.md#2026-pa-z15) | – |
 | PA | 50 | [5](SECOES.md#2026-pa-z50) | – | [1.806](SECOES.md#2026-pa-z50) | – |
-| PB | 6 | [5](SECOES.md#2026-pb-z6) | – | [1.339](SECOES.md#2026-pb-z6) | – |
-| PE | 91 | [5](SECOES.md#2026-pe-z91) | – | [1.818](SECOES.md#2026-pe-z91) | – |
-| PE | 143 | [5](SECOES.md#2026-pe-z143) | – | [964](SECOES.md#2026-pe-z143) | – |
-| PI | 19 | [5](SECOES.md#2026-pi-z19) | – | [1.187](SECOES.md#2026-pi-z19) | – |
-| PR | 13 | [5](SECOES.md#2026-pr-z13) | – | [1.485](SECOES.md#2026-pr-z13) | – |
-| PR | 25 | [5](SECOES.md#2026-pr-z25) | – | [1.473](SECOES.md#2026-pr-z25) | – |
-| TO | 10 | [5](SECOES.md#2026-to-z10) | – | [545](SECOES.md#2026-to-z10) | – |
-| TO | 14 | [5](SECOES.md#2026-to-z14) | – | [1.112](SECOES.md#2026-to-z14) | – |
-| TO | 15 | [5](SECOES.md#2026-to-z15) | – | [1.237](SECOES.md#2026-to-z15) | – |
-| AC | 6 | [4](SECOES.md#2026-ac-z6) | – | [1.030](SECOES.md#2026-ac-z6) | – |
-| <a id="2026-es"></a>ES | 16 | [4](SECOES.md#2026-es-z16) | – | [1.072](SECOES.md#2026-es-z16) | – |
-| GO | 87 | [4](SECOES.md#2026-go-z87) | – | [1.464](SECOES.md#2026-go-z87) | – |
+| PB | 69 | [5](SECOES.md#2026-pb-z69) | – | [1.453](SECOES.md#2026-pb-z69) | – |
+| ES | 16 | [4](SECOES.md#2026-es-z16) | – | [1.072](SECOES.md#2026-es-z16) | – |
 | MA | 108 | [4](SECOES.md#2026-ma-z108) | – | [1.102](SECOES.md#2026-ma-z108) | – |
-| MG | 5 | [4](SECOES.md#2026-mg-z5) | – | [1.272](SECOES.md#2026-mg-z5) | – |
-| MG | 7 | [4](SECOES.md#2026-mg-z7) | – | [1.095](SECOES.md#2026-mg-z7) | – |
-| MG | 58 | [4](SECOES.md#2026-mg-z58) | – | [1.512](SECOES.md#2026-mg-z58) | – |
-| MG | 144 | [4](SECOES.md#2026-mg-z144) | – | [1.079](SECOES.md#2026-mg-z144) | – |
+| MG | 25 | [4](SECOES.md#2026-mg-z25) | – | [1.083](SECOES.md#2026-mg-z25) | – |
+| MG | 150 | [4](SECOES.md#2026-mg-z150) | – | [1.078](SECOES.md#2026-mg-z150) | – |
+| MG | 213 | [4](SECOES.md#2026-mg-z213) | – | [1.319](SECOES.md#2026-mg-z213) | – |
 | MG | 320 | [4](SECOES.md#2026-mg-z320) | – | [1.439](SECOES.md#2026-mg-z320) | – |
-| PA | 8 | [4](SECOES.md#2026-pa-z8) | – | [1.306](SECOES.md#2026-pa-z8) | – |
 | PE | 72 | [4](SECOES.md#2026-pe-z72) | – | [1.567](SECOES.md#2026-pe-z72) | – |
-| PE | 83 | [4](SECOES.md#2026-pe-z83) | – | [1.472](SECOES.md#2026-pe-z83) | – |
-| PI | 16 | [4](SECOES.md#2026-pi-z16) | – | [875](SECOES.md#2026-pi-z16) | – |
-| PR | 139 | [4](SECOES.md#2026-pr-z139) | – | [1.016](SECOES.md#2026-pr-z139) | – |
-| TO | 5 | [4](SECOES.md#2026-to-z5) | – | [778](SECOES.md#2026-to-z5) | – |
-| TO | 25 | [4](SECOES.md#2026-to-z25) | – | [944](SECOES.md#2026-to-z25) | – |
-| AC | 2 | [3](SECOES.md#2026-ac-z2) | – | [493](SECOES.md#2026-ac-z2) | – |
-| BA | 141 | [3](SECOES.md#2026-ba-z141) | – | [1.109](SECOES.md#2026-ba-z141) | – |
+| PR | 192 | [4](SECOES.md#2026-pr-z192) | – | [1.092](SECOES.md#2026-pr-z192) | – |
+| <a id="2026-am"></a>AM | 26 | [3](SECOES.md#2026-am-z26) | – | [1.115](SECOES.md#2026-am-z26) | – |
 | CE | 4 | [3](SECOES.md#2026-ce-z4) | – | [919](SECOES.md#2026-ce-z4) | – |
 | ES | 10 | [3](SECOES.md#2026-es-z10) | – | [885](SECOES.md#2026-es-z10) | – |
-| MA | 15 | [3](SECOES.md#2026-ma-z15) | – | [616](SECOES.md#2026-ma-z15) | – |
-| MA | 21 | [3](SECOES.md#2026-ma-z21) | – | [519](SECOES.md#2026-ma-z21) | – |
-| MG | 255 | [3](SECOES.md#2026-mg-z255) | – | [934](SECOES.md#2026-mg-z255) | – |
-| MG | 294 | [3](SECOES.md#2026-mg-z294) | – | [463](SECOES.md#2026-mg-z294) | – |
-| PE | 28 | [3](SECOES.md#2026-pe-z28) | – | [947](SECOES.md#2026-pe-z28) | – |
-| PI | 30 | [3](SECOES.md#2026-pi-z30) | – | [588](SECOES.md#2026-pi-z30) | – |
-| PI | 33 | [3](SECOES.md#2026-pi-z33) | – | [641](SECOES.md#2026-pi-z33) | – |
-| PR | 30 | [3](SECOES.md#2026-pr-z30) | – | [1.076](SECOES.md#2026-pr-z30) | – |
-| PR | 86 | [3](SECOES.md#2026-pr-z86) | – | [799](SECOES.md#2026-pr-z86) | – |
-| PR | 144 | [3](SECOES.md#2026-pr-z144) | – | [716](SECOES.md#2026-pr-z144) | – |
-| PR | 147 | [3](SECOES.md#2026-pr-z147) | – | [1.116](SECOES.md#2026-pr-z147) | – |
+| MG | 135 | [3](SECOES.md#2026-mg-z135) | – | [857](SECOES.md#2026-mg-z135) | – |
+| MG | 197 | [3](SECOES.md#2026-mg-z197) | – | [889](SECOES.md#2026-mg-z197) | – |
+| PA | 31 | [3](SECOES.md#2026-pa-z31) | – | [676](SECOES.md#2026-pa-z31) | – |
+| PI | 13 | [3](SECOES.md#2026-pi-z13) | – | [652](SECOES.md#2026-pi-z13) | – |
 | PR | 159 | [3](SECOES.md#2026-pr-z159) | – | [1.056](SECOES.md#2026-pr-z159) | – |
+| PR | 171 | [3](SECOES.md#2026-pr-z171) | – | [1.065](SECOES.md#2026-pr-z171) | – |
 | RN | 43 | [3](SECOES.md#2026-rn-z43) | – | [527](SECOES.md#2026-rn-z43) | – |
-| SP | 26 | [3](SECOES.md#2026-sp-z26) | – | [896](SECOES.md#2026-sp-z26) | – |
-| TO | 13 | [3](SECOES.md#2026-to-z13) | – | [534](SECOES.md#2026-to-z13) | – |
-| AL | 5 | [2](SECOES.md#2026-al-z5) | – | [726](SECOES.md#2026-al-z5) | – |
-| AL | 37 | [2](SECOES.md#2026-al-z37) | – | [690](SECOES.md#2026-al-z37) | – |
-| BA | 74 | [2](SECOES.md#2026-ba-z74) | – | [512](SECOES.md#2026-ba-z74) | – |
-| BA | 87 | [2](SECOES.md#2026-ba-z87) | – | [437](SECOES.md#2026-ba-z87) | – |
-| BA | 88 | [2](SECOES.md#2026-ba-z88) | – | [289](SECOES.md#2026-ba-z88) | – |
+| AM | 36 | [2](SECOES.md#2026-am-z36) | – | [794](SECOES.md#2026-am-z36) | – |
+| AM | 69 | [2](SECOES.md#2026-am-z69) | – | [709](SECOES.md#2026-am-z69) | – |
+| BA | 63 | [2](SECOES.md#2026-ba-z63) | – | [705](SECOES.md#2026-ba-z63) | – |
 | BA | 103 | [2](SECOES.md#2026-ba-z103) | – | [553](SECOES.md#2026-ba-z103) | – |
-| BA | 130 | [2](SECOES.md#2026-ba-z130) | – | [743](SECOES.md#2026-ba-z130) | – |
-| BA | 158 | [2](SECOES.md#2026-ba-z158) | – | [550](SECOES.md#2026-ba-z158) | – |
 | BA | 184 | [2](SECOES.md#2026-ba-z184) | – | [678](SECOES.md#2026-ba-z184) | – |
-| BA | 190 | [2](SECOES.md#2026-ba-z190) | – | [529](SECOES.md#2026-ba-z190) | – |
+| CE | 53 | [2](SECOES.md#2026-ce-z53) | – | [559](SECOES.md#2026-ce-z53) | – |
+| ES | 36 | [2](SECOES.md#2026-es-z36) | – | [225](SECOES.md#2026-es-z36) | – |
+| MA | 50 | [2](SECOES.md#2026-ma-z50) | – | [299](SECOES.md#2026-ma-z50) | – |
 | MA | 67 | [2](SECOES.md#2026-ma-z67) | – | [374](SECOES.md#2026-ma-z67) | – |
-| MA | 93 | [2](SECOES.md#2026-ma-z93) | – | [407](SECOES.md#2026-ma-z93) | – |
+| MA | 107 | [2](SECOES.md#2026-ma-z107) | – | [488](SECOES.md#2026-ma-z107) | – |
+| MA | 110 | [2](SECOES.md#2026-ma-z110) | – | [627](SECOES.md#2026-ma-z110) | – |
+| MG | 5 | [2](SECOES.md#2026-mg-z5) | – | [637](SECOES.md#2026-mg-z5) | – |
+| MG | 138 | [2](SECOES.md#2026-mg-z138) | – | [517](SECOES.md#2026-mg-z138) | – |
 | MG | 171 | [2](SECOES.md#2026-mg-z171) | – | [700](SECOES.md#2026-mg-z171) | – |
 | MG | 280 | [2](SECOES.md#2026-mg-z280) | – | [286](SECOES.md#2026-mg-z280) | – |
-| MG | 285 | [2](SECOES.md#2026-mg-z285) | – | [331](SECOES.md#2026-mg-z285) | – |
-| PE | 33 | [2](SECOES.md#2026-pe-z33) | – | [302](SECOES.md#2026-pe-z33) | – |
-| PE | 34 | [2](SECOES.md#2026-pe-z34) | – | [730](SECOES.md#2026-pe-z34) | – |
-| PE | 45 | [2](SECOES.md#2026-pe-z45) | – | [382](SECOES.md#2026-pe-z45) | – |
-| PE | 112 | [2](SECOES.md#2026-pe-z112) | – | [194](SECOES.md#2026-pe-z112) | – |
-| PE | 149 | [2](SECOES.md#2026-pe-z149) | – | [561](SECOES.md#2026-pe-z149) | – |
-| PI | 48 | [2](SECOES.md#2026-pi-z48) | – | [451](SECOES.md#2026-pi-z48) | – |
-| PI | 57 | [2](SECOES.md#2026-pi-z57) | – | [372](SECOES.md#2026-pi-z57) | – |
-| PR | 36 | [2](SECOES.md#2026-pr-z36) | – | [687](SECOES.md#2026-pr-z36) | – |
-| PR | 106 | [2](SECOES.md#2026-pr-z106) | – | [433](SECOES.md#2026-pr-z106) | – |
-| TO | 12 | [2](SECOES.md#2026-to-z12) | – | [376](SECOES.md#2026-to-z12) | – |
-| AL | 11 | [1](SECOES.md#2026-al-z11) | – | [238](SECOES.md#2026-al-z11) | – |
-| AL | 19 | [1](SECOES.md#2026-al-z19) | – | [187](SECOES.md#2026-al-z19) | – |
-| AL | 47 | [1](SECOES.md#2026-al-z47) | – | [174](SECOES.md#2026-al-z47) | – |
-| AM | 32 | [1](SECOES.md#2026-am-z32) | – | [151](SECOES.md#2026-am-z32) | – |
-| BA | 85 | [1](SECOES.md#2026-ba-z85) | – | [333](SECOES.md#2026-ba-z85) | – |
-| BA | 90 | [1](SECOES.md#2026-ba-z90) | – | [244](SECOES.md#2026-ba-z90) | – |
-| BA | 179 | [1](SECOES.md#2026-ba-z179) | – | [307](SECOES.md#2026-ba-z179) | – |
+| MG | 340 | [2](SECOES.md#2026-mg-z340) | – | [513](SECOES.md#2026-mg-z340) | – |
+| PE | 44 | [2](SECOES.md#2026-pe-z44) | – | [590](SECOES.md#2026-pe-z44) | – |
+| <a id="2026-to"></a>TO | 11 | [2](SECOES.md#2026-to-z11) | – | [382](SECOES.md#2026-to-z11) | – |
+| <a id="2026-al"></a>AL | 11 | [1](SECOES.md#2026-al-z11) | – | [238](SECOES.md#2026-al-z11) | – |
 | BA | 185 | [1](SECOES.md#2026-ba-z185) | – | [375](SECOES.md#2026-ba-z185) | – |
-| MA | 64 | [1](SECOES.md#2026-ma-z64) | – | [189](SECOES.md#2026-ma-z64) | – |
-| MA | 81 | [1](SECOES.md#2026-ma-z81) | – | [188](SECOES.md#2026-ma-z81) | – |
-| MG | 120 | [1](SECOES.md#2026-mg-z120) | – | [225](SECOES.md#2026-mg-z120) | – |
-| MG | 136 | [1](SECOES.md#2026-mg-z136) | – | [190](SECOES.md#2026-mg-z136) | – |
-| MG | 147 | [1](SECOES.md#2026-mg-z147) | – | [302](SECOES.md#2026-mg-z147) | – |
-| MG | 197 | [1](SECOES.md#2026-mg-z197) | – | [102](SECOES.md#2026-mg-z197) | – |
-| MG | 208 | [1](SECOES.md#2026-mg-z208) | – | [131](SECOES.md#2026-mg-z208) | – |
+| CE | 40 | [1](SECOES.md#2026-ce-z40) | – | [95](SECOES.md#2026-ce-z40) | – |
+| CE | 119 | [1](SECOES.md#2026-ce-z119) | – | [186](SECOES.md#2026-ce-z119) | – |
+| MA | 18 | [1](SECOES.md#2026-ma-z18) | – | [60](SECOES.md#2026-ma-z18) | – |
+| MG | 128 | [1](SECOES.md#2026-mg-z128) | – | [367](SECOES.md#2026-mg-z128) | – |
 | MG | 303 | [1](SECOES.md#2026-mg-z303) | – | [341](SECOES.md#2026-mg-z303) | – |
-| MG | 324 | [1](SECOES.md#2026-mg-z324) | – | [119](SECOES.md#2026-mg-z324) | – |
 | <a id="2026-ms"></a>MS | 16 | [1](SECOES.md#2026-ms-z16) | – | [70](SECOES.md#2026-ms-z16) | – |
-| PE | 65 | [1](SECOES.md#2026-pe-z65) | – | [259](SECOES.md#2026-pe-z65) | – |
-| PE | 76 | [1](SECOES.md#2026-pe-z76) | – | [251](SECOES.md#2026-pe-z76) | – |
-| PE | 98 | [1](SECOES.md#2026-pe-z98) | – | [349](SECOES.md#2026-pe-z98) | – |
-| PI | 21 | [1](SECOES.md#2026-pi-z21) | – | [145](SECOES.md#2026-pi-z21) | – |
-| PI | 40 | [1](SECOES.md#2026-pi-z40) | – | [135](SECOES.md#2026-pi-z40) | – |
-| PI | 88 | [1](SECOES.md#2026-pi-z88) | – | [266](SECOES.md#2026-pi-z88) | – |
-| PR | 22 | [1](SECOES.md#2026-pr-z22) | – | [151](SECOES.md#2026-pr-z22) | – |
-| PR | 71 | [1](SECOES.md#2026-pr-z71) | – | [321](SECOES.md#2026-pr-z71) | – |
-| PR | 107 | [1](SECOES.md#2026-pr-z107) | – | [240](SECOES.md#2026-pr-z107) | – |
-| PR | 141 | [1](SECOES.md#2026-pr-z141) | – | [201](SECOES.md#2026-pr-z141) | – |
-| PR | 196 | [1](SECOES.md#2026-pr-z196) | – | [112](SECOES.md#2026-pr-z196) | – |
+| PR | 83 | [1](SECOES.md#2026-pr-z83) | – | [216](SECOES.md#2026-pr-z83) | – |
 | RN | 49 | [1](SECOES.md#2026-rn-z49) | – | [385](SECOES.md#2026-rn-z49) | – |
-| RR | 4 | [1](SECOES.md#2026-rr-z4) | – | [291](SECOES.md#2026-rr-z4) | – |
+| RO | 1 | [1](SECOES.md#2026-ro-z1) | – | [262](SECOES.md#2026-ro-z1) | – |
+| RO | 3 | [1](SECOES.md#2026-ro-z3) | – | [216](SECOES.md#2026-ro-z3) | – |
 | RS | 23 | [1](SECOES.md#2026-rs-z23) | – | [81](SECOES.md#2026-rs-z23) | – |
-| RS | 55 | [1](SECOES.md#2026-rs-z55) | – | [144](SECOES.md#2026-rs-z55) | – |
+| RS | 55 | [1](SECOES.md#2026-rs-z55) | – | [229](SECOES.md#2026-rs-z55) | – |
 | RS | 79 | [1](SECOES.md#2026-rs-z79) | – | [296](SECOES.md#2026-rs-z79) | – |
-| RS | 83 | [1](SECOES.md#2026-rs-z83) | – | [355](SECOES.md#2026-rs-z83) | – |
-| SP | 16 | [1](SECOES.md#2026-sp-z16) | – | [210](SECOES.md#2026-sp-z16) | – |
-| TO | 21 | [1](SECOES.md#2026-to-z21) | – | [326](SECOES.md#2026-to-z21) | – |
-| TO | 28 | [1](SECOES.md#2026-to-z28) | – | [231](SECOES.md#2026-to-z28) | – |
 

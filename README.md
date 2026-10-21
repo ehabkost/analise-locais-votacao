@@ -13,7 +13,7 @@ Seções casadas pela chave UF + município + zona + seção.
 | 2020 | Municipal | 113.764 | **58** | 0,051% | **95** | 0,084% |
 | 2022 | Geral | 496.856 | **1.387** | 0,279% | **620** | 0,125% |
 | 2024 | Municipal | 98.863 | **126** | 0,127% | **146** | 0,148% |
-| 2026 | Geral | 517.179 | **2.053** | 0,397% | **933** | 0,180% |
+| 2026 | Geral | 517.179 | **446** | 0,086% | **198** | 0,038% |
 
 Totais e listas detalhadas (UFs, municípios, zonas, seções, eleitores, locais, endereços) por ano: [`resultados/`](resultados/TOTAIS.md). Script: [`mudancas_secoes.py`](mudancas_secoes.py).
 
@@ -26,5 +26,5 @@ Totais e listas detalhadas (UFs, municípios, zonas, seções, eleitores, locais
 ## Ressalvas
 
 - Nas eleições municipais só há 2º turno nos municípios com disputa; comparam-se apenas as seções deles.
-- Os dados de 2026 foram gerados em 17/10/2026 e podem estar desatualizados.
+- Os dados de 2026 foram gerados em 20/10/2026 e podem estar desatualizados.
 - Em 2010 uma seção duplicada foi descartada.

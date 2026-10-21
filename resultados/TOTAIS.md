@@ -14,7 +14,7 @@ Eleitores = soma de `QT_ELEITOR_SECAO` (1º turno) das seções afetadas. Cada v
 | 2020 | [6](UFS.md#2020) | [6](MUNICIPIOS.md#2020) | [8](ZONAS.md#2020) | [58](SECOES.md#2020) | [17.309](ELEITORES.md#2020) | [47](LOCAIS.md#2020) | 47 |
 | 2022 | [26](UFS.md#2022) | [242](MUNICIPIOS.md#2022) | [219](ZONAS.md#2022) | [1.387](SECOES.md#2022) | [418.581](ELEITORES.md#2022) | [824](LOCAIS.md#2022) | 776 |
 | 2024 | [7](UFS.md#2024) | [8](MUNICIPIOS.md#2024) | [12](ZONAS.md#2024) | [126](SECOES.md#2024) | [42.624](ELEITORES.md#2024) | [49](LOCAIS.md#2024) | 49 |
-| 2026 | [23](UFS.md#2026) | [336](MUNICIPIOS.md#2026) | [294](ZONAS.md#2026) | [2.053](SECOES.md#2026) | [595.423](ELEITORES.md#2026) | [1.122](LOCAIS.md#2026) | 1.082 |
+| 2026 | [22](UFS.md#2026) | [112](MUNICIPIOS.md#2026) | [99](ZONAS.md#2026) | [446](SECOES.md#2026) | [127.586](ELEITORES.md#2026) | [294](LOCAIS.md#2026) | 280 |
 
 ## Critério: mudou endereço (endereço normalizado E CEP diferentes)
 
@@ -28,6 +28,6 @@ Eleitores = soma de `QT_ELEITOR_SECAO` (1º turno) das seções afetadas. Cada v
 | 2020 | [7](UFS.md#2020) | [7](MUNICIPIOS.md#2020) | [11](ZONAS.md#2020) | [95](SECOES.md#2020) | [31.931](ELEITORES.md#2020) | [43](LOCAIS.md#2020) | [43](ENDERECOS.md#2020) |
 | 2022 | [21](UFS.md#2022) | [61](MUNICIPIOS.md#2022) | [69](ZONAS.md#2022) | [620](SECOES.md#2022) | [196.388](ELEITORES.md#2022) | [262](LOCAIS.md#2022) | [261](ENDERECOS.md#2022) |
 | 2024 | [8](UFS.md#2024) | [9](MUNICIPIOS.md#2024) | [13](ZONAS.md#2024) | [146](SECOES.md#2024) | [50.015](ELEITORES.md#2024) | [46](LOCAIS.md#2024) | [49](ENDERECOS.md#2024) |
-| 2026 | [21](UFS.md#2026) | [108](MUNICIPIOS.md#2026) | [120](ZONAS.md#2026) | [933](SECOES.md#2026) | [282.814](ELEITORES.md#2026) | [387](LOCAIS.md#2026) | [390](ENDERECOS.md#2026) |
+| 2026 | [17](UFS.md#2026) | [34](MUNICIPIOS.md#2026) | [35](ZONAS.md#2026) | [198](SECOES.md#2026) | [61.294](ELEITORES.md#2026) | [80](LOCAIS.md#2026) | [83](ENDERECOS.md#2026) |
 
 Listas detalhadas por ano: [UFS](UFS.md), [MUNICIPIOS](MUNICIPIOS.md), [ZONAS](ZONAS.md), [SECOES](SECOES.md), [ELEITORES](ELEITORES.md), [LOCAIS](LOCAIS.md), [ENDERECOS](ENDERECOS.md).
